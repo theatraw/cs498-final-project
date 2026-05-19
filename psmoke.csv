@@ -1,0 +1,16 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+glucose,10pipe_q0_k.cnf,benchmarks/10pipe_q0_k.cnf,UNSAT,51.37019491195679,20.0,False,1333836.0,12741042.0,1417869233.0,3760.0,77639.0,2082016.0,50.5197,6696.0,33.0,841522.0,44.0,5487.0,4673.0,97.0,6149.0,,,,,,,,,
+maplesat,10pipe_q0_k.cnf,benchmarks/10pipe_q0_k.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,10pipe_q0_k.cnf,benchmarks/10pipe_q0_k.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,15pipe_q0_k.cnf,benchmarks/15pipe_q0_k.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+glucose,15pipe_q0_k.cnf,benchmarks/15pipe_q0_k.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+maplesat,15pipe_q0_k.cnf,benchmarks/15pipe_q0_k.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,16_1.cnf,benchmarks/16_1.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,170223547.cnf,benchmarks/170223547.cnf,SAT,0.33046817779541016,10.0,False,28011.0,40977.0,1478795.0,294.0,,,,,,,,,,,,27221.0,14061.0,1241.0,940.0,4.0,0.32,0.32,14912.0,10.0
+glucose,16_1.cnf,benchmarks/16_1.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+maplesat,16_1.cnf,benchmarks/16_1.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+glucose,170223547.cnf,benchmarks/170223547.cnf,TIMEOUT,60.0,,True,,,,,322.0,1127.0,,,,,,,,,,,,,,,,,,
+maplesat,170223547.cnf,benchmarks/170223547.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,17_0.cnf,benchmarks/17_0.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+glucose,17_0.cnf,benchmarks/17_0.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+maplesat,17_0.cnf,benchmarks/17_0.cnf,TIMEOUT,60.0,,True,,,,,,,,,,,,,,,,,,,,,,,,

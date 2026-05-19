@@ -1,0 +1,5 @@
+Task 96/1199
+Solver: cadical
+CNF: benchmarks/6s166.cnf
+Done: cadical 6s166.cnf UNSAT 3.27s
+Saved results/job_00096.csv

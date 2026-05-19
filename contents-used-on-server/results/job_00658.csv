@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,qwh.40.560.shuffled-as.sat03-1654.cnf,benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf,SAT,85.40147614479065,10,False,False,801887,2873793,192823321,6076,3100,26345,84.7526,0,24,706399,137.0,192,115,0,1482

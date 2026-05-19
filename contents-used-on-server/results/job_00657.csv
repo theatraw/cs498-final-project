@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,qwh.40.560.shuffled-as.sat03-1654.cnf,benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf,SAT,8.404396772384644,10,False,False,84228,545985,38049785,2788,,,,80429,58810,1845,4601,863,8.3,8.39,68.0,10

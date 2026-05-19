@@ -1,0 +1,4 @@
+[2026-05-18T11:56:11.054] error: namespace_p_join: open failed for /local/slurmjobs/18321046/.ns: No such file or directory
+[2026-05-18T11:56:11.057] error: namespace_g_join(JobId=18321046 SLUID=s0NDKRXZQB4500) failed
+[2026-05-18T11:56:11.083] error: _exec_wait_signal_child: write(fd:20) to unblock task 0 failed
+[2026-05-18T11:56:11.084] error: *** JOB 18321046 ON cn115 CANCELLED AT 2026-05-18T11:56:11 DUE to SIGNAL Terminated ***

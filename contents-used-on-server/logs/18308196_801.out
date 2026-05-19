@@ -1,0 +1,5 @@
+Task 801/1199
+Solver: cadical
+CNF: benchmarks/velev-pipe-o-uns-1.0-7.cnf
+Done: cadical velev-pipe-o-uns-1.0-7.cnf TIMEOUT 300.00s
+Saved results/job_00801.csv

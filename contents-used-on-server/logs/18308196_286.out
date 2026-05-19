@@ -1,0 +1,5 @@
+Task 286/1199
+Solver: glucose
+CNF: benchmarks/sat-bench-trig-taylor4.cnf
+Done: glucose sat-bench-trig-taylor4.cnf TIMEOUT 300.00s
+Saved results/job_00286.csv

@@ -1,0 +1,5 @@
+Task 360/1199
+Solver: cadical
+CNF: benchmarks/mp1-klieber2017s-1600-022-eq.cnf
+Done: cadical mp1-klieber2017s-1600-022-eq.cnf UNSAT 150.46s
+Saved results/job_00360.csv

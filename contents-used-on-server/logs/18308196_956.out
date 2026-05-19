@@ -1,0 +1,5 @@
+Task 956/1199
+Solver: maplesat
+CNF: benchmarks/rphp_p30_r30.cnf
+Done: maplesat rphp_p30_r30.cnf TIMEOUT 300.00s
+Saved results/job_00956.csv

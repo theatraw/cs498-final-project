@@ -1,0 +1,5 @@
+Task 141/399
+Solver: minisat
+CNF: benchmarks/grs-48-128.cnf
+Done: minisat grs-48-128.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00141.csv

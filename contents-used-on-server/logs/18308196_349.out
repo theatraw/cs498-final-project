@@ -1,0 +1,5 @@
+Task 349/1199
+Solver: glucose
+CNF: benchmarks/SAT_dat.k10.cnf
+Done: glucose SAT_dat.k10.cnf UNSAT 119.96s
+Saved results/job_00349.csv

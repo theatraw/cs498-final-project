@@ -1,0 +1,7 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+cadical,asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,SAT,124.19932198524475,10.0,False,1433390.0,49876346.0,864871414.0,196612.0,,,,1260375.0,1009270.0,108051.0,155176.0,4914.0,123.6,124.18,553568.0,10.0,,,,,,,,
+glucose,asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,SAT,146.28152704238892,10.0,False,840506.0,2341076.0,1430131308.0,2312.0,127096.0,296703.0,145.303,,,,,,,,,,9450.0,25.0,767966.0,34.0,920.0,96.0,7.0,354.0
+maplesat,asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+cadical,WCNF_to_alien_14.cnf,benchmarks/WCNF_to_alien_14.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,,,,,,,,,
+glucose,WCNF_to_alien_14.cnf,benchmarks/WCNF_to_alien_14.cnf,TIMEOUT,150.0,,True,,,,,448.0,5562.0,,,,,,,,,,,,,,,,,,
+maplesat,WCNF_to_alien_14.cnf,benchmarks/WCNF_to_alien_14.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,,,,,,,,,

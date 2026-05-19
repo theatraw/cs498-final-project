@@ -1,0 +1,5 @@
+Task 129/1199
+Solver: cadical
+CNF: benchmarks/5col100_15_6.shuffled.cnf
+Done: cadical 5col100_15_6.shuffled.cnf UNSAT 4.59s
+Saved results/job_00129.csv

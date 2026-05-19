@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf,benchmarks/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf,UNSAT,77.31114339828491,20,False,False,1042470,5839953,466982866,2047,12998,77941,76.622,44744527,156.33

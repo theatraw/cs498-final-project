@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,patat-08-comp-3.cnf,benchmarks/patat-08-comp-3.cnf,SAT,8.9514000415802,10,False,False,48434,4265200,22020162,1914,,,,46131,26307,1095450,188810,,8.77,8.91,256.36,10

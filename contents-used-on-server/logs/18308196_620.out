@@ -1,0 +1,5 @@
+Task 620/1199
+Solver: maplesat
+CNF: benchmarks/stb_792_333.apx_1_DS-ST.cnf
+Done: maplesat stb_792_333.apx_1_DS-ST.cnf SAT 297.77s
+Saved results/job_00620.csv

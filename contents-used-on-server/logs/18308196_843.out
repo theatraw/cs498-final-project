@@ -1,0 +1,5 @@
+Task 843/1199
+Solver: cadical
+CNF: benchmarks/brent_71_0.25.cnf
+Done: cadical brent_71_0.25.cnf SAT 8.17s
+Saved results/job_00843.csv

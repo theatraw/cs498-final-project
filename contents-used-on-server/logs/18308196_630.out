@@ -1,0 +1,5 @@
+Task 630/1199
+Solver: cadical
+CNF: benchmarks/29_1.cnf
+Done: cadical 29_1.cnf TIMEOUT 300.00s
+Saved results/job_00630.csv

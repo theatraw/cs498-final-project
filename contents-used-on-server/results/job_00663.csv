@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,satcoin-genesis-UNSAT-9880.cnf,benchmarks/satcoin-genesis-UNSAT-9880.cnf,TIMEOUT,300,,True,False,,,,,,,,,,,,,,,,

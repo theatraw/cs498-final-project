@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,mrpp_4x4#12_12.cnf,benchmarks/mrpp_4x4#12_12.cnf,UNSAT,7.872085332870483,20,False,False,220823,360133,16822248,1342,2672,16280,7.76654,476,12,176968,18.0,3155,436,59,2847

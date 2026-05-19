@@ -1,0 +1,5 @@
+Task 520/1199
+Solver: glucose
+CNF: benchmarks/rand_net70-40-10.shuffled.cnf
+Done: glucose rand_net70-40-10.shuffled.cnf UNSAT 3.27s
+Saved results/job_00520.csv

@@ -1,0 +1,5 @@
+Task 400/1199
+Solver: glucose
+CNF: benchmarks/ContextModel_output_6_5_6.bul_.dimacs.cnf
+Done: glucose ContextModel_output_6_5_6.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00400.csv

@@ -1,0 +1,5 @@
+Task 484/1199
+Solver: glucose
+CNF: benchmarks/REGRandom-K4-L1-Seed5.cnf
+Done: glucose REGRandom-K4-L1-Seed5.cnf UNSAT 137.55s
+Saved results/job_00484.csv

@@ -1,0 +1,5 @@
+Task 235/399
+Solver: minisat
+CNF: benchmarks/Schur_160_5_d34.cnf
+Done: minisat Schur_160_5_d34.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00235.csv

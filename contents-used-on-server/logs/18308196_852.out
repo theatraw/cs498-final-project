@@ -1,0 +1,5 @@
+Task 852/1199
+Solver: cadical
+CNF: benchmarks/SCPC-800-46.cnf
+Done: cadical SCPC-800-46.cnf SAT 23.00s
+Saved results/job_00852.csv

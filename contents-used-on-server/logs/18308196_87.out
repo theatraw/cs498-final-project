@@ -1,0 +1,5 @@
+Task 87/1199
+Solver: cadical
+CNF: benchmarks/par32-4.shuffled.cnf
+Done: cadical par32-4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00087.csv

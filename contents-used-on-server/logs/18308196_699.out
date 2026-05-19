@@ -1,0 +1,5 @@
+Task 699/1199
+Solver: cadical
+CNF: benchmarks/REGRandom-K3-L3-Seed10.cnf
+Done: cadical REGRandom-K3-L3-Seed10.cnf UNSAT 5.24s
+Saved results/job_00699.csv

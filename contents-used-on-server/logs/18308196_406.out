@@ -1,0 +1,5 @@
+Task 406/1199
+Solver: glucose
+CNF: benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf
+Done: glucose pyhala-braun-sat-35-4-04.shuffled.cnf SAT 17.91s
+Saved results/job_00406.csv

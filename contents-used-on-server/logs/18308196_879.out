@@ -1,0 +1,5 @@
+Task 879/1199
+Solver: cadical
+CNF: benchmarks/asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf
+Done: cadical asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf TIMEOUT 300.00s
+Saved results/job_00879.csv

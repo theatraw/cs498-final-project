@@ -1,0 +1,5 @@
+Task 230/399
+Solver: minisat
+CNF: benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf
+Done: minisat Urquhart-s3-b3.shuffled-as.sat03-1556.cnf UNSAT 16.10s
+Saved results_minisat/job_00230.csv

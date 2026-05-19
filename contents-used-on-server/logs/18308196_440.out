@@ -1,0 +1,5 @@
+Task 440/1199
+Solver: maplesat
+CNF: benchmarks/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf
+Done: maplesat mod4block_2vars_10gates_u2_autoenc-sc2009.cnf TIMEOUT 300.00s
+Saved results/job_00440.csv

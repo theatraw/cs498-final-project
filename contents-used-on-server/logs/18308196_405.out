@@ -1,0 +1,5 @@
+Task 405/1199
+Solver: cadical
+CNF: benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf
+Done: cadical pyhala-braun-sat-35-4-04.shuffled.cnf SAT 25.16s
+Saved results/job_00405.csv

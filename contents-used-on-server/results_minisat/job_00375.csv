@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,grs-32-256.cnf,benchmarks/grs-32-256.cnf,TIMEOUT,300,,True,False,,,,,,,

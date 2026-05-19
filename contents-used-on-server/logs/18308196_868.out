@@ -1,0 +1,5 @@
+Task 868/1199
+Solver: glucose
+CNF: benchmarks/php-010-009.shuffled-as.sat05-1185.cnf
+Done: glucose php-010-009.shuffled-as.sat05-1185.cnf UNSAT 14.99s
+Saved results/job_00868.csv

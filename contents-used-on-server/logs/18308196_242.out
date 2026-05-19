@@ -1,0 +1,5 @@
+Task 242/1199
+Solver: maplesat
+CNF: benchmarks/SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf
+Done: maplesat SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf SAT 7.73s
+Saved results/job_00242.csv

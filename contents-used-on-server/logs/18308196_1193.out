@@ -1,0 +1,5 @@
+Task 1193/1199
+Solver: maplesat
+CNF: benchmarks/WS_400_24_90_10.apx_1_DS-ST.cnf
+Done: maplesat WS_400_24_90_10.apx_1_DS-ST.cnf TIMEOUT 300.00s
+Saved results/job_01193.csv

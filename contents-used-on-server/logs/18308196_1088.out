@@ -1,0 +1,5 @@
+Task 1088/1199
+Solver: maplesat
+CNF: benchmarks/patat-08-comp-3.cnf
+Done: maplesat patat-08-comp-3.cnf SAT 6.08s
+Saved results/job_01088.csv

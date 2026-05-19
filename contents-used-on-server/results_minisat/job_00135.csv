@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,pyhala-braun-sat-35-4-04.shuffled.cnf,benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf,SAT,22.704781532287598,10,False,False,264820,313717,150252731,636,7383,24097,22.4062,8736810,92.92

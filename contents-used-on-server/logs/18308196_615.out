@@ -1,0 +1,5 @@
+Task 615/1199
+Solver: cadical
+CNF: benchmarks/SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf
+Done: cadical SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf SAT 110.51s
+Saved results/job_00615.csv

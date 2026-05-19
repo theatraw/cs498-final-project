@@ -1,0 +1,5 @@
+Task 464/1199
+Solver: maplesat
+CNF: benchmarks/multiplier_13bits__miter_15.cnf
+Done: maplesat multiplier_13bits__miter_15.cnf TIMEOUT 300.00s
+Saved results/job_00464.csv

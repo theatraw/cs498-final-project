@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,10pipe_q0_k.cnf,benchmarks/10pipe_q0_k.cnf,UNSAT,95.04489064216614,20,False,False,1333836,12741042,1417869233,3760,77639,2082016,93.6677,6696,33,841522,44.0,5487,4673,97,6149

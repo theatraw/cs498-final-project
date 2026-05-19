@@ -1,0 +1,5 @@
+Task 833/1199
+Solver: maplesat
+CNF: benchmarks/mchess16-mixed-35percent-blocked.cnf
+Done: maplesat mchess16-mixed-35percent-blocked.cnf UNSAT 26.25s
+Saved results/job_00833.csv

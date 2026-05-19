@@ -1,0 +1,5 @@
+Task 121/399
+Solver: minisat
+CNF: benchmarks/CNF_to_alien_12.cnf
+Done: minisat CNF_to_alien_12.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00121.csv

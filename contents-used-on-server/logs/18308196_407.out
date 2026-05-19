@@ -1,0 +1,5 @@
+Task 407/1199
+Solver: maplesat
+CNF: benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf
+Done: maplesat pyhala-braun-sat-35-4-04.shuffled.cnf SAT 9.02s
+Saved results/job_00407.csv

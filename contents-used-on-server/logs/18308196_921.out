@@ -1,0 +1,5 @@
+Task 921/1199
+Solver: cadical
+CNF: benchmarks/WCNFPlus_from_fp_13.cnf
+Done: cadical WCNFPlus_from_fp_13.cnf UNSAT 3.85s
+Saved results/job_00921.csv

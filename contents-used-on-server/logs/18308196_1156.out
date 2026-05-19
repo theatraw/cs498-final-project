@@ -1,0 +1,5 @@
+Task 1156/1199
+Solver: glucose
+CNF: benchmarks/mchess18-mixed-45percent-blocked.cnf
+Done: glucose mchess18-mixed-45percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_01156.csv

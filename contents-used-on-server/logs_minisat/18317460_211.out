@@ -1,0 +1,5 @@
+Task 211/399
+Solver: minisat
+CNF: benchmarks/WS_400_24_70_10.apx_1_DC-ST.cnf
+Done: minisat WS_400_24_70_10.apx_1_DC-ST.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00211.csv

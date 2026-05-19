@@ -1,0 +1,5 @@
+Task 439/1199
+Solver: glucose
+CNF: benchmarks/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf
+Done: glucose mod4block_2vars_10gates_u2_autoenc-sc2009.cnf TIMEOUT 300.00s
+Saved results/job_00439.csv

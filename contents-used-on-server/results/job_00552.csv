@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,FileObject_open_13.cnf,benchmarks/FileObject_open_13.cnf,UNSAT,202.4041121006012,20,False,False,4448575,5159001,86274823,103199,,,,4360307,2109240,1933353,204831,6151,200.32,202.27,103.95,20

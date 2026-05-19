@@ -1,0 +1,5 @@
+Task 308/399
+Solver: minisat
+CNF: benchmarks/mchess22-mixed-45percent-blocked.cnf
+Done: minisat mchess22-mixed-45percent-blocked.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00308.csv

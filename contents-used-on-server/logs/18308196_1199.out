@@ -1,0 +1,5 @@
+Task 1199/1199
+Solver: maplesat
+CNF: benchmarks/rand_net50-60-10.shuffled.cnf
+Done: maplesat rand_net50-60-10.shuffled.cnf UNSAT 24.25s
+Saved results/job_01199.csv

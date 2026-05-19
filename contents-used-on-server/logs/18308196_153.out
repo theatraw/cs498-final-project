@@ -1,0 +1,5 @@
+Task 153/1199
+Solver: cadical
+CNF: benchmarks/c880_gr_rcs_w7.shuffled.cnf
+Done: cadical c880_gr_rcs_w7.shuffled.cnf SAT 0.29s
+Saved results/job_00153.csv

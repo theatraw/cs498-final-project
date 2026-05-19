@@ -1,0 +1,5 @@
+Task 117/399
+Solver: minisat
+CNF: benchmarks/rbsat-v760c43649gyes10.cnf
+Done: minisat rbsat-v760c43649gyes10.cnf SAT 5.13s
+Saved results_minisat/job_00117.csv

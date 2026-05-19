@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,REGRandom-K3-L3-Seed10.cnf,benchmarks/REGRandom-K3-L3-Seed10.cnf,UNSAT,5.242814779281616,20,False,False,132688,1193453,4468679,1824,,,,117965,12972,79870,6935,9687,5.05,5.18,79.72,20

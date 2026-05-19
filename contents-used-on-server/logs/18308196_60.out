@@ -1,0 +1,5 @@
+Task 60/1199
+Solver: cadical
+CNF: benchmarks/PRP_100_250.cnf
+Done: cadical PRP_100_250.cnf TIMEOUT 300.00s
+Saved results/job_00060.csv

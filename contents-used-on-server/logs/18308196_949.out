@@ -1,0 +1,5 @@
+Task 949/1199
+Solver: glucose
+CNF: benchmarks/jkkk-one-one-11-32-unsat.cnf
+Done: glucose jkkk-one-one-11-32-unsat.cnf UNSAT 46.30s
+Saved results/job_00949.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,mod4block_2vars_10gates_u2_autoenc-sc2009.cnf,benchmarks/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf,SAT,92.53956294059753,10,False,False,1838637,5162496,115111709,70718,,,,1782544,1533892,207364,79345,22948,91.57,92.53,68.0,10

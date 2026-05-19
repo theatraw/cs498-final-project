@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,php18-mixed-35percent-blocked.cnf,benchmarks/php18-mixed-35percent-blocked.cnf,UNSAT,115.25921654701233,20,False,False,3611528,5019069,164976665,6215,526,10710,114.029,150161511,0.270468

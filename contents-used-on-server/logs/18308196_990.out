@@ -1,0 +1,5 @@
+Task 990/1199
+Solver: cadical
+CNF: benchmarks/SCPC-800-40.cnf
+Done: cadical SCPC-800-40.cnf SAT 13.80s
+Saved results/job_00990.csv

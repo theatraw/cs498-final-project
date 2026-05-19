@@ -1,0 +1,5 @@
+Task 370/399
+Solver: minisat
+CNF: benchmarks/unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf
+Done: minisat unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00370.csv

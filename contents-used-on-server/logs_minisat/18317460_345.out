@@ -1,0 +1,5 @@
+Task 345/399
+Solver: minisat
+CNF: benchmarks/9vliw_bp_mc.shuffled.cnf
+Done: minisat 9vliw_bp_mc.shuffled.cnf UNSAT 8.59s
+Saved results_minisat/job_00345.csv

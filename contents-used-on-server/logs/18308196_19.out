@@ -1,0 +1,5 @@
+Task 19/1199
+Solver: glucose
+CNF: benchmarks/CNFPlus_from_fp_12.cnf
+Done: glucose CNFPlus_from_fp_12.cnf TIMEOUT 300.00s
+Saved results/job_00019.csv

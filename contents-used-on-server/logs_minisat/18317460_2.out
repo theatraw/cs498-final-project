@@ -1,0 +1,5 @@
+Task 2/399
+Solver: minisat
+CNF: benchmarks/ER_500_10_1.apx_1_DC-AD.cnf
+Done: minisat ER_500_10_1.apx_1_DC-AD.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00002.csv

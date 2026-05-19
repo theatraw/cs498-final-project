@@ -1,0 +1,5 @@
+Task 177/1199
+Solver: cadical
+CNF: benchmarks/hash_table_find_safety_size_23.cnf
+Done: cadical hash_table_find_safety_size_23.cnf TIMEOUT 300.00s
+Saved results/job_00177.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,ferry8_ks99i.renamed-as.sat05-4005.cnf,benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf,SAT,0.5471818447113037,10,False,False,18600,44466,2575641,63,2547,32472,0.52449,276531,0.089357

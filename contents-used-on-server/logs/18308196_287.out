@@ -1,0 +1,5 @@
+Task 287/1199
+Solver: maplesat
+CNF: benchmarks/sat-bench-trig-taylor4.cnf
+Done: maplesat sat-bench-trig-taylor4.cnf TIMEOUT 300.00s
+Saved results/job_00287.csv

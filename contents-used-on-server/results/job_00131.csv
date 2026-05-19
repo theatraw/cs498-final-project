@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,5col100_15_6.shuffled.cnf,benchmarks/5col100_15_6.shuffled.cnf,UNSAT,7.448723316192627,20,False,False,300764,349129,14331593,731,300,3973,7.35312,5015740,0.281014

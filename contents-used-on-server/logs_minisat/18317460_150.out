@@ -1,0 +1,5 @@
+Task 150/399
+Solver: minisat
+CNF: benchmarks/php17-mixed-35percent-blocked.cnf
+Done: minisat php17-mixed-35percent-blocked.cnf UNSAT 193.46s
+Saved results_minisat/job_00150.csv

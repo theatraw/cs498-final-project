@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,clqcolor-08-06-07.shuffled-as.sat05-1257.cnf,benchmarks/clqcolor-08-06-07.shuffled-as.sat05-1257.cnf,UNSAT,1.7602567672729492,20,False,False,181337,265089,2860869,506,132,1527,1.73091,2800722,0.501477

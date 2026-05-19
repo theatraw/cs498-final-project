@@ -1,0 +1,5 @@
+Task 691/1199
+Solver: glucose
+CNF: benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf
+Done: glucose Urquhart-s3-b3.shuffled-as.sat03-1556.cnf UNSAT 2.13s
+Saved results/job_00691.csv

@@ -1,0 +1,5 @@
+Task 368/399
+Solver: minisat
+CNF: benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf
+Done: minisat ncc_none_7047_6_3_3_0_0_420.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00368.csv

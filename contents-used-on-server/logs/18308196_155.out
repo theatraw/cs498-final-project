@@ -1,0 +1,5 @@
+Task 155/1199
+Solver: maplesat
+CNF: benchmarks/c880_gr_rcs_w7.shuffled.cnf
+Done: maplesat c880_gr_rcs_w7.shuffled.cnf SAT 0.10s
+Saved results/job_00155.csv

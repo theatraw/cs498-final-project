@@ -1,0 +1,5 @@
+Task 186/399
+Solver: minisat
+CNF: benchmarks/sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Done: minisat sgen1-unsat-97-100.cnf.mis-72.debugged.cnf UNSAT 243.15s
+Saved results_minisat/job_00186.csv

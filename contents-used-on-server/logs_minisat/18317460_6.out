@@ -1,0 +1,5 @@
+Task 6/399
+Solver: minisat
+CNF: benchmarks/CNFPlus_from_fp_12.cnf
+Done: minisat CNFPlus_from_fp_12.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00006.csv

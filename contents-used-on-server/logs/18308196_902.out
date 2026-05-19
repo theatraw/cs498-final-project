@@ -1,0 +1,5 @@
+Task 902/1199
+Solver: maplesat
+CNF: benchmarks/posixpath_expanduser_14.cnf
+Done: maplesat posixpath_expanduser_14.cnf TIMEOUT 300.00s
+Saved results/job_00902.csv

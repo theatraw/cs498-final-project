@@ -1,0 +1,5 @@
+Task 494/1199
+Solver: maplesat
+CNF: benchmarks/TableModel_output_8_4_8.bul_.dimacs.cnf
+Done: maplesat TableModel_output_8_4_8.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00494.csv

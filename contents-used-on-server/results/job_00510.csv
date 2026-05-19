@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,DivS_862_11.cnf.sanitized.cnf,benchmarks/DivS_862_11.cnf.sanitized.cnf,SAT,6.578503370285034,10,False,False,21019,299673,353187,119,,,,6761,2012,19677,16641,,6.43,6.55,275.27,10

@@ -1,0 +1,5 @@
+Task 545/1199
+Solver: maplesat
+CNF: benchmarks/hash_table_find_safety_size_17.cnf
+Done: maplesat hash_table_find_safety_size_17.cnf UNSAT 86.90s
+Saved results/job_00545.csv

@@ -1,0 +1,5 @@
+Task 316/399
+Solver: minisat
+CNF: benchmarks/jkkk-one-one-11-32-unsat.cnf
+Done: minisat jkkk-one-one-11-32-unsat.cnf UNSAT 169.64s
+Saved results_minisat/job_00316.csv

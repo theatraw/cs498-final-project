@@ -1,0 +1,5 @@
+Task 282/1199
+Solver: cadical
+CNF: benchmarks/combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf
+Done: cadical combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf SAT 33.17s
+Saved results/job_00282.csv

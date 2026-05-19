@@ -1,0 +1,5 @@
+Task 491/1199
+Solver: maplesat
+CNF: benchmarks/3col120_5_2.shuffled.cnf
+Done: maplesat 3col120_5_2.shuffled.cnf SAT 0.05s
+Saved results/job_00491.csv

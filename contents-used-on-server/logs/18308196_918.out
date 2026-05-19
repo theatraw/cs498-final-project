@@ -1,0 +1,5 @@
+Task 918/1199
+Solver: cadical
+CNF: benchmarks/DecompressReader_read_12.cnf
+Done: cadical DecompressReader_read_12.cnf UNSAT 1.40s
+Saved results/job_00918.csv

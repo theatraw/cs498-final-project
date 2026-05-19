@@ -1,0 +1,5 @@
+Task 778/1199
+Solver: glucose
+CNF: benchmarks/crafted_n12_d6_c4_num4.cnf
+Done: glucose crafted_n12_d6_c4_num4.cnf TIMEOUT 300.00s
+Saved results/job_00778.csv

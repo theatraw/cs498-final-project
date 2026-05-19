@@ -1,0 +1,5 @@
+Task 289/399
+Solver: minisat
+CNF: benchmarks/php-010-009.shuffled-as.sat05-1185.cnf
+Done: minisat php-010-009.shuffled-as.sat05-1185.cnf UNSAT 2.69s
+Saved results_minisat/job_00289.csv

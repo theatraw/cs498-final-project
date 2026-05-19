@@ -1,0 +1,5 @@
+Task 150/1199
+Solver: cadical
+CNF: benchmarks/DLTM_twitter690_74_16.cnf
+Done: cadical DLTM_twitter690_74_16.cnf SAT 267.98s
+Saved results/job_00150.csv

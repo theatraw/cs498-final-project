@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,WCNF_from_fp_13.cnf,benchmarks/WCNF_from_fp_13.cnf,UNSAT,2.9497313499450684,20,False,False,129636,147251,8068404,2381,,,,127047,35830,65039,6210,451,2.9,2.94,70.52,20

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,grs-64-32.cnf,benchmarks/grs-64-32.cnf,UNSAT,156.69062042236328,20,False,False,2934286,6609422,1075395510,5118,56794,166198,155.154,80211904,179.99

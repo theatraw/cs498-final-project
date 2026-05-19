@@ -1,0 +1,5 @@
+Task 1162/1199
+Solver: glucose
+CNF: benchmarks/WCNFPlus_to_alien_14.cnf
+Done: glucose WCNFPlus_to_alien_14.cnf TIMEOUT 300.00s
+Saved results/job_01162.csv

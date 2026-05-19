@@ -1,0 +1,5 @@
+Task 483/1199
+Solver: cadical
+CNF: benchmarks/REGRandom-K4-L1-Seed5.cnf
+Done: cadical REGRandom-K4-L1-Seed5.cnf UNSAT 19.86s
+Saved results/job_00483.csv

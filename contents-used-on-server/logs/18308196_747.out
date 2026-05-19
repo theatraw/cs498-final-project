@@ -1,0 +1,5 @@
+Task 747/1199
+Solver: cadical
+CNF: benchmarks/satch2ways16w.cnf
+Done: cadical satch2ways16w.cnf TIMEOUT 300.00s
+Saved results/job_00747.csv

@@ -1,0 +1,5 @@
+Task 149/399
+Solver: minisat
+CNF: benchmarks/stb_418_125.apx_2_DC-ST.cnf
+Done: minisat stb_418_125.apx_2_DC-ST.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00149.csv

@@ -1,0 +1,5 @@
+Task 114/399
+Solver: minisat
+CNF: benchmarks/sat-bench-trig-bhaskara.cnf
+Done: minisat sat-bench-trig-bhaskara.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00114.csv

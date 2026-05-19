@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,grs-128-32.cnf,benchmarks/grs-128-32.cnf,UNSAT,244.8926441669464,20,False,False,2204375,6338346,1417660105,4094,94810,279158,242.559,73395940,0.125311

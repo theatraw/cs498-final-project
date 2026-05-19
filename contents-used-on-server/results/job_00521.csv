@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,rand_net70-40-10.shuffled.cnf,benchmarks/rand_net70-40-10.shuffled.cnf,UNSAT,11.720440149307251,20,False,False,170483,343261,62682249,466,5600,16661,11.5522,6382319,0.068557

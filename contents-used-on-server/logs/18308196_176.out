@@ -1,0 +1,5 @@
+Task 176/1199
+Solver: maplesat
+CNF: benchmarks/SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf
+Done: maplesat SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf TIMEOUT 300.00s
+Saved results/job_00176.csv

@@ -1,0 +1,5 @@
+Task 235/1199
+Solver: glucose
+CNF: benchmarks/php18-mixed-35percent-blocked.cnf
+Done: glucose php18-mixed-35percent-blocked.cnf UNSAT 271.66s
+Saved results/job_00235.csv

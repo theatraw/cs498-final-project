@@ -1,0 +1,5 @@
+Task 122/1199
+Solver: maplesat
+CNF: benchmarks/FileObject_open_12.cnf
+Done: maplesat FileObject_open_12.cnf TIMEOUT 300.00s
+Saved results/job_00122.csv

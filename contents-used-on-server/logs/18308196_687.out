@@ -1,0 +1,5 @@
+Task 687/1199
+Solver: cadical
+CNF: benchmarks/posixpath__joinrealpath_13.cnf
+Done: cadical posixpath__joinrealpath_13.cnf UNSAT 31.20s
+Saved results/job_00687.csv

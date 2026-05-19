@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,ibm-2004-03-k70.cnf,benchmarks/ibm-2004-03-k70.cnf,SAT,5.096690654754639,10,False,False,27099,112157,9607451,1479,,,,25668,11678,55551,14204,,4.95,5.07,95.21,10

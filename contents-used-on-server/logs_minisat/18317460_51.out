@@ -1,0 +1,5 @@
+Task 51/399
+Solver: minisat
+CNF: benchmarks/c880_gr_rcs_w7.shuffled.cnf
+Done: minisat c880_gr_rcs_w7.shuffled.cnf SAT 220.40s
+Saved results_minisat/job_00051.csv

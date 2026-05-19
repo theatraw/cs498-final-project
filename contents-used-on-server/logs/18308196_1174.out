@@ -1,0 +1,5 @@
+Task 1174/1199
+Solver: glucose
+CNF: benchmarks/BZ2File_write_11.cnf
+Done: glucose BZ2File_write_11.cnf TIMEOUT 300.00s
+Saved results/job_01174.csv

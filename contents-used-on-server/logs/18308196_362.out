@@ -1,0 +1,5 @@
+Task 362/1199
+Solver: maplesat
+CNF: benchmarks/mp1-klieber2017s-1600-022-eq.cnf
+Done: maplesat mp1-klieber2017s-1600-022-eq.cnf TIMEOUT 300.00s
+Saved results/job_00362.csv

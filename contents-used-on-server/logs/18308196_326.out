@@ -1,0 +1,5 @@
+Task 326/1199
+Solver: maplesat
+CNF: benchmarks/ContextModel_output_7_3_9.bul_.dimacs.cnf
+Done: maplesat ContextModel_output_7_3_9.bul_.dimacs.cnf SAT 114.47s
+Saved results/job_00326.csv

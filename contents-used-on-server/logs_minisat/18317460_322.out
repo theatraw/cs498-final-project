@@ -1,0 +1,5 @@
+Task 322/399
+Solver: minisat
+CNF: benchmarks/brent_13_0.1.cnf
+Done: minisat brent_13_0.1.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00322.csv

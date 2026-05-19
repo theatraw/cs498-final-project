@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,5col100_15_6.shuffled.cnf,benchmarks/5col100_15_6.shuffled.cnf,UNSAT,10.388111114501953,20,False,False,757731,941576,35102564,1595,300,3973,10.2857,11864941,82.6

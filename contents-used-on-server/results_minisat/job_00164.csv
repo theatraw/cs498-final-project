@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,TableModel_output_8_4_8.bul_.dimacs.cnf,benchmarks/TableModel_output_8_4_8.bul_.dimacs.cnf,TIMEOUT,300,,True,False,,,,,,,

@@ -1,0 +1,5 @@
+Task 692/1199
+Solver: maplesat
+CNF: benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf
+Done: maplesat Urquhart-s3-b3.shuffled-as.sat03-1556.cnf UNSAT 1.88s
+Saved results/job_00692.csv

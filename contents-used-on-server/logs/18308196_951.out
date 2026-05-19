@@ -1,0 +1,5 @@
+Task 951/1199
+Solver: cadical
+CNF: benchmarks/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf
+Done: cadical connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf SAT 0.18s
+Saved results/job_00951.csv

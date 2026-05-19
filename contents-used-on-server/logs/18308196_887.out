@@ -1,0 +1,5 @@
+Task 887/1199
+Solver: maplesat
+CNF: benchmarks/T87.2.0.cnf
+Done: maplesat T87.2.0.cnf TIMEOUT 300.00s
+Saved results/job_00887.csv

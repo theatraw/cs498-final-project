@@ -1,0 +1,5 @@
+Task 173/399
+Solver: minisat
+CNF: benchmarks/rand_net70-40-10.shuffled.cnf
+Done: minisat rand_net70-40-10.shuffled.cnf UNSAT 20.59s
+Saved results_minisat/job_00173.csv

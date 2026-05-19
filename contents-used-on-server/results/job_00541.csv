@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,ferry8_ks99i.renamed-as.sat05-4005.cnf,benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf,SAT,0.16948771476745605,10,False,False,5842,15783,724015,22,2547,32472,0.09987,0,1,995,8.0,1062,722,3,1020

@@ -1,0 +1,5 @@
+Task 1098/1199
+Solver: cadical
+CNF: benchmarks/brent_9_0.cnf
+Done: cadical brent_9_0.cnf UNSAT 122.88s
+Saved results/job_01098.csv

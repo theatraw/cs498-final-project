@@ -1,0 +1,5 @@
+Task 1036/1199
+Solver: glucose
+CNF: benchmarks/9vliw_bp_mc.shuffled.cnf
+Done: glucose 9vliw_bp_mc.shuffled.cnf UNSAT 3.34s
+Saved results/job_01036.csv

@@ -1,0 +1,5 @@
+Task 102/1199
+Solver: cadical
+CNF: benchmarks/preimage_80r_490m_160h_seed_150.cnf
+Done: cadical preimage_80r_490m_160h_seed_150.cnf TIMEOUT 300.00s
+Saved results/job_00102.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,PRP_30_40.cnf,benchmarks/PRP_30_40.cnf,SAT,31.364590644836426,10,False,False,340986,1845934,29447299,11836,,,,304655,172368,258152,257855,,30.96,31.33,321.22,10

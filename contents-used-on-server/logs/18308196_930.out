@@ -1,0 +1,5 @@
+Task 930/1199
+Solver: cadical
+CNF: benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf
+Done: cadical shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf UNSAT 49.40s
+Saved results/job_00930.csv

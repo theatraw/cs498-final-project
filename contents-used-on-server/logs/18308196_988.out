@@ -1,0 +1,5 @@
+Task 988/1199
+Solver: glucose
+CNF: benchmarks/PRP_100_150.cnf
+Done: glucose PRP_100_150.cnf TIMEOUT 300.00s
+Saved results/job_00988.csv

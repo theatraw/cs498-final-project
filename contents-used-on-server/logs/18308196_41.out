@@ -1,0 +1,5 @@
+Task 41/1199
+Solver: maplesat
+CNF: benchmarks/iso-brn100.shuffled-as.sat05-3025.cnf
+Done: maplesat iso-brn100.shuffled-as.sat05-3025.cnf SAT 0.02s
+Saved results/job_00041.csv

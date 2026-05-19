@@ -1,0 +1,5 @@
+Task 364/399
+Solver: minisat
+CNF: benchmarks/g2-T49.2.0.cnf
+Done: minisat g2-T49.2.0.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00364.csv

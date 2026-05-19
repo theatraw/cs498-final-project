@@ -1,0 +1,5 @@
+Task 147/1199
+Solver: cadical
+CNF: benchmarks/php18-mixed-15percent-blocked.cnf
+Done: cadical php18-mixed-15percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_00147.csv

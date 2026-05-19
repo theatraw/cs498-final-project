@@ -1,0 +1,5 @@
+Task 319/399
+Solver: minisat
+CNF: benchmarks/GzipFile_close_11.cnf
+Done: minisat GzipFile_close_11.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00319.csv

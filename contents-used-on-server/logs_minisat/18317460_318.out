@@ -1,0 +1,5 @@
+Task 318/399
+Solver: minisat
+CNF: benchmarks/rphp_p30_r30.cnf
+Done: minisat rphp_p30_r30.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00318.csv

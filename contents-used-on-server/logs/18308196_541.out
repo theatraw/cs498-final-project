@@ -1,0 +1,5 @@
+Task 541/1199
+Solver: glucose
+CNF: benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf
+Done: glucose ferry8_ks99i.renamed-as.sat05-4005.cnf SAT 0.17s
+Saved results/job_00541.csv

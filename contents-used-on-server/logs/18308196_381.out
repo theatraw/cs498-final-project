@@ -1,0 +1,5 @@
+Task 381/1199
+Solver: cadical
+CNF: benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf
+Done: cadical hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf UNSAT 3.10s
+Saved results/job_00381.csv

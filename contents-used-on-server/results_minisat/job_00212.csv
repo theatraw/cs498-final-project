@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,instance_n6_i6_pp_ci_ce.cnf,benchmarks/instance_n6_i6_pp_ci_ce.cnf,SAT,0.5266251564025879,10,False,False,14892,46189,3752343,62,7278,63935,0.486473,413628,87.79

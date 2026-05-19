@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf,benchmarks/SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf,SAT,14.260277032852173,10,False,False,101268,8469373,68295087,255,250094,811693,13.9326,10417621,0.032973

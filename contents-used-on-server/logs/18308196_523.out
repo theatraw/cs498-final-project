@@ -1,0 +1,5 @@
+Task 523/1199
+Solver: glucose
+CNF: benchmarks/satcoin-genesis-UNSAT-5920.cnf
+Done: glucose satcoin-genesis-UNSAT-5920.cnf TIMEOUT 300.00s
+Saved results/job_00523.csv

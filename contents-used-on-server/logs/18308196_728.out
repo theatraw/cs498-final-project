@@ -1,0 +1,5 @@
+Task 728/1199
+Solver: maplesat
+CNF: benchmarks/tph8.cnf
+Done: maplesat tph8.cnf TIMEOUT 300.00s
+Saved results/job_00728.csv

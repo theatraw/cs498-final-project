@@ -1,0 +1,5 @@
+Task 894/1199
+Solver: cadical
+CNF: benchmarks/spg_420_280.cnf
+Done: cadical spg_420_280.cnf UNSAT 56.29s
+Saved results/job_00894.csv

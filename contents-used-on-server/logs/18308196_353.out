@@ -1,0 +1,5 @@
+Task 353/1199
+Solver: maplesat
+CNF: benchmarks/rbsat-v760c43649gyes10.cnf
+Done: maplesat rbsat-v760c43649gyes10.cnf SAT 9.77s
+Saved results/job_00353.csv

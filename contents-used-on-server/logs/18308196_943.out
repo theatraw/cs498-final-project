@@ -1,0 +1,5 @@
+Task 943/1199
+Solver: glucose
+CNF: benchmarks/cliquecoloring_n12_k9_c8.cnf
+Done: glucose cliquecoloring_n12_k9_c8.cnf TIMEOUT 300.00s
+Saved results/job_00943.csv

@@ -1,0 +1,5 @@
+Task 586/1199
+Solver: glucose
+CNF: benchmarks/baseballcover13with25_and3positions.cnf
+Done: glucose baseballcover13with25_and3positions.cnf TIMEOUT 300.00s
+Saved results/job_00586.csv

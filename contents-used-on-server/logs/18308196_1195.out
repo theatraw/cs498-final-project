@@ -1,0 +1,5 @@
+Task 1195/1199
+Solver: glucose
+CNF: benchmarks/CNP-5-1100.cnf
+Done: glucose CNP-5-1100.cnf TIMEOUT 300.00s
+Saved results/job_01195.csv

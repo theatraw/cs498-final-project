@@ -1,0 +1,5 @@
+Task 976/1199
+Solver: glucose
+CNF: benchmarks/aes_decry_2_rounds.debugged.cnf
+Done: glucose aes_decry_2_rounds.debugged.cnf UNSAT 66.09s
+Saved results/job_00976.csv

@@ -1,0 +1,5 @@
+Task 1020/1199
+Solver: cadical
+CNF: benchmarks/intervals803.cnf
+Done: cadical intervals803.cnf TIMEOUT 300.00s
+Saved results/job_01020.csv

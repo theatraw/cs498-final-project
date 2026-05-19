@@ -1,0 +1,5 @@
+Task 302/399
+Solver: minisat
+CNF: benchmarks/vmpc_24.cnf
+Done: minisat vmpc_24.cnf SAT 9.81s
+Saved results_minisat/job_00302.csv

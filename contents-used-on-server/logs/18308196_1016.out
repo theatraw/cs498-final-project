@@ -1,0 +1,5 @@
+Task 1016/1199
+Solver: maplesat
+CNF: benchmarks/Grain_no_init_ver1_out200_known_last105_0_u.cnf
+Done: maplesat Grain_no_init_ver1_out200_known_last105_0_u.cnf UNSAT 283.30s
+Saved results/job_01016.csv

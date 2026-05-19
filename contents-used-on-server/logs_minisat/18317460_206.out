@@ -1,0 +1,5 @@
+Task 206/399
+Solver: minisat
+CNF: benchmarks/stb_792_333.apx_1_DS-ST.cnf
+Done: minisat stb_792_333.apx_1_DS-ST.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00206.csv

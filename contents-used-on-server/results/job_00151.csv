@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,DLTM_twitter690_74_16.cnf,benchmarks/DLTM_twitter690_74_16.cnf,SAT,92.52519941329956,10,False,False,300746,472019,667738750,843,34886,217178,91.52,2705,14,229736,34.0,3545,2515,2,192

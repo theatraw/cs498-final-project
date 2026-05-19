@@ -1,0 +1,5 @@
+Task 26/399
+Solver: minisat
+CNF: benchmarks/satsgi-n23himBHm26-p0-q248.cnf
+Done: minisat satsgi-n23himBHm26-p0-q248.cnf SAT 0.05s
+Saved results_minisat/job_00026.csv

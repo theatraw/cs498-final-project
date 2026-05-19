@@ -1,0 +1,5 @@
+Task 226/1199
+Solver: glucose
+CNF: benchmarks/stb_588_138.apx_2_DS-ST.cnf
+Done: glucose stb_588_138.apx_2_DS-ST.cnf TIMEOUT 300.00s
+Saved results/job_00226.csv

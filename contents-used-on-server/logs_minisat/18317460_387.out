@@ -1,0 +1,5 @@
+Task 387/399
+Solver: minisat
+CNF: benchmarks/WCNFPlus_to_alien_14.cnf
+Done: minisat WCNFPlus_to_alien_14.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00387.csv

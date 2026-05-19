@@ -1,0 +1,5 @@
+Task 1104/1199
+Solver: cadical
+CNF: benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf
+Done: cadical ncc_none_7047_6_3_3_0_0_420.cnf UNSAT 137.18s
+Saved results/job_01104.csv

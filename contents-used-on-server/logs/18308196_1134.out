@@ -1,0 +1,5 @@
+Task 1134/1199
+Solver: cadical
+CNF: benchmarks/C208_FA_UT_3254.cnf
+Done: cadical C208_FA_UT_3254.cnf UNSAT 0.02s
+Saved results/job_01134.csv

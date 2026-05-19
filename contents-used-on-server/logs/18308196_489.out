@@ -1,0 +1,5 @@
+Task 489/1199
+Solver: cadical
+CNF: benchmarks/3col120_5_2.shuffled.cnf
+Done: cadical 3col120_5_2.shuffled.cnf SAT 0.05s
+Saved results/job_00489.csv

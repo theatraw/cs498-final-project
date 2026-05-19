@@ -1,0 +1,5 @@
+Task 640/1199
+Solver: glucose
+CNF: benchmarks/PRP_30_41.cnf
+Done: glucose PRP_30_41.cnf SAT 148.95s
+Saved results/job_00640.csv

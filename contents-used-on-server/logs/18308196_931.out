@@ -1,0 +1,5 @@
+Task 931/1199
+Solver: glucose
+CNF: benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf
+Done: glucose shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf UNSAT 26.50s
+Saved results/job_00931.csv

@@ -1,0 +1,5 @@
+Task 352/1199
+Solver: glucose
+CNF: benchmarks/rbsat-v760c43649gyes10.cnf
+Done: glucose rbsat-v760c43649gyes10.cnf SAT 17.73s
+Saved results/job_00352.csv

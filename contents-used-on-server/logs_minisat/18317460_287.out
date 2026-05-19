@@ -1,0 +1,5 @@
+Task 287/399
+Solver: minisat
+CNF: benchmarks/tseitingrid7x160_shuffled-sc2016.cnf
+Done: minisat tseitingrid7x160_shuffled-sc2016.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00287.csv

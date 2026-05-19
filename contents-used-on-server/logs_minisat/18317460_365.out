@@ -1,0 +1,5 @@
+Task 365/399
+Solver: minisat
+CNF: benchmarks/17_0.cnf
+Done: minisat 17_0.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00365.csv

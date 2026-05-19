@@ -1,0 +1,5 @@
+Task 896/1199
+Solver: maplesat
+CNF: benchmarks/spg_420_280.cnf
+Done: maplesat spg_420_280.cnf TIMEOUT 300.00s
+Saved results/job_00896.csv

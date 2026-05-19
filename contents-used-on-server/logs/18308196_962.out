@@ -1,0 +1,5 @@
+Task 962/1199
+Solver: maplesat
+CNF: benchmarks/PRP_100_300.cnf
+Done: maplesat PRP_100_300.cnf TIMEOUT 300.00s
+Saved results/job_00962.csv

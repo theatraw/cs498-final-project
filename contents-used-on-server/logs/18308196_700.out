@@ -1,0 +1,5 @@
+Task 700/1199
+Solver: glucose
+CNF: benchmarks/REGRandom-K3-L3-Seed10.cnf
+Done: glucose REGRandom-K3-L3-Seed10.cnf UNSAT 72.15s
+Saved results/job_00700.csv

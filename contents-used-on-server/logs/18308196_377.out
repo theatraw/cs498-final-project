@@ -1,0 +1,5 @@
+Task 377/1199
+Solver: maplesat
+CNF: benchmarks/brent_51_0.28.cnf
+Done: maplesat brent_51_0.28.cnf TIMEOUT 300.00s
+Saved results/job_00377.csv

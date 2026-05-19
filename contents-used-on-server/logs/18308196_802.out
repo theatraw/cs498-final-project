@@ -1,0 +1,5 @@
+Task 802/1199
+Solver: glucose
+CNF: benchmarks/velev-pipe-o-uns-1.0-7.cnf
+Done: glucose velev-pipe-o-uns-1.0-7.cnf UNSAT 35.60s
+Saved results/job_00802.csv

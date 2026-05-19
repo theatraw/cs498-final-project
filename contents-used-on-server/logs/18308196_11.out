@@ -1,0 +1,5 @@
+Task 11/1199
+Solver: maplesat
+CNF: benchmarks/stb_588_138.apx_2_DC-ST.cnf
+Done: maplesat stb_588_138.apx_2_DC-ST.cnf UNSAT 83.60s
+Saved results/job_00011.csv

@@ -1,0 +1,5 @@
+Task 160/1199
+Solver: glucose
+CNF: benchmarks/satch2ways15u.cnf
+Done: glucose satch2ways15u.cnf TIMEOUT 300.00s
+Saved results/job_00160.csv

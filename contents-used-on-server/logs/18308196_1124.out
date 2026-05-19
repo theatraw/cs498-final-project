@@ -1,0 +1,5 @@
+Task 1124/1199
+Solver: maplesat
+CNF: benchmarks/SCPC-1000-20.cnf
+Done: maplesat SCPC-1000-20.cnf TIMEOUT 300.00s
+Saved results/job_01124.csv

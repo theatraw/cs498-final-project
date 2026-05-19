@@ -1,0 +1,5 @@
+Task 251/1199
+Solver: maplesat
+CNF: benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf
+Done: maplesat vmpc_28.shuffled-as.sat05-1957.cnf SAT 25.12s
+Saved results/job_00251.csv

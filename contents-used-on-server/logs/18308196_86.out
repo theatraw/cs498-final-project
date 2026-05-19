@@ -1,0 +1,5 @@
+Task 86/1199
+Solver: maplesat
+CNF: benchmarks/satcoin-genesis-UNSAT-10600.cnf
+Done: maplesat satcoin-genesis-UNSAT-10600.cnf TIMEOUT 300.00s
+Saved results/job_00086.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf,benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf,UNSAT,3.1025941371917725,20,False,False,19310,503630,8742190,1508,,,,18249,7743,7389,11128,364,3.05,3.09,67.0,20

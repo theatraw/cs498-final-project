@@ -1,0 +1,5 @@
+Task 1067/1199
+Solver: maplesat
+CNF: benchmarks/SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf
+Done: maplesat SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf TIMEOUT 300.00s
+Saved results/job_01067.csv

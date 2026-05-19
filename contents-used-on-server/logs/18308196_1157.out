@@ -1,0 +1,5 @@
+Task 1157/1199
+Solver: maplesat
+CNF: benchmarks/mchess18-mixed-45percent-blocked.cnf
+Done: maplesat mchess18-mixed-45percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_01157.csv

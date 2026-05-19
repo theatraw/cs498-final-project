@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,gensys-icl002.shuffled-as.sat05-2714.cnf,benchmarks/gensys-icl002.shuffled-as.sat05-2714.cnf,UNSAT,25.279159545898438,20,False,False,1204987,2008671,41559860,2294,1444,7231,20.5688,29924875,85.79

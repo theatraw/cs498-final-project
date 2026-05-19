@@ -1,0 +1,5 @@
+Task 267/399
+Solver: minisat
+CNF: benchmarks/velev-pipe-o-uns-1.0-7.cnf
+Done: minisat velev-pipe-o-uns-1.0-7.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00267.csv

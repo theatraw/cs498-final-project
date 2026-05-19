@@ -1,0 +1,5 @@
+Task 1106/1199
+Solver: maplesat
+CNF: benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf
+Done: maplesat ncc_none_7047_6_3_3_0_0_420.cnf TIMEOUT 300.00s
+Saved results/job_01106.csv

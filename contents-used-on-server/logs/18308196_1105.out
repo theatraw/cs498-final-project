@@ -1,0 +1,5 @@
+Task 1105/1199
+Solver: glucose
+CNF: benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf
+Done: glucose ncc_none_7047_6_3_3_0_0_420.cnf TIMEOUT 300.00s
+Saved results/job_01105.csv

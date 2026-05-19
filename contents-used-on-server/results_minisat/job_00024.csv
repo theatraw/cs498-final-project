@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,hash_table_find_safety_size_24.cnf,benchmarks/hash_table_find_safety_size_24.cnf,UNSAT,114.43826866149902,20,False,False,13550,1635824,546756716,60,15062376,60600058,110.978,2347794,7428.14

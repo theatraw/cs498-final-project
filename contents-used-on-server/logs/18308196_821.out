@@ -1,0 +1,5 @@
+Task 821/1199
+Solver: maplesat
+CNF: benchmarks/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf
+Done: maplesat shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf TIMEOUT 300.00s
+Saved results/job_00821.csv

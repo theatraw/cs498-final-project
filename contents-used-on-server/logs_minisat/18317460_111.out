@@ -1,0 +1,5 @@
+Task 111/399
+Solver: minisat
+CNF: benchmarks/TableModel_output_7_3_9.bul_.dimacs.cnf
+Done: minisat TableModel_output_7_3_9.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00111.csv

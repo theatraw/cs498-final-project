@@ -1,0 +1,5 @@
+Task 807/1199
+Solver: cadical
+CNF: benchmarks/ibm-2004-03-k70.cnf
+Done: cadical ibm-2004-03-k70.cnf SAT 5.10s
+Saved results/job_00807.csv

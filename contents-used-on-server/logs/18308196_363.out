@@ -1,0 +1,5 @@
+Task 363/1199
+Solver: cadical
+CNF: benchmarks/CNF_to_alien_12.cnf
+Done: cadical CNF_to_alien_12.cnf UNSAT 0.82s
+Saved results/job_00363.csv

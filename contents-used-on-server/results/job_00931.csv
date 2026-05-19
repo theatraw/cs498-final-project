@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf,benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf,UNSAT,26.50471806526184,20,False,False,25923,147859,65432251,149,505536,1595120,25.8376,26,3,11257,43.0,2667,1003,69,417

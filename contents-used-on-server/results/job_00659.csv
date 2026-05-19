@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,qwh.40.560.shuffled-as.sat03-1654.cnf,benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf,SAT,24.849884271621704,10,False,False,325007,533628,112752302,766,3100,26345,24.5393,48983786,0.115746

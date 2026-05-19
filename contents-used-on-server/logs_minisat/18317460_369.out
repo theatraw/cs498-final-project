@@ -1,0 +1,5 @@
+Task 369/399
+Solver: minisat
+CNF: benchmarks/mrpp_6x6#18_20.cnf
+Done: minisat mrpp_6x6#18_20.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00369.csv

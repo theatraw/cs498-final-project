@@ -1,0 +1,5 @@
+Task 882/1199
+Solver: cadical
+CNF: benchmarks/WS_500_32_50_10.apx_2_DC-AD.cnf
+Done: cadical WS_500_32_50_10.apx_2_DC-AD.cnf TIMEOUT 300.00s
+Saved results/job_00882.csv

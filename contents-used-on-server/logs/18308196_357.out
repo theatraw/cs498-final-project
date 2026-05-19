@@ -1,0 +1,5 @@
+Task 357/1199
+Solver: cadical
+CNF: benchmarks/brent_67_0.05.cnf
+Done: cadical brent_67_0.05.cnf SAT 8.35s
+Saved results/job_00357.csv

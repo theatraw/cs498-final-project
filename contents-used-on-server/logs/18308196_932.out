@@ -1,0 +1,5 @@
+Task 932/1199
+Solver: maplesat
+CNF: benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf
+Done: maplesat shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf UNSAT 39.71s
+Saved results/job_00932.csv

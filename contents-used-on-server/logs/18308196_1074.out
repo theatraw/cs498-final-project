@@ -1,0 +1,5 @@
+Task 1074/1199
+Solver: cadical
+CNF: benchmarks/collections_namedtuple_15.cnf
+Done: cadical collections_namedtuple_15.cnf UNSAT 205.40s
+Saved results/job_01074.csv

@@ -1,0 +1,5 @@
+Task 1076/1199
+Solver: maplesat
+CNF: benchmarks/collections_namedtuple_15.cnf
+Done: maplesat collections_namedtuple_15.cnf TIMEOUT 300.00s
+Saved results/job_01076.csv

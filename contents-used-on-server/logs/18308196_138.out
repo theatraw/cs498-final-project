@@ -1,0 +1,5 @@
+Task 138/1199
+Solver: cadical
+CNF: benchmarks/ContextModel_output_6_3_8.bul_.dimacs.cnf
+Done: cadical ContextModel_output_6_3_8.bul_.dimacs.cnf SAT 197.74s
+Saved results/job_00138.csv

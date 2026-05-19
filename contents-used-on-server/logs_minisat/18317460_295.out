@@ -1,0 +1,5 @@
+Task 295/399
+Solver: minisat
+CNF: benchmarks/T87.2.0.cnf
+Done: minisat T87.2.0.cnf UNSAT 243.46s
+Saved results_minisat/job_00295.csv

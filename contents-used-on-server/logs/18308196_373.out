@@ -1,0 +1,5 @@
+Task 373/1199
+Solver: glucose
+CNF: benchmarks/rook-47-0-1.cnf
+Done: glucose rook-47-0-1.cnf TIMEOUT 300.00s
+Saved results/job_00373.csv

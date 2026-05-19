@@ -1,0 +1,5 @@
+Task 474/1199
+Solver: cadical
+CNF: benchmarks/em_11_3_4_cmp.cnf
+Done: cadical em_11_3_4_cmp.cnf SAT 135.43s
+Saved results/job_00474.csv

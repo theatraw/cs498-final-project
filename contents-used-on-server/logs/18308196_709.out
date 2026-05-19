@@ -1,0 +1,5 @@
+Task 709/1199
+Solver: glucose
+CNF: benchmarks/6g_6color_366_050_04.cnf
+Done: glucose 6g_6color_366_050_04.cnf TIMEOUT 300.00s
+Saved results/job_00709.csv

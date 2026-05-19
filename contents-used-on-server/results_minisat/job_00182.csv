@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,PRP_40_40.cnf,benchmarks/PRP_40_40.cnf,SAT,282.41740918159485,10,False,False,3571248,52225695,1320412463,6142,249398,1484862,280.461,79572139,904.84

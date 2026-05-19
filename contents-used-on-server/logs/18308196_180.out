@@ -1,0 +1,5 @@
+Task 180/1199
+Solver: cadical
+CNF: benchmarks/DivU_624_11.cnf.sanitized.cnf
+Done: cadical DivU_624_11.cnf.sanitized.cnf UNSAT 12.16s
+Saved results/job_00180.csv

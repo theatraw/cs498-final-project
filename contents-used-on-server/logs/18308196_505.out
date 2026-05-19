@@ -1,0 +1,5 @@
+Task 505/1199
+Solver: glucose
+CNF: benchmarks/g2-ak128astepbg2asisc.cnf
+Done: glucose g2-ak128astepbg2asisc.cnf SAT 4.42s
+Saved results/job_00505.csv

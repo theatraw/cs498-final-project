@@ -1,0 +1,5 @@
+Task 79/1199
+Solver: glucose
+CNF: benchmarks/satsgi-n23himBHm26-p0-q248.cnf
+Done: glucose satsgi-n23himBHm26-p0-q248.cnf SAT 0.04s
+Saved results/job_00079.csv

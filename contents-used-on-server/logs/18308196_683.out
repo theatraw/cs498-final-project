@@ -1,0 +1,5 @@
+Task 683/1199
+Solver: maplesat
+CNF: benchmarks/ER_400_20_4.apx_1_DC-ST.cnf
+Done: maplesat ER_400_20_4.apx_1_DC-ST.cnf UNSAT 202.00s
+Saved results/job_00683.csv

@@ -1,0 +1,5 @@
+Task 364/1199
+Solver: glucose
+CNF: benchmarks/CNF_to_alien_12.cnf
+Done: glucose CNF_to_alien_12.cnf TIMEOUT 300.00s
+Saved results/job_00364.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,asconhashv12_opt64_H9_M2-Jdds95CIv_m1_5.c.cnf,benchmarks/asconhashv12_opt64_H9_M2-Jdds95CIv_m1_5.c.cnf,SAT,211.59620833396912,10,False,False,248398,1037840,1358646846,574,158682,372495,209.997,15394303,214.01

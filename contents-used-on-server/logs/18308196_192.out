@@ -1,0 +1,5 @@
+Task 192/1199
+Solver: cadical
+CNF: benchmarks/SCPC-700-84.cnf
+Done: cadical SCPC-700-84.cnf SAT 29.08s
+Saved results/job_00192.csv

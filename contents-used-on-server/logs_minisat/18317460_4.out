@@ -1,0 +1,5 @@
+Task 4/399
+Solver: minisat
+CNF: benchmarks/oisc-subrv-sll-nested-15.cnf
+Done: minisat oisc-subrv-sll-nested-15.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00004.csv

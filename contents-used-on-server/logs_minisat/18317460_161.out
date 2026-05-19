@@ -1,0 +1,5 @@
+Task 161/399
+Solver: minisat
+CNF: benchmarks/REGRandom-K4-L1-Seed5.cnf
+Done: minisat REGRandom-K4-L1-Seed5.cnf UNSAT 83.57s
+Saved results_minisat/job_00161.csv

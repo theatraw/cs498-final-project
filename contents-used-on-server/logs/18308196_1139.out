@@ -1,0 +1,5 @@
+Task 1139/1199
+Solver: maplesat
+CNF: benchmarks/oisc-subrv-and-nested-14.cnf
+Done: maplesat oisc-subrv-and-nested-14.cnf TIMEOUT 300.00s
+Saved results/job_01139.csv

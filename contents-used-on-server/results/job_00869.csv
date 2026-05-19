@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,php-010-009.shuffled-as.sat05-1185.cnf,benchmarks/php-010-009.shuffled-as.sat05-1185.cnf,UNSAT,2.4163286685943604,20,False,False,130467,145046,1479621,355,90,415,2.38408,3008829,0.464288

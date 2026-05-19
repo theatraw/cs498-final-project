@@ -1,0 +1,5 @@
+Task 222/399
+Solver: minisat
+CNF: benchmarks/spg_200_307.cnf
+Done: minisat spg_200_307.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00222.csv

@@ -1,0 +1,5 @@
+Task 0/399
+Solver: minisat
+CNF: benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf
+Done: minisat asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf SAT 79.28s
+Saved results_minisat/job_00000.csv

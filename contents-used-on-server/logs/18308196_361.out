@@ -1,0 +1,5 @@
+Task 361/1199
+Solver: glucose
+CNF: benchmarks/mp1-klieber2017s-1600-022-eq.cnf
+Done: glucose mp1-klieber2017s-1600-022-eq.cnf TIMEOUT 300.00s
+Saved results/job_00361.csv

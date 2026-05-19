@@ -1,0 +1,5 @@
+Task 180/399
+Solver: minisat
+CNF: benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf
+Done: minisat ferry8_ks99i.renamed-as.sat05-4005.cnf SAT 0.27s
+Saved results_minisat/job_00180.csv

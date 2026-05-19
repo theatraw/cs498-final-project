@@ -1,0 +1,5 @@
+Task 890/1199
+Solver: maplesat
+CNF: benchmarks/grid-pbl-0150.shuffled-as.sat05-1347.shuffled-as.sat05-1347.cnf
+Done: maplesat grid-pbl-0150.shuffled-as.sat05-1347.shuffled-as.sat05-1347.cnf UNSAT 0.11s
+Saved results/job_00890.csv

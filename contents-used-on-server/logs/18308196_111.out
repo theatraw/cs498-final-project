@@ -1,0 +1,5 @@
+Task 111/1199
+Solver: cadical
+CNF: benchmarks/lisa19_99_a.shuffled.cnf
+Done: cadical lisa19_99_a.shuffled.cnf SAT 3.50s
+Saved results/job_00111.csv

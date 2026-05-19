@@ -1,0 +1,5 @@
+Task 3/1199
+Solver: cadical
+CNF: benchmarks/WCNF_to_alien_14.cnf
+Done: cadical WCNF_to_alien_14.cnf TIMEOUT 300.00s
+Saved results/job_00003.csv

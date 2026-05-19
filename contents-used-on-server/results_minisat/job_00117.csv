@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,rbsat-v760c43649gyes10.cnf,benchmarks/rbsat-v760c43649gyes10.cnf,SAT,5.126464128494263,10,False,False,102120,154576,9831050,255,760,43649,5.0254,4828148,104.34

@@ -1,0 +1,5 @@
+Task 252/1199
+Solver: cadical
+CNF: benchmarks/srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf
+Done: cadical srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf SAT 0.11s
+Saved results/job_00252.csv

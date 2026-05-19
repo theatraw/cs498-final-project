@@ -1,0 +1,5 @@
+Task 803/1199
+Solver: maplesat
+CNF: benchmarks/velev-pipe-o-uns-1.0-7.cnf
+Done: maplesat velev-pipe-o-uns-1.0-7.cnf TIMEOUT 300.00s
+Saved results/job_00803.csv

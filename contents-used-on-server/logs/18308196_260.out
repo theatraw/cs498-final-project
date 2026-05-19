@@ -1,0 +1,5 @@
+Task 260/1199
+Solver: maplesat
+CNF: benchmarks/StreamReader_readline_13.cnf
+Done: maplesat StreamReader_readline_13.cnf TIMEOUT 300.00s
+Saved results/job_00260.csv

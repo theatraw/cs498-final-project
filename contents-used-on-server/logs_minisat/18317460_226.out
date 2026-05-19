@@ -1,0 +1,5 @@
+Task 226/399
+Solver: minisat
+CNF: benchmarks/DivS_568_11.cnf.sanitized.cnf
+Done: minisat DivS_568_11.cnf.sanitized.cnf SAT 61.31s
+Saved results_minisat/job_00226.csv

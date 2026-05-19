@@ -1,0 +1,5 @@
+Task 458/1199
+Solver: maplesat
+CNF: benchmarks/new-difficult-26-243-24-70.cnf
+Done: maplesat new-difficult-26-243-24-70.cnf TIMEOUT 300.00s
+Saved results/job_00458.csv

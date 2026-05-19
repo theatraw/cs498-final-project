@@ -1,0 +1,5 @@
+Task 718/1199
+Solver: glucose
+CNF: benchmarks/TableModel_output_8_4_7.bul_.dimacs.cnf
+Done: glucose TableModel_output_8_4_7.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00718.csv

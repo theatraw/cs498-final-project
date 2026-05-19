@@ -1,0 +1,5 @@
+Task 181/1199
+Solver: glucose
+CNF: benchmarks/DivU_624_11.cnf.sanitized.cnf
+Done: glucose DivU_624_11.cnf.sanitized.cnf UNSAT 135.20s
+Saved results/job_00181.csv

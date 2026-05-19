@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,UNSAT,2.1341888904571533,20,False,False,447740,604385,2142802,70,45,376,2.10571,775,181,402485,12.0,148,126,17,80

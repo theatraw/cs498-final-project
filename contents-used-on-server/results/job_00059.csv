@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,benchmarks/mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,SAT,0.3939483165740967,10,False,False,7322,27434,787942,31,2396,83733,0.379106,229218,0.146108

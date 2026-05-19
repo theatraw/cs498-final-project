@@ -1,0 +1,5 @@
+Task 618/1199
+Solver: cadical
+CNF: benchmarks/stb_792_333.apx_1_DS-ST.cnf
+Done: cadical stb_792_333.apx_1_DS-ST.cnf TIMEOUT 300.00s
+Saved results/job_00618.csv

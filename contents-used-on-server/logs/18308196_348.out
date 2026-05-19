@@ -1,0 +1,5 @@
+Task 348/1199
+Solver: cadical
+CNF: benchmarks/SAT_dat.k10.cnf
+Done: cadical SAT_dat.k10.cnf UNSAT 18.57s
+Saved results/job_00348.csv

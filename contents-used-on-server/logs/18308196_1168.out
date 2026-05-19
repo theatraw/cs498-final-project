@@ -1,0 +1,5 @@
+Task 1168/1199
+Solver: glucose
+CNF: benchmarks/rbsat-v760c43649gyes5.cnf
+Done: glucose rbsat-v760c43649gyes5.cnf SAT 4.16s
+Saved results/job_01168.csv

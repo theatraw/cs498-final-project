@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,tph8.cnf,benchmarks/tph8.cnf,UNSAT,270.51837182044983,20,False,False,6296309,7764780,113481291,209719,,,,6181184,3961389,1924243,171145,15019,268.25,270.51,68.0,20

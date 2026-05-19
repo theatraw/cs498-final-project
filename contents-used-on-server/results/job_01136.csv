@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,C208_FA_UT_3254.cnf,benchmarks/C208_FA_UT_3254.cnf,UNSAT,0.028995275497436523,20,False,False,0,0,1219,0,1805,6135,0.012044,0,

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf,benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf,UNSAT,39.71174883842468,20,False,False,22195,113994,65221886,78,505536,1595120,39.1755,1817198,0.088362

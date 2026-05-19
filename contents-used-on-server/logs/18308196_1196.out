@@ -1,0 +1,5 @@
+Task 1196/1199
+Solver: maplesat
+CNF: benchmarks/CNP-5-1100.cnf
+Done: maplesat CNP-5-1100.cnf TIMEOUT 300.00s
+Saved results/job_01196.csv

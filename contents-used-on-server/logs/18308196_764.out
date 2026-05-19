@@ -1,0 +1,5 @@
+Task 764/1199
+Solver: maplesat
+CNF: benchmarks/rphp_p8_r250.cnf
+Done: maplesat rphp_p8_r250.cnf TIMEOUT 300.00s
+Saved results/job_00764.csv

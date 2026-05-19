@@ -1,0 +1,13 @@
+category,solver,conflicts,propagations,restarts
+crafted,cadical,398389.0,32602187.0,5775.0
+crafted,glucose,1173236.0,411574162.5,3329.5
+crafted,maplesat,1532154.0,321092461.0,3034.0
+industrial,cadical,486945.0,142673615.0,19598.0
+industrial,glucose,554256.5,657162748.0,2409.5
+industrial,maplesat,17605.0,143876851.0,63.0
+random,cadical,132686.0,4468679.0,4989.0
+random,glucose,56440.0,4955845.0,168.0
+random,maplesat,112011.0,6485695.0,288.0
+unknown,cadical,53421.5,6245559.0,1936.0
+unknown,glucose,198371.0,16211276.0,387.0
+unknown,maplesat,70280.0,22132426.0,220.0

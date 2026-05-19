@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,DivS_942_11.cnf.sanitized.cnf,benchmarks/DivS_942_11.cnf.sanitized.cnf,SAT,148.89956426620483,10,False,False,0,1,942,1,942,936584,147.435,0,0,0,0.0,0,0,0,0

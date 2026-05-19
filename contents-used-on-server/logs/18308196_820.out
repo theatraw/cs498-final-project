@@ -1,0 +1,5 @@
+Task 820/1199
+Solver: glucose
+CNF: benchmarks/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf
+Done: glucose shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf SAT 5.18s
+Saved results/job_00820.csv

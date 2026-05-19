@@ -1,0 +1,5 @@
+Task 519/1199
+Solver: cadical
+CNF: benchmarks/rand_net70-40-10.shuffled.cnf
+Done: cadical rand_net70-40-10.shuffled.cnf UNSAT 1.77s
+Saved results/job_00519.csv

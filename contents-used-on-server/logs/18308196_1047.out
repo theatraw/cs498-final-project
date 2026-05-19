@@ -1,0 +1,5 @@
+Task 1047/1199
+Solver: cadical
+CNF: benchmarks/CNF_to_alien_11.cnf
+Done: cadical CNF_to_alien_11.cnf UNSAT 0.31s
+Saved results/job_01047.csv

@@ -1,0 +1,5 @@
+Task 174/1199
+Solver: cadical
+CNF: benchmarks/SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf
+Done: cadical SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf TIMEOUT 300.00s
+Saved results/job_00174.csv

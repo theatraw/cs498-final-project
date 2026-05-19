@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,sat-bench-trig-bhaskara.cnf,benchmarks/sat-bench-trig-bhaskara.cnf,UNSAT,179.26814365386963,20,False,False,1295008,3846132,1173058552,6875,618715,2602587,176.9,4193,28,1077639,67.0,29603,11023,395,31657

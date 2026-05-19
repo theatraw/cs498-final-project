@@ -1,0 +1,5 @@
+Task 1108/1199
+Solver: glucose
+CNF: benchmarks/mrpp_6x6#18_20.cnf
+Done: glucose mrpp_6x6#18_20.cnf SAT 126.20s
+Saved results/job_01108.csv

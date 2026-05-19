@@ -1,0 +1,5 @@
+Task 443/1199
+Solver: maplesat
+CNF: benchmarks/Schur_161_5_d40.cnf
+Done: maplesat Schur_161_5_d40.cnf TIMEOUT 300.00s
+Saved results/job_00443.csv

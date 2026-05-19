@@ -1,0 +1,5 @@
+Task 20/1199
+Solver: maplesat
+CNF: benchmarks/CNFPlus_from_fp_12.cnf
+Done: maplesat CNFPlus_from_fp_12.cnf TIMEOUT 300.00s
+Saved results/job_00020.csv

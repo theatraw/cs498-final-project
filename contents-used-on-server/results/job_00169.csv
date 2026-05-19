@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf,benchmarks/SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf,SAT,265.4033799171448,10,False,False,2049365,84775316,966161413,24406,249051,802440,262.354,2567,39,1906266,101.0,4929,2565,27,5872

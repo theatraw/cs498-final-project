@@ -1,0 +1,5 @@
+Task 958/1199
+Solver: glucose
+CNF: benchmarks/GzipFile_close_11.cnf
+Done: glucose GzipFile_close_11.cnf TIMEOUT 300.00s
+Saved results/job_00958.csv

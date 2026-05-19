@@ -1,0 +1,5 @@
+Task 0/1199
+Solver: cadical
+CNF: benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf
+Done: cadical asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf SAT 242.54s
+Saved results/job_00000.csv

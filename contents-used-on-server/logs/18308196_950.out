@@ -1,0 +1,5 @@
+Task 950/1199
+Solver: maplesat
+CNF: benchmarks/jkkk-one-one-11-32-unsat.cnf
+Done: maplesat jkkk-one-one-11-32-unsat.cnf UNSAT 177.80s
+Saved results/job_00950.csv

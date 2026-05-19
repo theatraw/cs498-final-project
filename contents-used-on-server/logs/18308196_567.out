@@ -1,0 +1,5 @@
+Task 567/1199
+Solver: cadical
+CNF: benchmarks/mchess16-mixed-25percent-blocked.cnf
+Done: cadical mchess16-mixed-25percent-blocked.cnf UNSAT 20.66s
+Saved results/job_00567.csv

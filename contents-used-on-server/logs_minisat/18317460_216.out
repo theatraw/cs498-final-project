@@ -1,0 +1,5 @@
+Task 216/399
+Solver: minisat
+CNF: benchmarks/SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf
+Done: minisat SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf SAT 108.04s
+Saved results_minisat/job_00216.csv

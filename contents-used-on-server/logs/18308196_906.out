@@ -1,0 +1,5 @@
+Task 906/1199
+Solver: cadical
+CNF: benchmarks/vmpc_24.cnf
+Done: cadical vmpc_24.cnf SAT 29.55s
+Saved results/job_00906.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,stb_588_138.apx_2_DC-ST.cnf,benchmarks/stb_588_138.apx_2_DC-ST.cnf,UNSAT,164.74405026435852,20,False,False,3066973,4146750,262619644,96765,,,,3005618,2049647,809360,38150,13291,150.83,164.72,68.0,20

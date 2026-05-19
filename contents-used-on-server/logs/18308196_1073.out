@@ -1,0 +1,5 @@
+Task 1073/1199
+Solver: maplesat
+CNF: benchmarks/6s20-sc2013.cnf
+Done: maplesat 6s20-sc2013.cnf TIMEOUT 300.00s
+Saved results/job_01073.csv

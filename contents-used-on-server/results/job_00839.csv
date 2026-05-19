@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,WS_500_16_70_10.apx_2_DC-ST.cnf,benchmarks/WS_500_16_70_10.apx_2_DC-ST.cnf,UNSAT,120.25303220748901,20,False,False,1977328,2373534,295511758,3851,1000,13500,119.406,60146183,0.100091

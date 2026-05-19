@@ -1,0 +1,5 @@
+Task 1019/1199
+Solver: maplesat
+CNF: benchmarks/asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf
+Done: maplesat asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf TIMEOUT 300.00s
+Saved results/job_01019.csv

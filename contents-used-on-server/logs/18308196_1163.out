@@ -1,0 +1,5 @@
+Task 1163/1199
+Solver: maplesat
+CNF: benchmarks/WCNFPlus_to_alien_14.cnf
+Done: maplesat WCNFPlus_to_alien_14.cnf TIMEOUT 300.00s
+Saved results/job_01163.csv

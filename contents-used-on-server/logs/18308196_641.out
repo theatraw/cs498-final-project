@@ -1,0 +1,5 @@
+Task 641/1199
+Solver: maplesat
+CNF: benchmarks/PRP_30_41.cnf
+Done: maplesat PRP_30_41.cnf SAT 261.30s
+Saved results/job_00641.csv

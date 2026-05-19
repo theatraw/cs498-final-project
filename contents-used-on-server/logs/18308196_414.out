@@ -1,0 +1,5 @@
+Task 414/1199
+Solver: cadical
+CNF: benchmarks/WS_500_16_90_70.apx_2_DC-ST.cnf
+Done: cadical WS_500_16_90_70.apx_2_DC-ST.cnf UNSAT 182.91s
+Saved results/job_00414.csv

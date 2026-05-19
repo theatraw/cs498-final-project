@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf,benchmarks/mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf,SAT,157.77372932434082,10,False,False,3232253,3437573,228124440,5734,354,2596,156.187,57864165,0.341644

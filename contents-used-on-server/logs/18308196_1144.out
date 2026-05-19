@@ -1,0 +1,5 @@
+Task 1144/1199
+Solver: glucose
+CNF: benchmarks/tseitin_grid_n100_m100.cnf
+Done: glucose tseitin_grid_n100_m100.cnf TIMEOUT 300.00s
+Saved results/job_01144.csv

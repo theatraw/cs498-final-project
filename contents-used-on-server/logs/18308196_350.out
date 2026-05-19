@@ -1,0 +1,5 @@
+Task 350/1199
+Solver: maplesat
+CNF: benchmarks/SAT_dat.k10.cnf
+Done: maplesat SAT_dat.k10.cnf TIMEOUT 300.00s
+Saved results/job_00350.csv

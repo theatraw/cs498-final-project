@@ -1,0 +1,5 @@
+Task 146/399
+Solver: minisat
+CNF: benchmarks/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf
+Done: minisat mod4block_2vars_10gates_u2_autoenc-sc2009.cnf SAT 206.30s
+Saved results_minisat/job_00146.csv

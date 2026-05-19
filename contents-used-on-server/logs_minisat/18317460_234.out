@@ -1,0 +1,5 @@
+Task 234/399
+Solver: minisat
+CNF: benchmarks/square.2.0.i.smt2-cvc4.cnf
+Done: minisat square.2.0.i.smt2-cvc4.cnf UNSAT 1.48s
+Saved results_minisat/job_00234.csv

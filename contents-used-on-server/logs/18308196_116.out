@@ -1,0 +1,5 @@
+Task 116/1199
+Solver: maplesat
+CNF: benchmarks/satcoin-genesis-UNSAT-17800.cnf
+Done: maplesat satcoin-genesis-UNSAT-17800.cnf TIMEOUT 300.00s
+Saved results/job_00116.csv

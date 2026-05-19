@@ -1,0 +1,5 @@
+Task 335/399
+Solver: minisat
+CNF: benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf
+Done: minisat rovers1_ks99i.renamed-as.sat05-3971.cnf SAT 0.02s
+Saved results_minisat/job_00335.csv

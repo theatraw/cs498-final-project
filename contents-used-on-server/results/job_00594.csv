@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,g2-slp-synthesis-aes-top29.cnf,benchmarks/g2-slp-synthesis-aes-top29.cnf,SAT,68.40258884429932,10,False,False,552354,2484570,479462847,32959,,,,535946,372950,98225,29030,8379,67.67,68.38,117.73,10

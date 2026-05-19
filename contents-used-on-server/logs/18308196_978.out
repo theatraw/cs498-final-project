@@ -1,0 +1,5 @@
+Task 978/1199
+Solver: cadical
+CNF: benchmarks/tseitin_d3_n10000.cnf
+Done: cadical tseitin_d3_n10000.cnf TIMEOUT 300.00s
+Saved results/job_00978.csv

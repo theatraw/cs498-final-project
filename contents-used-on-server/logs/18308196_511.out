@@ -1,0 +1,5 @@
+Task 511/1199
+Solver: glucose
+CNF: benchmarks/DivS_862_11.cnf.sanitized.cnf
+Done: glucose DivS_862_11.cnf.sanitized.cnf SAT 147.13s
+Saved results/job_00511.csv

@@ -1,0 +1,5 @@
+Task 670/1199
+Solver: glucose
+CNF: benchmarks/6s165.cnf
+Done: glucose 6s165.cnf UNSAT 6.21s
+Saved results/job_00670.csv

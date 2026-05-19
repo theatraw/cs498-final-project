@@ -1,0 +1,5 @@
+Task 251/399
+Solver: minisat
+CNF: benchmarks/SCPC-800-42.cnf
+Done: minisat SCPC-800-42.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00251.csv

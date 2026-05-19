@@ -1,0 +1,5 @@
+Task 434/1199
+Solver: maplesat
+CNF: benchmarks/rphp_p60_r60.cnf
+Done: maplesat rphp_p60_r60.cnf TIMEOUT 300.00s
+Saved results/job_00434.csv

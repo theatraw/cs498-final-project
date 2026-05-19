@@ -1,0 +1,5 @@
+Task 136/1199
+Solver: glucose
+CNF: benchmarks/os_fwalk_12.cnf
+Done: glucose os_fwalk_12.cnf TIMEOUT 300.00s
+Saved results/job_00136.csv

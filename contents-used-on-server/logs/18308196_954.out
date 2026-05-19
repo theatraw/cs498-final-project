@@ -1,0 +1,5 @@
+Task 954/1199
+Solver: cadical
+CNF: benchmarks/rphp_p30_r30.cnf
+Done: cadical rphp_p30_r30.cnf TIMEOUT 300.00s
+Saved results/job_00954.csv

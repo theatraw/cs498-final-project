@@ -1,0 +1,5 @@
+Task 185/1199
+Solver: maplesat
+CNF: benchmarks/31_1.cnf
+Done: maplesat 31_1.cnf TIMEOUT 300.00s
+Saved results/job_00185.csv

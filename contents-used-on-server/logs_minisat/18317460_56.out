@@ -1,0 +1,5 @@
+Task 56/399
+Solver: minisat
+CNF: benchmarks/SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf
+Done: minisat SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00056.csv

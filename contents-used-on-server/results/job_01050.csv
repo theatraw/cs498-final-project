@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,asconhashv12_opt64_H5_M2-A8qZX_m0_3_U23.c.cnf,benchmarks/asconhashv12_opt64_H5_M2-A8qZX_m0_3_U23.c.cnf,UNSAT,254.50285243988037,20,False,False,1559234,55411365,738064426,211541,,,,1388764,1140485,108779,175095,6220,252.33,254.48,165.79,20

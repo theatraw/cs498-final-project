@@ -1,0 +1,5 @@
+Task 168/399
+Solver: minisat
+CNF: benchmarks/g2-ak128astepbg2asisc.cnf
+Done: minisat g2-ak128astepbg2asisc.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00168.csv

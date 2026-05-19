@@ -1,0 +1,5 @@
+Task 152/399
+Solver: minisat
+CNF: benchmarks/new-difficult-26-243-24-70.cnf
+Done: minisat new-difficult-26-243-24-70.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00152.csv

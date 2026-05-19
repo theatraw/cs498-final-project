@@ -1,0 +1,5 @@
+Task 587/1199
+Solver: maplesat
+CNF: benchmarks/baseballcover13with25_and3positions.cnf
+Done: maplesat baseballcover13with25_and3positions.cnf TIMEOUT 300.00s
+Saved results/job_00587.csv

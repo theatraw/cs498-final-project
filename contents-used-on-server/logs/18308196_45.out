@@ -1,0 +1,5 @@
+Task 45/1199
+Solver: cadical
+CNF: benchmarks/grs-64-160.cnf
+Done: cadical grs-64-160.cnf TIMEOUT 300.00s
+Saved results/job_00045.csv

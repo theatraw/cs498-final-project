@@ -1,0 +1,5 @@
+Task 74/399
+Solver: minisat
+CNF: benchmarks/asconhashv12_opt64_H8_M2-nm2vUdkK_m3_5_U3.c.cnf
+Done: minisat asconhashv12_opt64_H8_M2-nm2vUdkK_m3_5_U3.c.cnf UNSAT 227.50s
+Saved results_minisat/job_00074.csv

@@ -1,0 +1,5 @@
+Task 998/1199
+Solver: maplesat
+CNF: benchmarks/rbsat-v1150c84314gyes10.cnf
+Done: maplesat rbsat-v1150c84314gyes10.cnf TIMEOUT 300.00s
+Saved results/job_00998.csv

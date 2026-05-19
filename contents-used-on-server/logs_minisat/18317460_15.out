@@ -1,0 +1,5 @@
+Task 15/399
+Solver: minisat
+CNF: benchmarks/grs-64-160.cnf
+Done: minisat grs-64-160.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00015.csv

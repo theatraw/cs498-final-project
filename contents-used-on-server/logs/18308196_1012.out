@@ -1,0 +1,5 @@
+Task 1012/1199
+Solver: glucose
+CNF: benchmarks/minxor128.cnf
+Done: glucose minxor128.cnf UNSAT 75.90s
+Saved results/job_01012.csv

@@ -1,0 +1,5 @@
+Task 751/1199
+Solver: glucose
+CNF: benchmarks/g2-T99.2.0.cnf
+Done: glucose g2-T99.2.0.cnf UNSAT 7.22s
+Saved results/job_00751.csv

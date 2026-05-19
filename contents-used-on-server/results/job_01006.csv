@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,rovers1_ks99i.renamed-as.sat05-3971.cnf,benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf,SAT,0.012758493423461914,10,False,False,7,41,242,1,439,5389,0.003011,0,0,0,7.0,3,3,0,1

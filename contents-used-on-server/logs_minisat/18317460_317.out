@@ -1,0 +1,5 @@
+Task 317/399
+Solver: minisat
+CNF: benchmarks/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf
+Done: minisat connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf SAT 0.15s
+Saved results_minisat/job_00317.csv

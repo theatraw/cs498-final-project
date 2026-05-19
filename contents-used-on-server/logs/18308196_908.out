@@ -1,0 +1,5 @@
+Task 908/1199
+Solver: maplesat
+CNF: benchmarks/vmpc_24.cnf
+Done: maplesat vmpc_24.cnf SAT 7.21s
+Saved results/job_00908.csv

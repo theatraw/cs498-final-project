@@ -1,0 +1,5 @@
+Task 593/1199
+Solver: maplesat
+CNF: benchmarks/pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf
+Done: maplesat pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf UNSAT 0.08s
+Saved results/job_00593.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,c499_gr_2pin_w6.shuffled.cnf,benchmarks/c499_gr_2pin_w6.shuffled.cnf,SAT,0.1509554386138916,10,False,False,5491,74126,443082,10,2070,22470,0.137866,0,1,992,8.0,37,0,0,2

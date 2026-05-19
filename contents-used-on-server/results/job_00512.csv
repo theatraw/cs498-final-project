@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,DivS_862_11.cnf.sanitized.cnf,benchmarks/DivS_862_11.cnf.sanitized.cnf,SAT,96.17653465270996,10,False,False,0,1,862,1,862,855716,95.3317,0,

@@ -1,0 +1,5 @@
+Task 506/1199
+Solver: maplesat
+CNF: benchmarks/g2-ak128astepbg2asisc.cnf
+Done: maplesat g2-ak128astepbg2asisc.cnf TIMEOUT 300.00s
+Saved results/job_00506.csv

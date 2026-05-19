@@ -1,0 +1,5 @@
+Task 52/1199
+Solver: glucose
+CNF: benchmarks/shift1add.28943.cnf
+Done: glucose shift1add.28943.cnf UNSAT 271.48s
+Saved results/job_00052.csv

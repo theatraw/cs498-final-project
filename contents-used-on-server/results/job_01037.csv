@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,9vliw_bp_mc.shuffled.cnf,benchmarks/9vliw_bp_mc.shuffled.cnf,UNSAT,6.535437107086182,20,False,False,121173,1212138,28911286,318,20093,179481,6.35325,4821933,0.050873

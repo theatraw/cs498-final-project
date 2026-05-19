@@ -1,0 +1,5 @@
+Task 325/399
+Solver: minisat
+CNF: benchmarks/aes_decry_2_rounds.debugged.cnf
+Done: minisat aes_decry_2_rounds.debugged.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00325.csv

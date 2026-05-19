@@ -1,0 +1,5 @@
+Task 37/399
+Solver: minisat
+CNF: benchmarks/lisa19_99_a.shuffled.cnf
+Done: minisat lisa19_99_a.shuffled.cnf SAT 1.28s
+Saved results_minisat/job_00037.csv

@@ -1,0 +1,5 @@
+Task 127/1199
+Solver: glucose
+CNF: benchmarks/satcoin-genesis-UNSAT-18800.cnf
+Done: glucose satcoin-genesis-UNSAT-18800.cnf TIMEOUT 300.00s
+Saved results/job_00127.csv

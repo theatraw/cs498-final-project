@@ -1,0 +1,5 @@
+Task 982/1199
+Solver: glucose
+CNF: benchmarks/mrpp_8x8#22_10.cnf
+Done: glucose mrpp_8x8#22_10.cnf UNSAT 0.16s
+Saved results/job_00982.csv

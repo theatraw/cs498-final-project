@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,CNP-5-1100.cnf,benchmarks/CNP-5-1100.cnf,SAT,65.66306328773499,10,False,False,592813,1326846,289400678,14811,,,,575808,477196,27308,80572,1206,65.08,65.64,75.96,10

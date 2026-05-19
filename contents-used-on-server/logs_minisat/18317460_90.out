@@ -1,0 +1,5 @@
+Task 90/399
+Solver: minisat
+CNF: benchmarks/grs-192-32.cnf
+Done: minisat grs-192-32.cnf UNSAT 213.37s
+Saved results_minisat/job_00090.csv

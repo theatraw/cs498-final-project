@@ -1,0 +1,5 @@
+Task 980/1199
+Solver: maplesat
+CNF: benchmarks/tseitin_d3_n10000.cnf
+Done: maplesat tseitin_d3_n10000.cnf TIMEOUT 300.00s
+Saved results/job_00980.csv

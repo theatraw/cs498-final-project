@@ -1,0 +1,5 @@
+Task 172/399
+Solver: minisat
+CNF: benchmarks/satcoin-genesis-UNSAT-11900.cnf
+Done: minisat satcoin-genesis-UNSAT-11900.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00172.csv

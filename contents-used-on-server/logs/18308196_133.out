@@ -1,0 +1,5 @@
+Task 133/1199
+Solver: glucose
+CNF: benchmarks/asconhashv12_opt64_H7_M2-gHvzZOd_m3_4_U11.c.cnf
+Done: glucose asconhashv12_opt64_H7_M2-gHvzZOd_m3_4_U11.c.cnf UNSAT 167.99s
+Saved results/job_00133.csv

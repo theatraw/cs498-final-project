@@ -1,0 +1,5 @@
+Task 552/1199
+Solver: cadical
+CNF: benchmarks/FileObject_open_13.cnf
+Done: cadical FileObject_open_13.cnf UNSAT 202.40s
+Saved results/job_00552.csv

@@ -1,0 +1,5 @@
+Task 45/399
+Solver: minisat
+CNF: benchmarks/os_fwalk_12.cnf
+Done: minisat os_fwalk_12.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00045.csv

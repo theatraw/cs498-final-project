@@ -1,0 +1,5 @@
+Task 163/399
+Solver: minisat
+CNF: benchmarks/3col120_5_2.shuffled.cnf
+Done: minisat 3col120_5_2.shuffled.cnf SAT 0.12s
+Saved results_minisat/job_00163.csv

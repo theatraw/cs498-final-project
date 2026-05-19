@@ -1,0 +1,5 @@
+{
+  "cadical": "/projects/bgvu/ttraw/final-project/sat-solvers/cadical/build/cadical",
+  "glucose": "/projects/bgvu/ttraw/final-project/sat-solvers/glucose/simp/glucose",
+  "maplesat": "/projects/bgvu/ttraw/final-project/sat-solvers/maplesat/simp/maplesat_static"
+}

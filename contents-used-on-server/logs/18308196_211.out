@@ -1,0 +1,5 @@
+Task 211/1199
+Solver: glucose
+CNF: benchmarks/asconhashv12_opt64_H10_M2-pH7B6T6Vub_m6_7.c.cnf
+Done: glucose asconhashv12_opt64_H10_M2-pH7B6T6Vub_m6_7.c.cnf TIMEOUT 300.00s
+Saved results/job_00211.csv

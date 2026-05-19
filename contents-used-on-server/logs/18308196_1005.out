@@ -1,0 +1,5 @@
+Task 1005/1199
+Solver: cadical
+CNF: benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf
+Done: cadical rovers1_ks99i.renamed-as.sat05-3971.cnf SAT 0.03s
+Saved results/job_01005.csv

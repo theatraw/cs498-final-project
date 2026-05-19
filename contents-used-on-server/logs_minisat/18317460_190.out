@@ -1,0 +1,5 @@
+Task 190/399
+Solver: minisat
+CNF: benchmarks/brent_51_0.29.cnf
+Done: minisat brent_51_0.29.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00190.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,46bits_11.dimacs.cnf,benchmarks/46bits_11.dimacs.cnf,SAT,261.10978507995605,10,False,False,1716485,1945758,171803159,4779,689,16922,258.375,22066,36,1616249,24.0,3623,90,9,1703

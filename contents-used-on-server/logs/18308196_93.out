@@ -1,0 +1,5 @@
+Task 93/1199
+Solver: cadical
+CNF: benchmarks/Urquhart-s5-b4.shuffled.cnf
+Done: cadical Urquhart-s5-b4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00093.csv

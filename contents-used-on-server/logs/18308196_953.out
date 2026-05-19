@@ -1,0 +1,5 @@
+Task 953/1199
+Solver: maplesat
+CNF: benchmarks/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf
+Done: maplesat connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf SAT 0.21s
+Saved results/job_00953.csv

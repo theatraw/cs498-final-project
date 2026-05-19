@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,ncc_none_7047_6_3_3_0_0_420.cnf,benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf,TIMEOUT,300,,True,False,,,,,,,

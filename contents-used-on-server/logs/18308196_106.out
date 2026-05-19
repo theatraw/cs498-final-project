@@ -1,0 +1,5 @@
+Task 106/1199
+Solver: glucose
+CNF: benchmarks/10pipe_q0_k.cnf
+Done: glucose 10pipe_q0_k.cnf UNSAT 95.04s
+Saved results/job_00106.csv

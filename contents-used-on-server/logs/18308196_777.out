@@ -1,0 +1,5 @@
+Task 777/1199
+Solver: cadical
+CNF: benchmarks/crafted_n12_d6_c4_num4.cnf
+Done: cadical crafted_n12_d6_c4_num4.cnf UNSAT 108.10s
+Saved results/job_00777.csv

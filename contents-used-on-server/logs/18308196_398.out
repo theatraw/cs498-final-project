@@ -1,0 +1,5 @@
+Task 398/1199
+Solver: maplesat
+CNF: benchmarks/SCPC-700-82.cnf
+Done: maplesat SCPC-700-82.cnf TIMEOUT 300.00s
+Saved results/job_00398.csv

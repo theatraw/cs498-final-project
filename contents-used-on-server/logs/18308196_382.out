@@ -1,0 +1,5 @@
+Task 382/1199
+Solver: glucose
+CNF: benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf
+Done: glucose hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf UNSAT 1.31s
+Saved results/job_00382.csv

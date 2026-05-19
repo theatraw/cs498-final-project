@@ -1,0 +1,5 @@
+Task 590/1199
+Solver: maplesat
+CNF: benchmarks/brent_69_0.cnf
+Done: maplesat brent_69_0.cnf TIMEOUT 300.00s
+Saved results/job_00590.csv

@@ -1,0 +1,5 @@
+Task 95/1199
+Solver: maplesat
+CNF: benchmarks/Urquhart-s5-b4.shuffled.cnf
+Done: maplesat Urquhart-s5-b4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00095.csv

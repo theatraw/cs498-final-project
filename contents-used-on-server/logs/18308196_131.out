@@ -1,0 +1,5 @@
+Task 131/1199
+Solver: maplesat
+CNF: benchmarks/5col100_15_6.shuffled.cnf
+Done: maplesat 5col100_15_6.shuffled.cnf UNSAT 7.45s
+Saved results/job_00131.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,patat-08-comp-3.cnf,benchmarks/patat-08-comp-3.cnf,SAT,51.179643630981445,10,False,False,1816982,12466658,222360173,7327,78774,1616620,50.6444,14165,37,1712599,28.0,52,13,0,104

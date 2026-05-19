@@ -1,0 +1,5 @@
+Task 1173/1199
+Solver: cadical
+CNF: benchmarks/BZ2File_write_11.cnf
+Done: cadical BZ2File_write_11.cnf UNSAT 0.35s
+Saved results/job_01173.csv

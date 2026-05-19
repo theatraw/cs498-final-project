@@ -1,0 +1,5 @@
+Task 246/399
+Solver: minisat
+CNF: benchmarks/satcoin-genesis-UNSAT-18600.cnf
+Done: minisat satcoin-genesis-UNSAT-18600.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00246.csv

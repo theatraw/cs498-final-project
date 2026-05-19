@@ -1,0 +1,5 @@
+Task 29/1199
+Solver: maplesat
+CNF: benchmarks/sgen3-n260-s62321009-sat.cnf
+Done: maplesat sgen3-n260-s62321009-sat.cnf TIMEOUT 300.00s
+Saved results/job_00029.csv

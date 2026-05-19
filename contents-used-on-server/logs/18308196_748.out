@@ -1,0 +1,5 @@
+Task 748/1199
+Solver: glucose
+CNF: benchmarks/satch2ways16w.cnf
+Done: glucose satch2ways16w.cnf TIMEOUT 300.00s
+Saved results/job_00748.csv

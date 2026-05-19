@@ -1,0 +1,5 @@
+Task 154/1199
+Solver: glucose
+CNF: benchmarks/c880_gr_rcs_w7.shuffled.cnf
+Done: glucose c880_gr_rcs_w7.shuffled.cnf SAT 0.22s
+Saved results/job_00154.csv

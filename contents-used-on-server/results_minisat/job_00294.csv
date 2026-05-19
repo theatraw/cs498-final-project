@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,WS_500_32_50_10.apx_2_DC-AD.cnf,benchmarks/WS_500_32_50_10.apx_2_DC-AD.cnf,TIMEOUT,300,,True,False,,,,,,,

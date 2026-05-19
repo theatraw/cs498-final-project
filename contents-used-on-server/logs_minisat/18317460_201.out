@@ -1,0 +1,5 @@
+Task 201/399
+Solver: minisat
+CNF: benchmarks/iso-ukn004.shuffled-as.sat05-3385.cnf
+Done: minisat iso-ukn004.shuffled-as.sat05-3385.cnf SAT 0.08s
+Saved results_minisat/job_00201.csv

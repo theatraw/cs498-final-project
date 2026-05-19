@@ -1,0 +1,5 @@
+Task 456/1199
+Solver: cadical
+CNF: benchmarks/new-difficult-26-243-24-70.cnf
+Done: cadical new-difficult-26-243-24-70.cnf SAT 0.05s
+Saved results/job_00456.csv

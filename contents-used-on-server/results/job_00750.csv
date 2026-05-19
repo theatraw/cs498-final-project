@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,g2-T99.2.0.cnf,benchmarks/g2-T99.2.0.cnf,UNSAT,45.346378564834595,20,False,False,85,166,24355,,,,,27,,114659,518,,42.14,42.86,4109.42,20

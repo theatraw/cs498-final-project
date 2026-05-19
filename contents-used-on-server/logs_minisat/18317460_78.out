@@ -1,0 +1,5 @@
+Task 78/399
+Solver: minisat
+CNF: benchmarks/php18-mixed-35percent-blocked.cnf
+Done: minisat php18-mixed-35percent-blocked.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00078.csv

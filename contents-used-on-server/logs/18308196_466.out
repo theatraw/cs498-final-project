@@ -1,0 +1,5 @@
+Task 466/1199
+Solver: glucose
+CNF: benchmarks/SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf
+Done: glucose SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf SAT 253.29s
+Saved results/job_00466.csv

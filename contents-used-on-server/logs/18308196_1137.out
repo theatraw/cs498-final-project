@@ -1,0 +1,5 @@
+Task 1137/1199
+Solver: cadical
+CNF: benchmarks/oisc-subrv-and-nested-14.cnf
+Done: cadical oisc-subrv-and-nested-14.cnf TIMEOUT 300.00s
+Saved results/job_01137.csv

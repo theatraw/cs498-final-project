@@ -1,0 +1,5 @@
+Task 490/1199
+Solver: glucose
+CNF: benchmarks/3col120_5_2.shuffled.cnf
+Done: glucose 3col120_5_2.shuffled.cnf SAT 0.22s
+Saved results/job_00490.csv

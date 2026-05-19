@@ -1,0 +1,5 @@
+Task 236/1199
+Solver: maplesat
+CNF: benchmarks/php18-mixed-35percent-blocked.cnf
+Done: maplesat php18-mixed-35percent-blocked.cnf UNSAT 115.26s
+Saved results/job_00236.csv

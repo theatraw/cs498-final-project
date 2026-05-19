@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,square.2.0.i.smt2-cvc4.cnf,benchmarks/square.2.0.i.smt2-cvc4.cnf,UNSAT,5.535615921020508,20,False,False,27356,93500,28275650,95,42387,183641,5.43487,591255,0.104348

@@ -1,0 +1,5 @@
+Task 214/399
+Solver: minisat
+CNF: benchmarks/grs-64-32.cnf
+Done: minisat grs-64-32.cnf UNSAT 156.69s
+Saved results_minisat/job_00214.csv

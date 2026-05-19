@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,pyhala-braun-sat-35-4-04.shuffled.cnf,benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf,SAT,25.159494161605835,10,False,False,281891,445286,133540790,14168,,,,277206,147762,88266,14518,4136,24.85,25.15,67.0,10

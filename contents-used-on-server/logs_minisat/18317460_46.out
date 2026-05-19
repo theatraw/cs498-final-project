@@ -1,0 +1,5 @@
+Task 46/399
+Solver: minisat
+CNF: benchmarks/ContextModel_output_6_3_8.bul_.dimacs.cnf
+Done: minisat ContextModel_output_6_3_8.bul_.dimacs.cnf SAT 223.84s
+Saved results_minisat/job_00046.csv

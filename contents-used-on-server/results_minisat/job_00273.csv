@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf,benchmarks/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf,TIMEOUT,300,,True,False,,,,,,,

@@ -1,0 +1,5 @@
+Task 170/399
+Solver: minisat
+CNF: benchmarks/DivS_862_11.cnf.sanitized.cnf
+Done: minisat DivS_862_11.cnf.sanitized.cnf SAT 131.18s
+Saved results_minisat/job_00170.csv

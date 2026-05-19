@@ -1,0 +1,5 @@
+Task 195/399
+Solver: minisat
+CNF: benchmarks/baseballcover13with25_and3positions.cnf
+Done: minisat baseballcover13with25_and3positions.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00195.csv

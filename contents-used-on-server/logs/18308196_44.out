@@ -1,0 +1,5 @@
+Task 44/1199
+Solver: maplesat
+CNF: benchmarks/ContextModel_output_8_4_8.bul_.dimacs.cnf
+Done: maplesat ContextModel_output_8_4_8.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00044.csv

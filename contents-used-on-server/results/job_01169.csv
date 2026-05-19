@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,rbsat-v760c43649gyes5.cnf,benchmarks/rbsat-v760c43649gyes5.cnf,SAT,24.35484027862549,10,False,False,733655,924418,68071738,1534,760,43649,24.1612,29434393,0.162876

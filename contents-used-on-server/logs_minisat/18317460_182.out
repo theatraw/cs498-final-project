@@ -1,0 +1,5 @@
+Task 182/399
+Solver: minisat
+CNF: benchmarks/PRP_40_40.cnf
+Done: minisat PRP_40_40.cnf SAT 282.42s
+Saved results_minisat/job_00182.csv

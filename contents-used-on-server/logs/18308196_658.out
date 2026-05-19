@@ -1,0 +1,5 @@
+Task 658/1199
+Solver: glucose
+CNF: benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf
+Done: glucose qwh.40.560.shuffled-as.sat03-1654.cnf SAT 85.40s
+Saved results/job_00658.csv

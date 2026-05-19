@@ -1,0 +1,5 @@
+Task 53/399
+Solver: minisat
+CNF: benchmarks/satch2ways15u.cnf
+Done: minisat satch2ways15u.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00053.csv

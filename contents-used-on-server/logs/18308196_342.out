@@ -1,0 +1,5 @@
+Task 342/1199
+Solver: cadical
+CNF: benchmarks/sat-bench-trig-bhaskara.cnf
+Done: cadical sat-bench-trig-bhaskara.cnf TIMEOUT 300.00s
+Saved results/job_00342.csv

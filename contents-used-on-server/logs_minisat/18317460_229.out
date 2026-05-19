@@ -1,0 +1,5 @@
+Task 229/399
+Solver: minisat
+CNF: benchmarks/posixpath__joinrealpath_13.cnf
+Done: minisat posixpath__joinrealpath_13.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00229.csv

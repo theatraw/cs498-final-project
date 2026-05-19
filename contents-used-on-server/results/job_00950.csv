@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,jkkk-one-one-11-32-unsat.cnf,benchmarks/jkkk-one-one-11-32-unsat.cnf,UNSAT,177.8048038482666,20,False,False,1958629,2740305,533553292,3835,6401,45326,176.408,376507767,0.094928

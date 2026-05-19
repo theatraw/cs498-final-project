@@ -1,0 +1,5 @@
+Task 225/1199
+Solver: cadical
+CNF: benchmarks/stb_588_138.apx_2_DS-ST.cnf
+Done: cadical stb_588_138.apx_2_DS-ST.cnf SAT 39.18s
+Saved results/job_00225.csv

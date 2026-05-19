@@ -1,0 +1,5 @@
+Task 818/1199
+Solver: maplesat
+CNF: benchmarks/PRP_30_37.cnf
+Done: maplesat PRP_30_37.cnf TIMEOUT 300.00s
+Saved results/job_00818.csv

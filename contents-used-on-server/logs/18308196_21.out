@@ -1,0 +1,5 @@
+Task 21/1199
+Solver: cadical
+CNF: benchmarks/eqspctbk14spwtcl14.cnf
+Done: cadical eqspctbk14spwtcl14.cnf TIMEOUT 300.00s
+Saved results/job_00021.csv

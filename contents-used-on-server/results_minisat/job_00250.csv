@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,g2-T99.2.0.cnf,benchmarks/g2-T99.2.0.cnf,UNSAT,28.95428490638733,20,False,False,96,1332,70761,1,3467274,12115112,27.7846,382,2064.16

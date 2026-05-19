@@ -1,0 +1,5 @@
+Task 125/1199
+Solver: maplesat
+CNF: benchmarks/grs-128-32.cnf
+Done: maplesat grs-128-32.cnf UNSAT 244.89s
+Saved results/job_00125.csv

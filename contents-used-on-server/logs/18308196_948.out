@@ -1,0 +1,5 @@
+Task 948/1199
+Solver: cadical
+CNF: benchmarks/jkkk-one-one-11-32-unsat.cnf
+Done: cadical jkkk-one-one-11-32-unsat.cnf UNSAT 245.41s
+Saved results/job_00948.csv

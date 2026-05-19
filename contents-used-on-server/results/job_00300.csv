@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,LZMAFile___init___14.cnf,benchmarks/LZMAFile___init___14.cnf,UNSAT,184.85571336746216,20,False,False,3545656,3959611,142673615,87938,,,,3479181,1525980,1737413,112524,5443,183.84,184.85,69.0,20

@@ -1,0 +1,5 @@
+Task 365/1199
+Solver: maplesat
+CNF: benchmarks/CNF_to_alien_12.cnf
+Done: maplesat CNF_to_alien_12.cnf TIMEOUT 300.00s
+Saved results/job_00365.csv

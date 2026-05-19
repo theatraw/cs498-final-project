@@ -1,0 +1,5 @@
+Task 362/399
+Solver: minisat
+CNF: benchmarks/patat-08-comp-3.cnf
+Done: minisat patat-08-comp-3.cnf SAT 5.96s
+Saved results_minisat/job_00362.csv

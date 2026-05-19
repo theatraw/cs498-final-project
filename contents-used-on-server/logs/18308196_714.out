@@ -1,0 +1,5 @@
+Task 714/1199
+Solver: cadical
+CNF: benchmarks/c499_gr_2pin_w6.shuffled.cnf
+Done: cadical c499_gr_2pin_w6.shuffled.cnf SAT 0.20s
+Saved results/job_00714.csv

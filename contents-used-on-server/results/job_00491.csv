@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,3col120_5_2.shuffled.cnf,benchmarks/3col120_5_2.shuffled.cnf,SAT,0.04802274703979492,10,False,False,1761,2141,104602,12,240,1007,0.03663,33831,0.327145

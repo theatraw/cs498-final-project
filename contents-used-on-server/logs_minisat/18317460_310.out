@@ -1,0 +1,5 @@
+Task 310/399
+Solver: minisat
+CNF: benchmarks/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf
+Done: minisat shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf UNSAT 29.76s
+Saved results_minisat/job_00310.csv

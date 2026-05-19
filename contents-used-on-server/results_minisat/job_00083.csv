@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,vmpc_28.shuffled-as.sat05-1957.cnf,benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf,SAT,49.90182566642761,10,False,False,664237,1273708,83698812,1421,784,108080,49.3042,20780453,157.72

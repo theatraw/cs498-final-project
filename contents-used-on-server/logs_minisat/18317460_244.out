@@ -1,0 +1,5 @@
+Task 244/399
+Solver: minisat
+CNF: benchmarks/intervals633.cnf
+Done: minisat intervals633.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00244.csv

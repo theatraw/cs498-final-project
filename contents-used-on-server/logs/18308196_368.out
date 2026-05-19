@@ -1,0 +1,5 @@
+Task 368/1199
+Solver: maplesat
+CNF: benchmarks/asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf
+Done: maplesat asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf TIMEOUT 300.00s
+Saved results/job_00368.csv

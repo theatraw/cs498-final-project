@@ -1,0 +1,5 @@
+Task 143/399
+Solver: minisat
+CNF: benchmarks/mrpp_4x4#12_12.cnf
+Done: minisat mrpp_4x4#12_12.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00143.csv

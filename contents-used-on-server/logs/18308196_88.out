@@ -1,0 +1,5 @@
+Task 88/1199
+Solver: glucose
+CNF: benchmarks/par32-4.shuffled.cnf
+Done: glucose par32-4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00088.csv

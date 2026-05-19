@@ -1,0 +1,5 @@
+Task 752/1199
+Solver: maplesat
+CNF: benchmarks/g2-T99.2.0.cnf
+Done: maplesat g2-T99.2.0.cnf UNSAT 27.44s
+Saved results/job_00752.csv

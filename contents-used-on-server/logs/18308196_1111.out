@@ -1,0 +1,5 @@
+Task 1111/1199
+Solver: glucose
+CNF: benchmarks/unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf
+Done: glucose unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf TIMEOUT 300.00s
+Saved results/job_01111.csv

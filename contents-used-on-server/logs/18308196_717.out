@@ -1,0 +1,5 @@
+Task 717/1199
+Solver: cadical
+CNF: benchmarks/TableModel_output_8_4_7.bul_.dimacs.cnf
+Done: cadical TableModel_output_8_4_7.bul_.dimacs.cnf SAT 113.71s
+Saved results/job_00717.csv

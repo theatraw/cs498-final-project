@@ -1,0 +1,5 @@
+Task 822/1199
+Solver: cadical
+CNF: benchmarks/PRP_30_40.cnf
+Done: cadical PRP_30_40.cnf SAT 31.36s
+Saved results/job_00822.csv

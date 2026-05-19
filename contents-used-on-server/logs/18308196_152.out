@@ -1,0 +1,5 @@
+Task 152/1199
+Solver: maplesat
+CNF: benchmarks/DLTM_twitter690_74_16.cnf
+Done: maplesat DLTM_twitter690_74_16.cnf TIMEOUT 300.00s
+Saved results/job_00152.csv

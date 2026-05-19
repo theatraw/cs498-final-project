@@ -1,0 +1,5 @@
+Task 191/399
+Solver: minisat
+CNF: benchmarks/cliquecoloring_n14_k9_c8.cnf
+Done: minisat cliquecoloring_n14_k9_c8.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00191.csv

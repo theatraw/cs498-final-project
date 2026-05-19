@@ -1,0 +1,5 @@
+Task 585/1199
+Solver: cadical
+CNF: benchmarks/baseballcover13with25_and3positions.cnf
+Done: cadical baseballcover13with25_and3positions.cnf TIMEOUT 300.00s
+Saved results/job_00585.csv

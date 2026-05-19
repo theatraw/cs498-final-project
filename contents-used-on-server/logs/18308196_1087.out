@@ -1,0 +1,5 @@
+Task 1087/1199
+Solver: glucose
+CNF: benchmarks/patat-08-comp-3.cnf
+Done: glucose patat-08-comp-3.cnf SAT 51.18s
+Saved results/job_01087.csv

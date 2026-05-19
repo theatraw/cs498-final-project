@@ -1,0 +1,5 @@
+Task 276/399
+Solver: minisat
+CNF: benchmarks/PRP_100_600.cnf
+Done: minisat PRP_100_600.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00276.csv

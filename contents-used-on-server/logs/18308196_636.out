@@ -1,0 +1,5 @@
+Task 636/1199
+Solver: cadical
+CNF: benchmarks/instance_n6_i6_pp_ci_ce.cnf
+Done: cadical instance_n6_i6_pp_ci_ce.cnf SAT 6.24s
+Saved results/job_00636.csv

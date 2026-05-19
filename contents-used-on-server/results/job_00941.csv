@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,mchess16-mixed-45percent-blocked.cnf,benchmarks/mchess16-mixed-45percent-blocked.cnf,UNSAT,22.964439630508423,20,False,False,1599710,2017413,37587704,3070,16278,1010,22.7512,22724833,0.323528

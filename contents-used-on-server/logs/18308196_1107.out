@@ -1,0 +1,5 @@
+Task 1107/1199
+Solver: cadical
+CNF: benchmarks/mrpp_6x6#18_20.cnf
+Done: cadical mrpp_6x6#18_20.cnf SAT 14.30s
+Saved results/job_01107.csv

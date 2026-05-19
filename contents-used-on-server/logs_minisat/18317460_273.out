@@ -1,0 +1,5 @@
+Task 273/399
+Solver: minisat
+CNF: benchmarks/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf
+Done: minisat shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00273.csv

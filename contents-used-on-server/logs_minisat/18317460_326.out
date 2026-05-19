@@ -1,0 +1,5 @@
+Task 326/399
+Solver: minisat
+CNF: benchmarks/tseitin_d3_n10000.cnf
+Done: minisat tseitin_d3_n10000.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00326.csv

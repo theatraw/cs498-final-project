@@ -1,0 +1,5 @@
+Task 573/1199
+Solver: cadical
+CNF: benchmarks/cliquecoloring_n14_k9_c8.cnf
+Done: cadical cliquecoloring_n14_k9_c8.cnf TIMEOUT 300.00s
+Saved results/job_00573.csv

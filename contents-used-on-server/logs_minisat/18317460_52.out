@@ -1,0 +1,5 @@
+Task 52/399
+Solver: minisat
+CNF: benchmarks/26_1.cnf
+Done: minisat 26_1.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00052.csv

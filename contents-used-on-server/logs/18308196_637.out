@@ -1,0 +1,5 @@
+Task 637/1199
+Solver: glucose
+CNF: benchmarks/instance_n6_i6_pp_ci_ce.cnf
+Done: glucose instance_n6_i6_pp_ci_ce.cnf SAT 0.58s
+Saved results/job_00637.csv

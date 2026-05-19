@@ -1,0 +1,5 @@
+Task 162/399
+Solver: minisat
+CNF: benchmarks/IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf
+Done: minisat IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00162.csv

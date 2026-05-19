@@ -1,0 +1,5 @@
+Task 912/1199
+Solver: cadical
+CNF: benchmarks/grid_10_20.shuffled.cnf
+Done: cadical grid_10_20.shuffled.cnf UNSAT 0.03s
+Saved results/job_00912.csv

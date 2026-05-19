@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,CNP-5-1100.cnf,benchmarks/CNP-5-1100.cnf,SAT,60.68426036834717,10,False,False,594794,967240,268053913,1276,22585,163824,60.0341,44250277,244.39

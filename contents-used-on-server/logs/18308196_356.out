@@ -1,0 +1,5 @@
+Task 356/1199
+Solver: maplesat
+CNF: benchmarks/gensys-icl002.shuffled-as.sat05-2714.cnf
+Done: maplesat gensys-icl002.shuffled-as.sat05-2714.cnf UNSAT 6.28s
+Saved results/job_00356.csv

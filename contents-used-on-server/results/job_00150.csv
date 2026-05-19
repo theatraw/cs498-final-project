@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,DLTM_twitter690_74_16.cnf,benchmarks/DLTM_twitter690_74_16.cnf,SAT,267.9846839904785,10,False,False,618401,1777025,1667931697,28506,,,,600616,472524,68255,10437,10703,265.58,267.87,104.26,10

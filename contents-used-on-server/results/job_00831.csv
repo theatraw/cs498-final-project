@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,mchess16-mixed-35percent-blocked.cnf,benchmarks/mchess16-mixed-35percent-blocked.cnf,UNSAT,30.346251249313354,20,False,False,1358293,2455415,22032031,45387,,,,1284977,891520,315136,85200,3336,30.01,30.33,68.0,20

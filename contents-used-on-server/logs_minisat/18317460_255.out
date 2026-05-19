@@ -1,0 +1,5 @@
+Task 255/399
+Solver: minisat
+CNF: benchmarks/grs-128-64.cnf
+Done: minisat grs-128-64.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00255.csv

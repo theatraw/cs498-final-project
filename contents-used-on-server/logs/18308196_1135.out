@@ -1,0 +1,5 @@
+Task 1135/1199
+Solver: glucose
+CNF: benchmarks/C208_FA_UT_3254.cnf
+Done: glucose C208_FA_UT_3254.cnf UNSAT 0.04s
+Saved results/job_01135.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,stb_531_83.apx_2_DC-AD.cnf,benchmarks/stb_531_83.apx_2_DC-AD.cnf,UNSAT,193.12698221206665,20,False,False,3148780,3866112,321092461,5596,1062,19412,191.565,102982632,0.119713

@@ -1,0 +1,5 @@
+Task 558/1199
+Solver: cadical
+CNF: benchmarks/sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Done: cadical sgen1-unsat-97-100.cnf.mis-72.debugged.cnf UNSAT 4.98s
+Saved results/job_00558.csv

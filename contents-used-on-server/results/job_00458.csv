@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+maplesat,new-difficult-26-243-24-70.cnf,benchmarks/new-difficult-26-243-24-70.cnf,TIMEOUT,300,,True,False,,,,,,,

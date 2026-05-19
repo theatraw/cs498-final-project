@@ -1,0 +1,5 @@
+Task 900/1199
+Solver: cadical
+CNF: benchmarks/posixpath_expanduser_14.cnf
+Done: cadical posixpath_expanduser_14.cnf TIMEOUT 300.00s
+Saved results/job_00900.csv

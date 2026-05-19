@@ -1,0 +1,5 @@
+Task 249/399
+Solver: minisat
+CNF: benchmarks/satch2ways16w.cnf
+Done: minisat satch2ways16w.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00249.csv

@@ -1,0 +1,5 @@
+Task 1037/1199
+Solver: maplesat
+CNF: benchmarks/9vliw_bp_mc.shuffled.cnf
+Done: maplesat 9vliw_bp_mc.shuffled.cnf UNSAT 6.54s
+Saved results/job_01037.csv

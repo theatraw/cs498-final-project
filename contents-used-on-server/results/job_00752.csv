@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,g2-T99.2.0.cnf,benchmarks/g2-T99.2.0.cnf,UNSAT,27.437198877334595,20,False,False,732,15361,1684423,6,3467274,12115112,26.4019,4921,0.006464

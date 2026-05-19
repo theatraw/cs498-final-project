@@ -1,0 +1,5 @@
+Task 430/1199
+Solver: glucose
+CNF: benchmarks/mrpp_4x4#12_12.cnf
+Done: glucose mrpp_4x4#12_12.cnf UNSAT 7.87s
+Saved results/job_00430.csv

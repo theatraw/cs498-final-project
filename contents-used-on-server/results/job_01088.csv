@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,patat-08-comp-3.cnf,benchmarks/patat-08-comp-3.cnf,SAT,6.083972692489624,10,False,False,83470,722232,15774185,254,78774,1616620,5.94475,2543199,0.021054

@@ -1,0 +1,5 @@
+Task 374/1199
+Solver: maplesat
+CNF: benchmarks/rook-47-0-1.cnf
+Done: maplesat rook-47-0-1.cnf TIMEOUT 300.00s
+Saved results/job_00374.csv

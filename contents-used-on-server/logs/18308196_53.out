@@ -1,0 +1,5 @@
+Task 53/1199
+Solver: maplesat
+CNF: benchmarks/shift1add.28943.cnf
+Done: maplesat shift1add.28943.cnf UNSAT 44.46s
+Saved results/job_00053.csv

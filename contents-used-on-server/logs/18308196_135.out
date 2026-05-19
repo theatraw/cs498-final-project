@@ -1,0 +1,5 @@
+Task 135/1199
+Solver: cadical
+CNF: benchmarks/os_fwalk_12.cnf
+Done: cadical os_fwalk_12.cnf UNSAT 1.03s
+Saved results/job_00135.csv

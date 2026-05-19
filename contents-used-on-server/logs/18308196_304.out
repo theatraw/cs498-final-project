@@ -1,0 +1,5 @@
+Task 304/1199
+Solver: glucose
+CNF: benchmarks/hash_table_find_safety_size_12.cnf
+Done: glucose hash_table_find_safety_size_12.cnf UNSAT 134.41s
+Saved results/job_00304.csv

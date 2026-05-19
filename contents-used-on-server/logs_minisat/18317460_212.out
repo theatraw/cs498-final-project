@@ -1,0 +1,5 @@
+Task 212/399
+Solver: minisat
+CNF: benchmarks/instance_n6_i6_pp_ci_ce.cnf
+Done: minisat instance_n6_i6_pp_ci_ce.cnf SAT 0.53s
+Saved results_minisat/job_00212.csv

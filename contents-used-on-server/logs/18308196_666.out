@@ -1,0 +1,5 @@
+Task 666/1199
+Solver: cadical
+CNF: benchmarks/spg_200_307.cnf
+Done: cadical spg_200_307.cnf UNSAT 56.76s
+Saved results/job_00666.csv

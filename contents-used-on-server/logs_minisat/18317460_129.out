@@ -1,0 +1,5 @@
+Task 129/399
+Solver: minisat
+CNF: benchmarks/TimetableCNFEncoding_20_UNKNOWN.cnf
+Done: minisat TimetableCNFEncoding_20_UNKNOWN.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00129.csv

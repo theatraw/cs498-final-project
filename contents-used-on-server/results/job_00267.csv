@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,SCPC-700-87.cnf,benchmarks/SCPC-700-87.cnf,SAT,14.663769245147705,10,False,False,276058,346471,16976125,2315,,,,268385,122181,109379,47422,950,14.21,14.36,67.0,10

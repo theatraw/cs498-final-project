@@ -1,0 +1,5 @@
+Task 560/1199
+Solver: maplesat
+CNF: benchmarks/sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Done: maplesat sgen1-unsat-97-100.cnf.mis-72.debugged.cnf UNSAT 8.81s
+Saved results/job_00560.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,TimetableCNFEncoding_20_UNKNOWN.cnf,benchmarks/TimetableCNFEncoding_20_UNKNOWN.cnf,SAT,75.88033890724182,10,False,False,260574,21422244,145178490,1414,,,,253071,90253,151999,97736,,74.92,75.73,734.02,10

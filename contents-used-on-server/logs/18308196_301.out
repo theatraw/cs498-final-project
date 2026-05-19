@@ -1,0 +1,5 @@
+Task 301/1199
+Solver: glucose
+CNF: benchmarks/LZMAFile___init___14.cnf
+Done: glucose LZMAFile___init___14.cnf TIMEOUT 300.00s
+Saved results/job_00301.csv

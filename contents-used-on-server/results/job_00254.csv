@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+maplesat,srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf,benchmarks/srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf,TIMEOUT,300,,True,False,,,,,,,

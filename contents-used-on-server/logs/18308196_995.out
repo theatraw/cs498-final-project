@@ -1,0 +1,5 @@
+Task 995/1199
+Solver: maplesat
+CNF: benchmarks/asconhashv12_opt64_H8_M2-bL4cM6NJ_m4_5_U14.c.cnf
+Done: maplesat asconhashv12_opt64_H8_M2-bL4cM6NJ_m4_5_U14.c.cnf TIMEOUT 300.00s
+Saved results/job_00995.csv

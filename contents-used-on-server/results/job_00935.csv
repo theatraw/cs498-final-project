@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,PRP_30_38.cnf,benchmarks/PRP_30_38.cnf,SAT,217.1888313293457,10,False,False,1532154,40129824,1070253500,3034,177404,1055410,214.928,25966835,0.025173

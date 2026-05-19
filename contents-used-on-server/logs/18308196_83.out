@@ -1,0 +1,5 @@
+Task 83/1199
+Solver: maplesat
+CNF: benchmarks/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf
+Done: maplesat goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf TIMEOUT 300.00s
+Saved results/job_00083.csv

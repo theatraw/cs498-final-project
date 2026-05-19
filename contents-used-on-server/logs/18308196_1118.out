@@ -1,0 +1,5 @@
+Task 1118/1199
+Solver: maplesat
+CNF: benchmarks/46bits_11.dimacs.cnf
+Done: maplesat 46bits_11.dimacs.cnf SAT 136.15s
+Saved results/job_01118.csv

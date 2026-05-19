@@ -1,0 +1,5 @@
+Task 325/1199
+Solver: glucose
+CNF: benchmarks/ContextModel_output_7_3_9.bul_.dimacs.cnf
+Done: glucose ContextModel_output_7_3_9.bul_.dimacs.cnf SAT 41.36s
+Saved results/job_00325.csv

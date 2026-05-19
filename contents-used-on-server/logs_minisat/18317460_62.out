@@ -1,0 +1,5 @@
+Task 62/399
+Solver: minisat
+CNF: benchmarks/or_randxor_k3_n520_m520.cnf
+Done: minisat or_randxor_k3_n520_m520.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00062.csv

@@ -1,0 +1,5 @@
+Task 861/1199
+Solver: cadical
+CNF: benchmarks/tseitingrid7x160_shuffled-sc2016.cnf
+Done: cadical tseitingrid7x160_shuffled-sc2016.cnf TIMEOUT 300.00s
+Saved results/job_00861.csv

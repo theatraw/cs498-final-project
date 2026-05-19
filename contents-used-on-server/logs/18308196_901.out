@@ -1,0 +1,5 @@
+Task 901/1199
+Solver: glucose
+CNF: benchmarks/posixpath_expanduser_14.cnf
+Done: glucose posixpath_expanduser_14.cnf TIMEOUT 300.00s
+Saved results/job_00901.csv

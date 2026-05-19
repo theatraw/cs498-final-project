@@ -1,0 +1,5 @@
+Task 945/1199
+Solver: cadical
+CNF: benchmarks/TableSymModel_output_8_4_7.bul_.dimacs.cnf
+Done: cadical TableSymModel_output_8_4_7.bul_.dimacs.cnf SAT 108.50s
+Saved results/job_00945.csv

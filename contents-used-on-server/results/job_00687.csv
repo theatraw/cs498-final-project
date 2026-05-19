@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,posixpath__joinrealpath_13.cnf,benchmarks/posixpath__joinrealpath_13.cnf,UNSAT,31.196977615356445,20,False,False,1170634,1324488,35802186,27546,,,,1149950,451350,610751,62388,3416,31.0,31.19,68.0,20

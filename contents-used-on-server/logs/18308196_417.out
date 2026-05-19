@@ -1,0 +1,5 @@
+Task 417/1199
+Solver: cadical
+CNF: benchmarks/multiplier_16bits__miter_19.cnf
+Done: cadical multiplier_16bits__miter_19.cnf TIMEOUT 300.00s
+Saved results/job_00417.csv

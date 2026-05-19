@@ -1,0 +1,5 @@
+Task 123/1199
+Solver: cadical
+CNF: benchmarks/grs-128-32.cnf
+Done: cadical grs-128-32.cnf UNSAT 53.07s
+Saved results/job_00123.csv

@@ -1,0 +1,5 @@
+Task 977/1199
+Solver: maplesat
+CNF: benchmarks/aes_decry_2_rounds.debugged.cnf
+Done: maplesat aes_decry_2_rounds.debugged.cnf TIMEOUT 300.00s
+Saved results/job_00977.csv

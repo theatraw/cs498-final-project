@@ -1,0 +1,5 @@
+Task 681/1199
+Solver: cadical
+CNF: benchmarks/ER_400_20_4.apx_1_DC-ST.cnf
+Done: cadical ER_400_20_4.apx_1_DC-ST.cnf UNSAT 231.20s
+Saved results/job_00681.csv

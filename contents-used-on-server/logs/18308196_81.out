@@ -1,0 +1,5 @@
+Task 81/1199
+Solver: cadical
+CNF: benchmarks/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf
+Done: cadical goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf UNSAT 15.21s
+Saved results/job_00081.csv

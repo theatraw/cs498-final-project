@@ -1,0 +1,5 @@
+Task 869/1199
+Solver: maplesat
+CNF: benchmarks/php-010-009.shuffled-as.sat05-1185.cnf
+Done: maplesat php-010-009.shuffled-as.sat05-1185.cnf UNSAT 2.42s
+Saved results/job_00869.csv

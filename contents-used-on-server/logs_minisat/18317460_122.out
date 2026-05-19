@@ -1,0 +1,5 @@
+Task 122/399
+Solver: minisat
+CNF: benchmarks/asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf
+Done: minisat asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00122.csv

@@ -1,0 +1,5 @@
+Task 716/1199
+Solver: maplesat
+CNF: benchmarks/c499_gr_2pin_w6.shuffled.cnf
+Done: maplesat c499_gr_2pin_w6.shuffled.cnf SAT 0.20s
+Saved results/job_00716.csv

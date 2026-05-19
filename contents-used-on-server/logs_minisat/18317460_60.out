@@ -1,0 +1,5 @@
+Task 60/399
+Solver: minisat
+CNF: benchmarks/DivU_624_11.cnf.sanitized.cnf
+Done: minisat DivU_624_11.cnf.sanitized.cnf UNSAT 49.81s
+Saved results_minisat/job_00060.csv

@@ -1,0 +1,5 @@
+Task 703/1199
+Solver: glucose
+CNF: benchmarks/square.2.0.i.smt2-cvc4.cnf
+Done: glucose square.2.0.i.smt2-cvc4.cnf UNSAT 1.85s
+Saved results/job_00703.csv

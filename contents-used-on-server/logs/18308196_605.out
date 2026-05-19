@@ -1,0 +1,5 @@
+Task 605/1199
+Solver: maplesat
+CNF: benchmarks/iso-ukn004.shuffled-as.sat05-3385.cnf
+Done: maplesat iso-ukn004.shuffled-as.sat05-3385.cnf SAT 0.04s
+Saved results/job_00605.csv

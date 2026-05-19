@@ -1,0 +1,5 @@
+Task 13/1199
+Solver: glucose
+CNF: benchmarks/oisc-subrv-sll-nested-15.cnf
+Done: glucose oisc-subrv-sll-nested-15.cnf TIMEOUT 300.00s
+Saved results/job_00013.csv

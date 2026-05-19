@@ -1,0 +1,5 @@
+Task 184/399
+Solver: minisat
+CNF: benchmarks/FileObject_open_13.cnf
+Done: minisat FileObject_open_13.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00184.csv

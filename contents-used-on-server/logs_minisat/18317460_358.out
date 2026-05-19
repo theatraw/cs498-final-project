@@ -1,0 +1,5 @@
+Task 358/399
+Solver: minisat
+CNF: benchmarks/collections_namedtuple_15.cnf
+Done: minisat collections_namedtuple_15.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00358.csv

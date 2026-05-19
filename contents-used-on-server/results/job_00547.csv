@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,PRP_40_40.cnf,benchmarks/PRP_40_40.cnf,SAT,135.82860350608826,10,False,False,2131845,49803024,1023587922,8676,249398,1484862,134.344,8530,30,1620388,13.0,125577,41580,12912,28088

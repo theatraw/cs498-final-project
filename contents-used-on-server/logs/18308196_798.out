@@ -1,0 +1,5 @@
+Task 798/1199
+Solver: cadical
+CNF: benchmarks/PRP_20_40.cnf
+Done: cadical PRP_20_40.cnf SAT 7.30s
+Saved results/job_00798.csv

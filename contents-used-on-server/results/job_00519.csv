@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,rand_net70-40-10.shuffled.cnf,benchmarks/rand_net70-40-10.shuffled.cnf,UNSAT,1.7664594650268555,20,False,False,,,70,,,,,,,,,,0.07,1.55,67.0,20

@@ -1,0 +1,5 @@
+Task 969/1199
+Solver: cadical
+CNF: benchmarks/or_randxor_k3_n600_m600.cnf
+Done: cadical or_randxor_k3_n600_m600.cnf UNSAT 13.29s
+Saved results/job_00969.csv

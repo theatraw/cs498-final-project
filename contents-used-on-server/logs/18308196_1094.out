@@ -1,0 +1,5 @@
+Task 1094/1199
+Solver: maplesat
+CNF: benchmarks/g2-T49.2.0.cnf
+Done: maplesat g2-T49.2.0.cnf TIMEOUT 300.00s
+Saved results/job_01094.csv

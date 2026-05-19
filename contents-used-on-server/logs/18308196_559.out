@@ -1,0 +1,5 @@
+Task 559/1199
+Solver: glucose
+CNF: benchmarks/sgen1-unsat-97-100.cnf.mis-72.debugged.cnf
+Done: glucose sgen1-unsat-97-100.cnf.mis-72.debugged.cnf UNSAT 6.23s
+Saved results/job_00559.csv

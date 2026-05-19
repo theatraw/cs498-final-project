@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf,benchmarks/pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf,UNSAT,0.1319265365600586,20,False,False,0,0,10,0,257,7374,0.06625,0,83.01

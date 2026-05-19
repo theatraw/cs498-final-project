@@ -1,0 +1,5 @@
+Task 187/1199
+Solver: glucose
+CNF: benchmarks/or_randxor_k3_n520_m520.cnf
+Done: glucose or_randxor_k3_n520_m520.cnf TIMEOUT 300.00s
+Saved results/job_00187.csv

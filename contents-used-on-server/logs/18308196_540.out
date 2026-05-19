@@ -1,0 +1,5 @@
+Task 540/1199
+Solver: cadical
+CNF: benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf
+Done: cadical ferry8_ks99i.renamed-as.sat05-4005.cnf SAT 0.34s
+Saved results/job_00540.csv

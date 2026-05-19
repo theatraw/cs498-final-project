@@ -1,0 +1,5 @@
+Task 907/1199
+Solver: glucose
+CNF: benchmarks/vmpc_24.cnf
+Done: glucose vmpc_24.cnf SAT 4.90s
+Saved results/job_00907.csv

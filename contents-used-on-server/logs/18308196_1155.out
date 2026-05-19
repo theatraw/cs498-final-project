@@ -1,0 +1,5 @@
+Task 1155/1199
+Solver: cadical
+CNF: benchmarks/mchess18-mixed-45percent-blocked.cnf
+Done: cadical mchess18-mixed-45percent-blocked.cnf UNSAT 169.47s
+Saved results/job_01155.csv

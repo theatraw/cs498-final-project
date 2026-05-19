@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,shift1add.28943.cnf,benchmarks/shift1add.28943.cnf,UNSAT,271.4763357639313,20,False,False,146335,533488578,1126311530,1022,636737,1128757,268.606,0,7,20631,4.0,44821,43864,42054,1722

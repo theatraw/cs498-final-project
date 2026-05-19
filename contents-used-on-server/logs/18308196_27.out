@@ -1,0 +1,5 @@
+Task 27/1199
+Solver: cadical
+CNF: benchmarks/sgen3-n260-s62321009-sat.cnf
+Done: cadical sgen3-n260-s62321009-sat.cnf TIMEOUT 300.00s
+Saved results/job_00027.csv

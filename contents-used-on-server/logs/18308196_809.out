@@ -1,0 +1,5 @@
+Task 809/1199
+Solver: maplesat
+CNF: benchmarks/ibm-2004-03-k70.cnf
+Done: maplesat ibm-2004-03-k70.cnf SAT 3.47s
+Saved results/job_00809.csv

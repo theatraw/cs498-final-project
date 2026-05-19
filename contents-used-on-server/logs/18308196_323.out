@@ -1,0 +1,5 @@
+Task 323/1199
+Solver: maplesat
+CNF: benchmarks/intervals802.cnf
+Done: maplesat intervals802.cnf TIMEOUT 300.00s
+Saved results/job_00323.csv

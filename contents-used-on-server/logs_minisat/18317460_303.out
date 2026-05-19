@@ -1,0 +1,5 @@
+Task 303/399
+Solver: minisat
+CNF: benchmarks/or_randxor_k3_n640_m640.cnf
+Done: minisat or_randxor_k3_n640_m640.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00303.csv

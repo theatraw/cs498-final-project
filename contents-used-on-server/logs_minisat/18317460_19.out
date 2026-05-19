@@ -1,0 +1,5 @@
+Task 19/399
+Solver: minisat
+CNF: benchmarks/mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf
+Done: minisat mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf SAT 0.52s
+Saved results_minisat/job_00019.csv

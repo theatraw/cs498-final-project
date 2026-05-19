@@ -1,0 +1,5 @@
+Task 178/1199
+Solver: glucose
+CNF: benchmarks/hash_table_find_safety_size_23.cnf
+Done: glucose hash_table_find_safety_size_23.cnf TIMEOUT 300.00s
+Saved results/job_00178.csv

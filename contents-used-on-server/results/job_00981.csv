@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,mrpp_8x8#22_10.cnf,benchmarks/mrpp_8x8#22_10.cnf,UNSAT,0.5913419723510742,20,False,False,8358,97784,923665,686,,,,6989,907,3323,13549,,0.54,0.58,68.0,20

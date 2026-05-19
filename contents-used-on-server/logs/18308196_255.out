@@ -1,0 +1,5 @@
+Task 255/1199
+Solver: cadical
+CNF: benchmarks/15pipe_q0_k.cnf
+Done: cadical 15pipe_q0_k.cnf TIMEOUT 300.00s
+Saved results/job_00255.csv

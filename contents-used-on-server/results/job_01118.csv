@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,46bits_11.dimacs.cnf,benchmarks/46bits_11.dimacs.cnf,SAT,136.1512451171875,10,False,False,1800674,2057478,209952132,3508,689,16922,135.243,41031755,0.332707

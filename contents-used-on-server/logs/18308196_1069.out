@@ -1,0 +1,5 @@
+Task 1069/1199
+Solver: glucose
+CNF: benchmarks/multiplier_15bits__miter_20.cnf
+Done: glucose multiplier_15bits__miter_20.cnf TIMEOUT 300.00s
+Saved results/job_01069.csv

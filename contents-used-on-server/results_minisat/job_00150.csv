@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,php17-mixed-35percent-blocked.cnf,benchmarks/php17-mixed-35percent-blocked.cnf,UNSAT,193.46005940437317,20,False,False,5352967,8231753,220531507,8256,460,8655,191.682,262344361,123.73

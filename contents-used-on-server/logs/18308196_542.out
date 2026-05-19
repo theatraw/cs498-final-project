@@ -1,0 +1,5 @@
+Task 542/1199
+Solver: maplesat
+CNF: benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf
+Done: maplesat ferry8_ks99i.renamed-as.sat05-4005.cnf SAT 0.55s
+Saved results/job_00542.csv

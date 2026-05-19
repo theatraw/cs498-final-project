@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,ContextModel_output_7_3_9.bul_.dimacs.cnf,benchmarks/ContextModel_output_7_3_9.bul_.dimacs.cnf,SAT,114.4713077545166,10,False,False,912386,1301772,641875783,1993,13797,76333,113.472,99049003,0.037863

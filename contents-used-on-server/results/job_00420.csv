@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf,benchmarks/SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf,SAT,57.69885468482971,10,False,False,293462,12610442,149983204,11863,,,,280356,176973,127657,148029,2894,57.12,57.64,296.17,10

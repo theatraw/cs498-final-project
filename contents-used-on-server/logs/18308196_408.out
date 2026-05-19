@@ -1,0 +1,5 @@
+Task 408/1199
+Solver: cadical
+CNF: benchmarks/asconhashv12_opt64_H8_M2-1yQCyA0j_m2_6.c.cnf
+Done: cadical asconhashv12_opt64_H8_M2-1yQCyA0j_m2_6.c.cnf SAT 214.00s
+Saved results/job_00408.csv

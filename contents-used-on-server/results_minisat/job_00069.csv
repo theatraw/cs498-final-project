@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,asconhashv12_opt64_H9_M2-wNfQskE8G_m1_6_U0.c.cnf,benchmarks/asconhashv12_opt64_H9_M2-wNfQskE8G_m1_6_U0.c.cnf,UNSAT,260.69242691993713,20,False,False,489768,1846107,1554768613,1023,158758,372790,258.477,43829123,354.7

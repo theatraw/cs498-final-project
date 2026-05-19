@@ -1,0 +1,5 @@
+Task 58/399
+Solver: minisat
+CNF: benchmarks/SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf
+Done: minisat SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00058.csv

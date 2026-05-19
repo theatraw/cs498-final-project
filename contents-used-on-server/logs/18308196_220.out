@@ -1,0 +1,5 @@
+Task 220/1199
+Solver: glucose
+CNF: benchmarks/TableSymModel_output_7_3_9.bul_.dimacs.cnf
+Done: glucose TableSymModel_output_7_3_9.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00220.csv

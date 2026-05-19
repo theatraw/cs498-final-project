@@ -1,0 +1,5 @@
+Task 253/1199
+Solver: glucose
+CNF: benchmarks/srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf
+Done: glucose srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf TIMEOUT 300.00s
+Saved results/job_00253.csv

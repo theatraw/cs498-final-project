@@ -1,0 +1,5 @@
+Task 862/1199
+Solver: glucose
+CNF: benchmarks/tseitingrid7x160_shuffled-sc2016.cnf
+Done: glucose tseitingrid7x160_shuffled-sc2016.cnf TIMEOUT 300.00s
+Saved results/job_00862.csv

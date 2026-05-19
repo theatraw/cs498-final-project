@@ -1,0 +1,5 @@
+Task 1054/1199
+Solver: glucose
+CNF: benchmarks/REGRandom-K4-L2-Seed20.cnf
+Done: glucose REGRandom-K4-L2-Seed20.cnf TIMEOUT 300.00s
+Saved results/job_01054.csv

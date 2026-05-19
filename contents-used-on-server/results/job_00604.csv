@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,iso-ukn004.shuffled-as.sat05-3385.cnf,benchmarks/iso-ukn004.shuffled-as.sat05-3385.cnf,SAT,0.0686945915222168,10,False,False,177,648,7119,1,1889,10295,0.018452,0,0,0,8.0,14,6,4,41

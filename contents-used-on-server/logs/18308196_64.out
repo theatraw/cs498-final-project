@@ -1,0 +1,5 @@
+Task 64/1199
+Solver: glucose
+CNF: benchmarks/22_1.cnf
+Done: glucose 22_1.cnf TIMEOUT 300.00s
+Saved results/job_00064.csv

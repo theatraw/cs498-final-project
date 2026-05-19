@@ -1,0 +1,5 @@
+Task 690/1199
+Solver: cadical
+CNF: benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf
+Done: cadical Urquhart-s3-b3.shuffled-as.sat03-1556.cnf UNSAT 1.01s
+Saved results/job_00690.csv

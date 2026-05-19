@@ -1,0 +1,5 @@
+Task 344/1199
+Solver: maplesat
+CNF: benchmarks/sat-bench-trig-bhaskara.cnf
+Done: maplesat sat-bench-trig-bhaskara.cnf TIMEOUT 300.00s
+Saved results/job_00344.csv

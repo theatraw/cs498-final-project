@@ -1,0 +1,5 @@
+Task 758/1199
+Solver: maplesat
+CNF: benchmarks/mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf
+Done: maplesat mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf SAT 157.77s
+Saved results/job_00758.csv

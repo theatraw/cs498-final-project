@@ -1,0 +1,5 @@
+Task 792/1199
+Solver: cadical
+CNF: benchmarks/mchess22-mixed-35percent-blocked.cnf
+Done: cadical mchess22-mixed-35percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_00792.csv

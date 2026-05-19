@@ -1,0 +1,5 @@
+Task 7/399
+Solver: minisat
+CNF: benchmarks/eqspctbk14spwtcl14.cnf
+Done: minisat eqspctbk14spwtcl14.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00007.csv

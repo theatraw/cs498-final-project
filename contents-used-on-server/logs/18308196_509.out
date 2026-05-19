@@ -1,0 +1,5 @@
+Task 509/1199
+Solver: maplesat
+CNF: benchmarks/LZMAFile_write_12.cnf
+Done: maplesat LZMAFile_write_12.cnf TIMEOUT 300.00s
+Saved results/job_00509.csv

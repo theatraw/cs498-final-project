@@ -1,0 +1,5 @@
+Task 386/399
+Solver: minisat
+CNF: benchmarks/clqcolor-08-06-07.shuffled-as.sat05-1257.cnf
+Done: minisat clqcolor-08-06-07.shuffled-as.sat05-1257.cnf UNSAT 5.70s
+Saved results_minisat/job_00386.csv

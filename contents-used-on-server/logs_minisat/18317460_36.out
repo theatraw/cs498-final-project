@@ -1,0 +1,5 @@
+Task 36/399
+Solver: minisat
+CNF: benchmarks/iso-icl004.shuffled-as.sat05-3238.cnf
+Done: minisat iso-icl004.shuffled-as.sat05-3238.cnf UNSAT 0.03s
+Saved results_minisat/job_00036.csv

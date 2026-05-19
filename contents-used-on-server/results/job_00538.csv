@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,grs-32-160.cnf,benchmarks/grs-32-160.cnf,TIMEOUT,300,,True,False,,,,,372416,1062080,,,,,,,,,

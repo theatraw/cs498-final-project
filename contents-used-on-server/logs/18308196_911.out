@@ -1,0 +1,5 @@
+Task 911/1199
+Solver: maplesat
+CNF: benchmarks/or_randxor_k3_n640_m640.cnf
+Done: maplesat or_randxor_k3_n640_m640.cnf TIMEOUT 300.00s
+Saved results/job_00911.csv

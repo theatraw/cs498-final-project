@@ -1,0 +1,5 @@
+Task 372/1199
+Solver: cadical
+CNF: benchmarks/rook-47-0-1.cnf
+Done: cadical rook-47-0-1.cnf TIMEOUT 300.00s
+Saved results/job_00372.csv

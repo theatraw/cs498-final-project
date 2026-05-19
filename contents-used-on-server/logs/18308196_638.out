@@ -1,0 +1,5 @@
+Task 638/1199
+Solver: maplesat
+CNF: benchmarks/instance_n6_i6_pp_ci_ce.cnf
+Done: maplesat instance_n6_i6_pp_ci_ce.cnf SAT 4.37s
+Saved results/job_00638.csv

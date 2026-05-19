@@ -1,0 +1,5 @@
+Task 832/1199
+Solver: glucose
+CNF: benchmarks/mchess16-mixed-35percent-blocked.cnf
+Done: glucose mchess16-mixed-35percent-blocked.cnf UNSAT 75.38s
+Saved results/job_00832.csv

@@ -1,0 +1,5 @@
+Task 1011/1199
+Solver: cadical
+CNF: benchmarks/minxor128.cnf
+Done: cadical minxor128.cnf TIMEOUT 300.00s
+Saved results/job_01011.csv

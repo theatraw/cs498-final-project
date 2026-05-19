@@ -1,0 +1,5 @@
+Task 254/1199
+Solver: maplesat
+CNF: benchmarks/srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf
+Done: maplesat srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf TIMEOUT 300.00s
+Saved results/job_00254.csv

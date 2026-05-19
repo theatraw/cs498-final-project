@@ -1,0 +1,5 @@
+Task 84/1199
+Solver: cadical
+CNF: benchmarks/satcoin-genesis-UNSAT-10600.cnf
+Done: cadical satcoin-genesis-UNSAT-10600.cnf TIMEOUT 300.00s
+Saved results/job_00084.csv

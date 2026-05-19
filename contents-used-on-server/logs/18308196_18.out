@@ -1,0 +1,5 @@
+Task 18/1199
+Solver: cadical
+CNF: benchmarks/CNFPlus_from_fp_12.cnf
+Done: cadical CNFPlus_from_fp_12.cnf UNSAT 1.14s
+Saved results/job_00018.csv

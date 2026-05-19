@@ -1,0 +1,5 @@
+Task 198/399
+Solver: minisat
+CNF: benchmarks/g2-slp-synthesis-aes-top29.cnf
+Done: minisat g2-slp-synthesis-aes-top29.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00198.csv

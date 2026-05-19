@@ -1,0 +1,5 @@
+Task 920/1199
+Solver: maplesat
+CNF: benchmarks/DecompressReader_read_12.cnf
+Done: maplesat DecompressReader_read_12.cnf TIMEOUT 300.00s
+Saved results/job_00920.csv

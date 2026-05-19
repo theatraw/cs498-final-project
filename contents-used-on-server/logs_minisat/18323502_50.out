@@ -1,0 +1,5 @@
+Task 50/399
+Solver: minisat
+CNF: benchmarks/DLTM_twitter690_74_16.cnf
+Done: minisat DLTM_twitter690_74_16.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00050.csv

@@ -1,0 +1,5 @@
+Task 95/399
+Solver: minisat
+CNF: benchmarks/sat-bench-trig-taylor4.cnf
+Done: minisat sat-bench-trig-taylor4.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00095.csv

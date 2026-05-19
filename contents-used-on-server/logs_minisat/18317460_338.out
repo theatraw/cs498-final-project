@@ -1,0 +1,5 @@
+Task 338/399
+Solver: minisat
+CNF: benchmarks/Grain_no_init_ver1_out200_known_last105_0_u.cnf
+Done: minisat Grain_no_init_ver1_out200_known_last105_0_u.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00338.csv

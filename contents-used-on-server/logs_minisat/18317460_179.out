@@ -1,0 +1,5 @@
+Task 179/399
+Solver: minisat
+CNF: benchmarks/grs-32-160.cnf
+Done: minisat grs-32-160.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00179.csv

@@ -1,0 +1,5 @@
+Task 504/1199
+Solver: cadical
+CNF: benchmarks/g2-ak128astepbg2asisc.cnf
+Done: cadical g2-ak128astepbg2asisc.cnf SAT 0.73s
+Saved results/job_00504.csv

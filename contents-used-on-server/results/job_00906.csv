@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,vmpc_24.cnf,benchmarks/vmpc_24.cnf,SAT,29.549293041229248,10,False,False,503850,931649,70542414,16272,,,,486845,223533,206658,36394,4027,29.27,29.54,68.0,10

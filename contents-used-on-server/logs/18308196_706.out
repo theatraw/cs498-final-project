@@ -1,0 +1,5 @@
+Task 706/1199
+Solver: glucose
+CNF: benchmarks/Schur_160_5_d34.cnf
+Done: glucose Schur_160_5_d34.cnf TIMEOUT 300.00s
+Saved results/job_00706.csv

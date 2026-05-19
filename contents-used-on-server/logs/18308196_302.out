@@ -1,0 +1,5 @@
+Task 302/1199
+Solver: maplesat
+CNF: benchmarks/LZMAFile___init___14.cnf
+Done: maplesat LZMAFile___init___14.cnf TIMEOUT 300.00s
+Saved results/job_00302.csv

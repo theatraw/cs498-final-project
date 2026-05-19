@@ -1,0 +1,5 @@
+Task 94/399
+Solver: minisat
+CNF: benchmarks/combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf
+Done: minisat combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00094.csv

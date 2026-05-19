@@ -1,0 +1,5 @@
+Task 510/1199
+Solver: cadical
+CNF: benchmarks/DivS_862_11.cnf.sanitized.cnf
+Done: cadical DivS_862_11.cnf.sanitized.cnf SAT 6.58s
+Saved results/job_00510.csv

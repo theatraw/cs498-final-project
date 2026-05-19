@@ -1,0 +1,5 @@
+Task 610/1199
+Solver: glucose
+CNF: benchmarks/php15-mixed-15percent-blocked.cnf
+Done: glucose php15-mixed-15percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_00610.csv

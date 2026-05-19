@@ -1,0 +1,5 @@
+Task 31/399
+Solver: minisat
+CNF: benchmarks/Urquhart-s5-b4.shuffled.cnf
+Done: minisat Urquhart-s5-b4.shuffled.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00031.csv

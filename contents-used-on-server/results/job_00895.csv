@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,spg_420_280.cnf,benchmarks/spg_420_280.cnf,UNSAT,214.3282506465912,20,False,False,1183527,6071719,1259585331,6661,674643,3463100,212.042,6176,23,819707,14.0,119017,3193,418,4086

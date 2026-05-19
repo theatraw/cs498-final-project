@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,SAT_dat.k10.cnf,benchmarks/SAT_dat.k10.cnf,UNSAT,119.96182417869568,20,False,False,1596528,5376646,592926438,6179,46169,207564,118.177,7351,30,1376337,28.0,24967,9710,20,4222

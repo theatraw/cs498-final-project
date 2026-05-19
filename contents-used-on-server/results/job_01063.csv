@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,asconhashv12_opt64_H7_M2-K1zfAs8_m0_3_U5.c.cnf,benchmarks/asconhashv12_opt64_H7_M2-K1zfAs8_m0_3_U5.c.cnf,UNSAT,134.0488166809082,20,False,False,256554,1335616,651713244,1516,126976,296239,132.629,2142,13,176876,33.0,787,182,24,253

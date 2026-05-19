@@ -1,0 +1,5 @@
+Task 298/399
+Solver: minisat
+CNF: benchmarks/spg_420_280.cnf
+Done: minisat spg_420_280.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00298.csv

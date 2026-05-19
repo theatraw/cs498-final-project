@@ -1,0 +1,5 @@
+Task 1159/1199
+Solver: glucose
+CNF: benchmarks/clqcolor-08-06-07.shuffled-as.sat05-1257.cnf
+Done: glucose clqcolor-08-06-07.shuffled-as.sat05-1257.cnf UNSAT 3.20s
+Saved results/job_01159.csv

@@ -1,0 +1,5 @@
+Task 227/1199
+Solver: maplesat
+CNF: benchmarks/stb_588_138.apx_2_DS-ST.cnf
+Done: maplesat stb_588_138.apx_2_DS-ST.cnf TIMEOUT 300.00s
+Saved results/job_00227.csv

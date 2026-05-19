@@ -1,0 +1,5 @@
+Task 300/1199
+Solver: cadical
+CNF: benchmarks/LZMAFile___init___14.cnf
+Done: cadical LZMAFile___init___14.cnf UNSAT 184.86s
+Saved results/job_00300.csv

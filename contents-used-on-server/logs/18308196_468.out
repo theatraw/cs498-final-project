@@ -1,0 +1,5 @@
+Task 468/1199
+Solver: cadical
+CNF: benchmarks/goldcrest-and-16.cnf
+Done: cadical goldcrest-and-16.cnf TIMEOUT 300.00s
+Saved results/job_00468.csv

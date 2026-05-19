@@ -1,0 +1,5 @@
+Task 688/1199
+Solver: glucose
+CNF: benchmarks/posixpath__joinrealpath_13.cnf
+Done: glucose posixpath__joinrealpath_13.cnf TIMEOUT 300.00s
+Saved results/job_00688.csv

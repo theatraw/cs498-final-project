@@ -1,0 +1,5 @@
+Task 381/399
+Solver: minisat
+CNF: benchmarks/tseitin_grid_n100_m100.cnf
+Done: minisat tseitin_grid_n100_m100.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00381.csv

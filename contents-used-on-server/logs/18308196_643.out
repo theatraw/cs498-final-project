@@ -1,0 +1,5 @@
+Task 643/1199
+Solver: glucose
+CNF: benchmarks/grs-64-32.cnf
+Done: glucose grs-64-32.cnf UNSAT 53.21s
+Saved results/job_00643.csv

@@ -1,0 +1,5 @@
+Task 337/399
+Solver: minisat
+CNF: benchmarks/minxor128.cnf
+Done: minisat minxor128.cnf UNSAT 241.56s
+Saved results_minisat/job_00337.csv

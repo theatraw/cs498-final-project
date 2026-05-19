@@ -1,0 +1,5 @@
+Task 895/1199
+Solver: glucose
+CNF: benchmarks/spg_420_280.cnf
+Done: glucose spg_420_280.cnf UNSAT 214.33s
+Saved results/job_00895.csv

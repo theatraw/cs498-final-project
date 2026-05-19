@@ -1,0 +1,5 @@
+Task 710/1199
+Solver: maplesat
+CNF: benchmarks/6g_6color_366_050_04.cnf
+Done: maplesat 6g_6color_366_050_04.cnf TIMEOUT 300.00s
+Saved results/job_00710.csv

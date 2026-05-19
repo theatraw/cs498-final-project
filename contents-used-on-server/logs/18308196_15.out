@@ -1,0 +1,5 @@
+Task 15/1199
+Solver: cadical
+CNF: benchmarks/ContextModel_output_8_4_10.bul.dimacs.cnf
+Done: cadical ContextModel_output_8_4_10.bul.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00015.csv

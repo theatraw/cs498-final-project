@@ -1,0 +1,5 @@
+Task 928/1199
+Solver: glucose
+CNF: benchmarks/intervals467.cnf
+Done: glucose intervals467.cnf TIMEOUT 300.00s
+Saved results/job_00928.csv

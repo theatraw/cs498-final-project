@@ -1,0 +1,5 @@
+Task 399/399
+Solver: minisat
+CNF: benchmarks/rand_net50-60-10.shuffled.cnf
+Done: minisat rand_net50-60-10.shuffled.cnf UNSAT 39.58s
+Saved results_minisat/job_00399.csv

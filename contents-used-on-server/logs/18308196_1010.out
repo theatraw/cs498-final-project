@@ -1,0 +1,5 @@
+Task 1010/1199
+Solver: maplesat
+CNF: benchmarks/grs-192-160.cnf
+Done: maplesat grs-192-160.cnf TIMEOUT 300.00s
+Saved results/job_01010.csv

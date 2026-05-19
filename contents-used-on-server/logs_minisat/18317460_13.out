@@ -1,0 +1,5 @@
+Task 13/399
+Solver: minisat
+CNF: benchmarks/iso-brn100.shuffled-as.sat05-3025.cnf
+Done: minisat iso-brn100.shuffled-as.sat05-3025.cnf SAT 0.04s
+Saved results_minisat/job_00013.csv

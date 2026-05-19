@@ -1,0 +1,5 @@
+Task 432/1199
+Solver: cadical
+CNF: benchmarks/rphp_p60_r60.cnf
+Done: cadical rphp_p60_r60.cnf TIMEOUT 300.00s
+Saved results/job_00432.csv

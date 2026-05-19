@@ -1,0 +1,5 @@
+Task 238/399
+Solver: minisat
+CNF: benchmarks/c499_gr_2pin_w6.shuffled.cnf
+Done: minisat c499_gr_2pin_w6.shuffled.cnf SAT 0.18s
+Saved results_minisat/job_00238.csv

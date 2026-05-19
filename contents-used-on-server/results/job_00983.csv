@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,mrpp_8x8#22_10.cnf,benchmarks/mrpp_8x8#22_10.cnf,UNSAT,0.2952249050140381,20,False,False,12133,72758,725183,53,8918,71958,0.275905,100866,0.126299

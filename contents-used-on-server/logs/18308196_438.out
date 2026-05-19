@@ -1,0 +1,5 @@
+Task 438/1199
+Solver: cadical
+CNF: benchmarks/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf
+Done: cadical mod4block_2vars_10gates_u2_autoenc-sc2009.cnf SAT 92.54s
+Saved results/job_00438.csv

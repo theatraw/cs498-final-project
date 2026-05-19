@@ -1,0 +1,5 @@
+Task 28/1199
+Solver: glucose
+CNF: benchmarks/sgen3-n260-s62321009-sat.cnf
+Done: glucose sgen3-n260-s62321009-sat.cnf TIMEOUT 300.00s
+Saved results/job_00028.csv

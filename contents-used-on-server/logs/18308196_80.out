@@ -1,0 +1,5 @@
+Task 80/1199
+Solver: maplesat
+CNF: benchmarks/satsgi-n23himBHm26-p0-q248.cnf
+Done: maplesat satsgi-n23himBHm26-p0-q248.cnf SAT 0.03s
+Saved results/job_00080.csv

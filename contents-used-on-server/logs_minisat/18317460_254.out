@@ -1,0 +1,5 @@
+Task 254/399
+Solver: minisat
+CNF: benchmarks/rphp_p8_r250.cnf
+Done: minisat rphp_p8_r250.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00254.csv

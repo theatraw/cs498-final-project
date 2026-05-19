@@ -1,0 +1,5 @@
+Task 384/1199
+Solver: cadical
+CNF: benchmarks/pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf
+Done: cadical pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf TIMEOUT 300.00s
+Saved results/job_00384.csv

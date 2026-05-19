@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,CNF_to_alien_12.cnf,benchmarks/CNF_to_alien_12.cnf,UNSAT,0.817633867263794,20,False,False,41375,47309,1486936,418,,,,40342,7346,23520,1631,317,0.8,0.81,68.0,20

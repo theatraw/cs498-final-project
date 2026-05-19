@@ -1,0 +1,5 @@
+Task 997/1199
+Solver: glucose
+CNF: benchmarks/rbsat-v1150c84314gyes10.cnf
+Done: glucose rbsat-v1150c84314gyes10.cnf TIMEOUT 300.00s
+Saved results/job_00997.csv

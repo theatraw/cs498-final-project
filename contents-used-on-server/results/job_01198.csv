@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,rand_net50-60-10.shuffled.cnf,benchmarks/rand_net50-60-10.shuffled.cnf,UNSAT,5.687594175338745,20,False,False,72923,117773,26717435,168,6000,17901,5.62522,285,7,48338,36.0,1785,1087,24,285

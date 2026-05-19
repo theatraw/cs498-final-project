@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf,benchmarks/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf,SAT,10.676791429519653,10,False,False,193329,687920,62874306,8470,,,,184879,137833,21889,12189,5071,10.51,10.66,68.0,10

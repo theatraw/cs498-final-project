@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,hash_table_find_safety_size_12.cnf,benchmarks/hash_table_find_safety_size_12.cnf,UNSAT,130.5377721786499,20,False,False,6361,23496319,125830482,188,,,,4506,219,15197442,15245,454,125.21,129.74,9853.3,20

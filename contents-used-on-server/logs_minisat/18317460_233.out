@@ -1,0 +1,5 @@
+Task 233/399
+Solver: minisat
+CNF: benchmarks/REGRandom-K3-L3-Seed10.cnf
+Done: minisat REGRandom-K3-L3-Seed10.cnf UNSAT 117.26s
+Saved results_minisat/job_00233.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,lisa19_99_a.shuffled.cnf,benchmarks/lisa19_99_a.shuffled.cnf,SAT,1.3349077701568604,10,False,False,28217,37228,4963760,89,1201,6428,1.31244,2,4,16185,35.0,624,163,2,722

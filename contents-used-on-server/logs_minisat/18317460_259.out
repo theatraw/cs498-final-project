@@ -1,0 +1,5 @@
+Task 259/399
+Solver: minisat
+CNF: benchmarks/crafted_n12_d6_c4_num4.cnf
+Done: minisat crafted_n12_d6_c4_num4.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00259.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,minxor128.cnf,benchmarks/minxor128.cnf,UNSAT,241.5584156513214,20,False,False,2367352,12696978,571114177,4095,54258,160467,239.464,530752126,563.54

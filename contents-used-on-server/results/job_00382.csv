@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf,benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf,UNSAT,1.3086214065551758,20,False,False,9889,84599,4183749,52,64138,181071,1.17527,0,2,3690,13.0,1355,242,33,310

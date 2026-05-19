@@ -1,0 +1,5 @@
+Task 704/1199
+Solver: maplesat
+CNF: benchmarks/square.2.0.i.smt2-cvc4.cnf
+Done: maplesat square.2.0.i.smt2-cvc4.cnf UNSAT 5.54s
+Saved results/job_00704.csv

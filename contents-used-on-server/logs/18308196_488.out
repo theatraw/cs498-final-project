@@ -1,0 +1,5 @@
+Task 488/1199
+Solver: maplesat
+CNF: benchmarks/IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf
+Done: maplesat IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf TIMEOUT 300.00s
+Saved results/job_00488.csv

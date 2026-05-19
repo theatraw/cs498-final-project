@@ -1,0 +1,5 @@
+Task 689/1199
+Solver: maplesat
+CNF: benchmarks/posixpath__joinrealpath_13.cnf
+Done: maplesat posixpath__joinrealpath_13.cnf TIMEOUT 300.00s
+Saved results/job_00689.csv

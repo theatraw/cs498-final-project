@@ -1,0 +1,5 @@
+Task 1197/1199
+Solver: cadical
+CNF: benchmarks/rand_net50-60-10.shuffled.cnf
+Done: cadical rand_net50-60-10.shuffled.cnf UNSAT 0.06s
+Saved results/job_01197.csv

@@ -1,0 +1,5 @@
+Task 923/1199
+Solver: maplesat
+CNF: benchmarks/WCNFPlus_from_fp_13.cnf
+Done: maplesat WCNFPlus_from_fp_13.cnf TIMEOUT 300.00s
+Saved results/job_00923.csv

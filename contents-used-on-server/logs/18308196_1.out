@@ -1,0 +1,5 @@
+Task 1/1199
+Solver: glucose
+CNF: benchmarks/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf
+Done: glucose asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf SAT 263.75s
+Saved results/job_00001.csv

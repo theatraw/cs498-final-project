@@ -1,0 +1,5 @@
+Task 169/399
+Solver: minisat
+CNF: benchmarks/LZMAFile_write_12.cnf
+Done: minisat LZMAFile_write_12.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00169.csv

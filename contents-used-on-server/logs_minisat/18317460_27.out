@@ -1,0 +1,5 @@
+Task 27/399
+Solver: minisat
+CNF: benchmarks/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf
+Done: minisat goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf UNSAT 77.31s
+Saved results_minisat/job_00027.csv

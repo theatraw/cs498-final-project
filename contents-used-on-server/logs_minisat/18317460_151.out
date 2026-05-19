@@ -1,0 +1,5 @@
+Task 151/399
+Solver: minisat
+CNF: benchmarks/WCNF_from_fp_13.cnf
+Done: minisat WCNF_from_fp_13.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00151.csv

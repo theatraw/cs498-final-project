@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,minxor128.cnf,benchmarks/minxor128.cnf,UNSAT,75.89624500274658,20,False,False,1171417,7518810,200742615,9071,54258,160467,75.2259,6039,29,895471,102.0,1997,941,61,3238

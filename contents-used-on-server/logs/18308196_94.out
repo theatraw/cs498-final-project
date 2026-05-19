@@ -1,0 +1,5 @@
+Task 94/1199
+Solver: glucose
+CNF: benchmarks/Urquhart-s5-b4.shuffled.cnf
+Done: glucose Urquhart-s5-b4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00094.csv

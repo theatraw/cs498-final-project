@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,brent_51_0.07.cnf,benchmarks/brent_51_0.07.cnf,TIMEOUT,300,,True,False,,,,,,,

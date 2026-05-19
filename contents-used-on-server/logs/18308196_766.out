@@ -1,0 +1,5 @@
+Task 766/1199
+Solver: glucose
+CNF: benchmarks/grs-128-64.cnf
+Done: glucose grs-128-64.cnf TIMEOUT 300.00s
+Saved results/job_00766.csv

@@ -1,0 +1,5 @@
+Task 23/1199
+Solver: maplesat
+CNF: benchmarks/eqspctbk14spwtcl14.cnf
+Done: maplesat eqspctbk14spwtcl14.cnf TIMEOUT 300.00s
+Saved results/job_00023.csv

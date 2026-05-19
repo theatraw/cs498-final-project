@@ -1,0 +1,5 @@
+Task 304/399
+Solver: minisat
+CNF: benchmarks/grid_10_20.shuffled.cnf
+Done: minisat grid_10_20.shuffled.cnf UNSAT 0.02s
+Saved results_minisat/job_00304.csv

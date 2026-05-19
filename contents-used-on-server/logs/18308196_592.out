@@ -1,0 +1,5 @@
+Task 592/1199
+Solver: glucose
+CNF: benchmarks/pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf
+Done: glucose pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf UNSAT 0.09s
+Saved results/job_00592.csv

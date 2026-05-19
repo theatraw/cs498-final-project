@@ -1,0 +1,5 @@
+Task 127/399
+Solver: minisat
+CNF: benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf
+Done: minisat hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf UNSAT 1.64s
+Saved results_minisat/job_00127.csv

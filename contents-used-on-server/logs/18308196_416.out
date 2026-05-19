@@ -1,0 +1,5 @@
+Task 416/1199
+Solver: maplesat
+CNF: benchmarks/WS_500_16_90_70.apx_2_DC-ST.cnf
+Done: maplesat WS_500_16_90_70.apx_2_DC-ST.cnf UNSAT 85.38s
+Saved results/job_00416.csv

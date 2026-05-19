@@ -1,0 +1,5 @@
+Task 357/399
+Solver: minisat
+CNF: benchmarks/6s20-sc2013.cnf
+Done: minisat 6s20-sc2013.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00357.csv

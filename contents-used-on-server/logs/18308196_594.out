@@ -1,0 +1,5 @@
+Task 594/1199
+Solver: cadical
+CNF: benchmarks/g2-slp-synthesis-aes-top29.cnf
+Done: cadical g2-slp-synthesis-aes-top29.cnf SAT 68.40s
+Saved results/job_00594.csv

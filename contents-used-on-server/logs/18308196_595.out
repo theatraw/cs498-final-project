@@ -1,0 +1,5 @@
+Task 595/1199
+Solver: glucose
+CNF: benchmarks/g2-slp-synthesis-aes-top29.cnf
+Done: glucose g2-slp-synthesis-aes-top29.cnf TIMEOUT 300.00s
+Saved results/job_00595.csv

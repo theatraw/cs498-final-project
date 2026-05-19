@@ -1,0 +1,5 @@
+Task 324/1199
+Solver: cadical
+CNF: benchmarks/ContextModel_output_7_3_9.bul_.dimacs.cnf
+Done: cadical ContextModel_output_7_3_9.bul_.dimacs.cnf SAT 81.97s
+Saved results/job_00324.csv

@@ -1,0 +1,5 @@
+Task 188/399
+Solver: minisat
+CNF: benchmarks/ContextModel_output_8_4_9.bul.dimacs.cnf
+Done: minisat ContextModel_output_8_4_9.bul.dimacs.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00188.csv

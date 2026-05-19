@@ -1,0 +1,5 @@
+Task 527/1199
+Solver: maplesat
+CNF: benchmarks/PRP_30_35.cnf
+Done: maplesat PRP_30_35.cnf SAT 209.52s
+Saved results/job_00527.csv

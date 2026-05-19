@@ -1,0 +1,5 @@
+Task 459/1199
+Solver: cadical
+CNF: benchmarks/32_0.cnf
+Done: cadical 32_0.cnf TIMEOUT 300.00s
+Saved results/job_00459.csv

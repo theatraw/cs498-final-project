@@ -1,0 +1,5 @@
+Task 78/1199
+Solver: cadical
+CNF: benchmarks/satsgi-n23himBHm26-p0-q248.cnf
+Done: cadical satsgi-n23himBHm26-p0-q248.cnf SAT 0.02s
+Saved results/job_00078.csv

@@ -1,0 +1,5 @@
+Task 701/1199
+Solver: maplesat
+CNF: benchmarks/REGRandom-K3-L3-Seed10.cnf
+Done: maplesat REGRandom-K3-L3-Seed10.cnf TIMEOUT 300.00s
+Saved results/job_00701.csv

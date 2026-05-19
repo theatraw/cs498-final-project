@@ -1,0 +1,5 @@
+Task 128/399
+Solver: minisat
+CNF: benchmarks/pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf
+Done: minisat pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00128.csv

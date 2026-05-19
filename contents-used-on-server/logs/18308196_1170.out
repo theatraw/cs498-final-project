@@ -1,0 +1,5 @@
+Task 1170/1199
+Solver: cadical
+CNF: benchmarks/mchess20-mixed-45percent-blocked.cnf
+Done: cadical mchess20-mixed-45percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_01170.csv

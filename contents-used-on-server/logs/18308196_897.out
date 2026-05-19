@@ -1,0 +1,5 @@
+Task 897/1199
+Solver: cadical
+CNF: benchmarks/SCPC-700-81.cnf
+Done: cadical SCPC-700-81.cnf SAT 30.55s
+Saved results/job_00897.csv

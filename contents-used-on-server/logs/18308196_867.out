@@ -1,0 +1,5 @@
+Task 867/1199
+Solver: cadical
+CNF: benchmarks/php-010-009.shuffled-as.sat05-1185.cnf
+Done: cadical php-010-009.shuffled-as.sat05-1185.cnf UNSAT 3.11s
+Saved results/job_00867.csv

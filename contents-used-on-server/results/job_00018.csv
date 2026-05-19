@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,CNFPlus_from_fp_12.cnf,benchmarks/CNFPlus_from_fp_12.cnf,UNSAT,1.1351089477539062,20,False,False,45617,50160,2350638,611,,,,44874,9845,24739,1500,297,1.09,1.11,67.0,20

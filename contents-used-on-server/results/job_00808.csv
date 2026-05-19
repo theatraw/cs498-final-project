@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,ibm-2004-03-k70.cnf,benchmarks/ibm-2004-03-k70.cnf,SAT,0.8465049266815186,10,False,False,10231,39789,3235140,43,69839,275980,0.790944,5,2,3724,14.0,1074,502,30,957

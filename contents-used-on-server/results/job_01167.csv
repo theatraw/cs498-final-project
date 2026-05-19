@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,rbsat-v760c43649gyes5.cnf,benchmarks/rbsat-v760c43649gyes5.cnf,SAT,43.24169182777405,10,False,False,831208,1347575,181091514,28358,,,,806337,534844,222435,65527,6595,42.91,43.23,68.0,10

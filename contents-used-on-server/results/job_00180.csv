@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,DivU_624_11.cnf.sanitized.cnf,benchmarks/DivU_624_11.cnf.sanitized.cnf,UNSAT,12.155758619308472,20,False,False,84449,809039,1034630,330,,,,32034,12095,69572,55537,1269,11.99,12.13,201.98,20

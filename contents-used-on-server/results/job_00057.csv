@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,benchmarks/mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,SAT,1.8931336402893066,10,False,False,33291,169733,8112448,2138,,,,32462,23393,1895,2470,217,1.86,1.88,67.0,10

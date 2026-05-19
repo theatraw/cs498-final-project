@@ -1,0 +1,5 @@
+Task 258/1199
+Solver: cadical
+CNF: benchmarks/StreamReader_readline_13.cnf
+Done: cadical StreamReader_readline_13.cnf UNSAT 107.89s
+Saved results/job_00258.csv

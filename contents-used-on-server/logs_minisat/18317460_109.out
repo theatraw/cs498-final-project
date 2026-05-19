@@ -1,0 +1,5 @@
+Task 109/399
+Solver: minisat
+CNF: benchmarks/hash_table_find_safety_size_13.cnf
+Done: minisat hash_table_find_safety_size_13.cnf UNSAT 36.94s
+Saved results_minisat/job_00109.csv

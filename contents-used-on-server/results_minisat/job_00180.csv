@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,ferry8_ks99i.renamed-as.sat05-4005.cnf,benchmarks/ferry8_ks99i.renamed-as.sat05-4005.cnf,SAT,0.27376317977905273,10,False,False,11788,32827,1647342,51,2547,32472,0.220712,152778,84.56

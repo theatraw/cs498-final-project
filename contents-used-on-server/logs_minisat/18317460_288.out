@@ -1,0 +1,5 @@
+Task 288/399
+Solver: minisat
+CNF: benchmarks/rphp_p20_r20.cnf
+Done: minisat rphp_p20_r20.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00288.csv

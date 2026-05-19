@@ -1,0 +1,5 @@
+Task 1167/1199
+Solver: cadical
+CNF: benchmarks/rbsat-v760c43649gyes5.cnf
+Done: cadical rbsat-v760c43649gyes5.cnf SAT 43.24s
+Saved results/job_01167.csv

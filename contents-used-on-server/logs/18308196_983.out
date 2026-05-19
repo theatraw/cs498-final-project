@@ -1,0 +1,5 @@
+Task 983/1199
+Solver: maplesat
+CNF: benchmarks/mrpp_8x8#22_10.cnf
+Done: maplesat mrpp_8x8#22_10.cnf UNSAT 0.30s
+Saved results/job_00983.csv

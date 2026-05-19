@@ -1,0 +1,5 @@
+Task 149/1199
+Solver: maplesat
+CNF: benchmarks/php18-mixed-15percent-blocked.cnf
+Done: maplesat php18-mixed-15percent-blocked.cnf TIMEOUT 300.00s
+Saved results/job_00149.csv

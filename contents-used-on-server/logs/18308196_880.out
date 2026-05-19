@@ -1,0 +1,5 @@
+Task 880/1199
+Solver: glucose
+CNF: benchmarks/asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf
+Done: glucose asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf SAT 90.22s
+Saved results/job_00880.csv

@@ -1,0 +1,5 @@
+Task 727/1199
+Solver: glucose
+CNF: benchmarks/tph8.cnf
+Done: glucose tph8.cnf TIMEOUT 300.00s
+Saved results/job_00727.csv

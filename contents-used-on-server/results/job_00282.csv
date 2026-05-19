@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf,benchmarks/combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf,SAT,33.16533350944519,10,False,False,763783,1358010,53383017,16288,,,,744055,634278,52150,27115,4918,32.93,33.16,67.0,10

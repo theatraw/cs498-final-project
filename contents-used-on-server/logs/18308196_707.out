@@ -1,0 +1,5 @@
+Task 707/1199
+Solver: maplesat
+CNF: benchmarks/Schur_160_5_d34.cnf
+Done: maplesat Schur_160_5_d34.cnf TIMEOUT 300.00s
+Saved results/job_00707.csv

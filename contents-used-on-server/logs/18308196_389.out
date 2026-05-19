@@ -1,0 +1,5 @@
+Task 389/1199
+Solver: maplesat
+CNF: benchmarks/TimetableCNFEncoding_20_UNKNOWN.cnf
+Done: maplesat TimetableCNFEncoding_20_UNKNOWN.cnf TIMEOUT 300.00s
+Saved results/job_00389.csv

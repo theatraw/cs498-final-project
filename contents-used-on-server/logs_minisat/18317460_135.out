@@ -1,0 +1,5 @@
+Task 135/399
+Solver: minisat
+CNF: benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf
+Done: minisat pyhala-braun-sat-35-4-04.shuffled.cnf SAT 22.70s
+Saved results_minisat/job_00135.csv

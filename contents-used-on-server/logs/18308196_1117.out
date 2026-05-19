@@ -1,0 +1,5 @@
+Task 1117/1199
+Solver: glucose
+CNF: benchmarks/46bits_11.dimacs.cnf
+Done: glucose 46bits_11.dimacs.cnf SAT 261.11s
+Saved results/job_01117.csv

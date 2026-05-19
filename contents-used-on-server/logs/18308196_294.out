@@ -1,0 +1,5 @@
+Task 294/1199
+Solver: cadical
+CNF: benchmarks/REGRandom-K4-L3-Seed15.cnf
+Done: cadical REGRandom-K4-L3-Seed15.cnf TIMEOUT 300.00s
+Saved results/job_00294.csv

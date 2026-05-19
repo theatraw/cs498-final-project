@@ -1,0 +1,5 @@
+Task 383/1199
+Solver: maplesat
+CNF: benchmarks/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf
+Done: maplesat hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf UNSAT 2.03s
+Saved results/job_00383.csv

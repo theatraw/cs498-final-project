@@ -1,0 +1,5 @@
+Task 457/1199
+Solver: glucose
+CNF: benchmarks/new-difficult-26-243-24-70.cnf
+Done: glucose new-difficult-26-243-24-70.cnf TIMEOUT 300.00s
+Saved results/job_00457.csv

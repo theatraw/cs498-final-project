@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,clqcolor-08-06-07.shuffled-as.sat05-1257.cnf,benchmarks/clqcolor-08-06-07.shuffled-as.sat05-1257.cnf,UNSAT,3.1991899013519287,20,False,False,232189,320271,3109221,643,132,1527,3.15394,21,17,177931,13.0,227,208,24,3997

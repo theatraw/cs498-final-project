@@ -1,0 +1,5 @@
+Task 914/1199
+Solver: maplesat
+CNF: benchmarks/grid_10_20.shuffled.cnf
+Done: maplesat grid_10_20.shuffled.cnf UNSAT 0.01s
+Saved results/job_00914.csv

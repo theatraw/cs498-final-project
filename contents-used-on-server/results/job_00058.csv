@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,benchmarks/mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf,SAT,1.123089075088501,10,False,False,35305,98211,3254531,285,2396,83733,1.08185,39,4,16193,33.0,38,25,0,30

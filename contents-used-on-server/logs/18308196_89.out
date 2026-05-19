@@ -1,0 +1,5 @@
+Task 89/1199
+Solver: maplesat
+CNF: benchmarks/par32-4.shuffled.cnf
+Done: maplesat par32-4.shuffled.cnf TIMEOUT 300.00s
+Saved results/job_00089.csv

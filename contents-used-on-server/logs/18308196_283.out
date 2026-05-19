@@ -1,0 +1,5 @@
+Task 283/1199
+Solver: glucose
+CNF: benchmarks/combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf
+Done: glucose combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf TIMEOUT 300.00s
+Saved results/job_00283.csv

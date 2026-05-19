@@ -1,0 +1,5 @@
+Task 98/399
+Solver: minisat
+CNF: benchmarks/REGRandom-K4-L3-Seed15.cnf
+Done: minisat REGRandom-K4-L3-Seed15.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00098.csv

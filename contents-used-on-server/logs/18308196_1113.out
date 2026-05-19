@@ -1,0 +1,5 @@
+Task 1113/1199
+Solver: cadical
+CNF: benchmarks/grs-192-256.cnf
+Done: cadical grs-192-256.cnf TIMEOUT 300.00s
+Saved results/job_01113.csv

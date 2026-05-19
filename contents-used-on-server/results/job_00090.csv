@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,SCPC-800-41.cnf,benchmarks/SCPC-800-41.cnf,SAT,13.038963317871094,10,False,False,276046,347776,18822906,2343,,,,268317,124966,105675,53405,989,12.92,13.03,68.0,10

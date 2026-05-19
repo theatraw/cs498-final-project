@@ -1,0 +1,5 @@
+Task 392/399
+Solver: minisat
+CNF: benchmarks/TableSymModel_output_8_4_8.bul_.dimacs.cnf
+Done: minisat TableSymModel_output_8_4_8.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00392.csv

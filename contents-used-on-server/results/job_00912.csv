@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,grid_10_20.shuffled.cnf,benchmarks/grid_10_20.shuffled.cnf,UNSAT,0.0293581485748291,20,False,False,,,0,,,,,,,10,253,,0.02,0.02,68.0,20

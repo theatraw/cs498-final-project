@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,grs-96-32.cnf,benchmarks/grs-96-32.cnf,UNSAT,40.147440671920776,20,False,False,406951,1634000,259334566,12576,,,,387876,193340,124630,114804,3977,39.63,40.02,90.49,20

@@ -1,0 +1,5 @@
+Task 873/1199
+Solver: cadical
+CNF: benchmarks/hash_table_find_safety_size_19.cnf
+Done: cadical hash_table_find_safety_size_19.cnf UNSAT 272.50s
+Saved results/job_00873.csv

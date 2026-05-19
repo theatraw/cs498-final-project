@@ -1,0 +1,5 @@
+Task 877/1199
+Solver: glucose
+CNF: benchmarks/sat-bench-trig-taylor2.cnf
+Done: glucose sat-bench-trig-taylor2.cnf UNSAT 89.91s
+Saved results/job_00877.csv

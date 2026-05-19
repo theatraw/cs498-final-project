@@ -1,0 +1,5 @@
+Task 1183/1199
+Solver: glucose
+CNF: benchmarks/SCPC-800-43.cnf
+Done: glucose SCPC-800-43.cnf TIMEOUT 300.00s
+Saved results/job_01183.csv

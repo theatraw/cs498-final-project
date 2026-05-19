@@ -1,0 +1,5 @@
+Task 372/399
+Solver: minisat
+CNF: benchmarks/46bits_11.dimacs.cnf
+Done: minisat 46bits_11.dimacs.cnf SAT 294.24s
+Saved results_minisat/job_00372.csv

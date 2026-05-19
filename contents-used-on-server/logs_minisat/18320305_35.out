@@ -1,0 +1,5 @@
+Task 35/399
+Solver: minisat
+CNF: benchmarks/10pipe_q0_k.cnf
+Done: minisat 10pipe_q0_k.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00035.csv

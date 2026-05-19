@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,patat-08-comp-3.cnf,benchmarks/patat-08-comp-3.cnf,SAT,5.95765233039856,10,False,False,93886,820622,23583981,255,78774,1616620,5.76218,3735686,234.92

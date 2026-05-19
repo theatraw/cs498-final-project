@@ -1,0 +1,5 @@
+Task 657/1199
+Solver: cadical
+CNF: benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf
+Done: cadical qwh.40.560.shuffled-as.sat03-1654.cnf SAT 8.40s
+Saved results/job_00657.csv

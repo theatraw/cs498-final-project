@@ -1,0 +1,5 @@
+Task 107/1199
+Solver: maplesat
+CNF: benchmarks/10pipe_q0_k.cnf
+Done: maplesat 10pipe_q0_k.cnf TIMEOUT 300.00s
+Saved results/job_00107.csv

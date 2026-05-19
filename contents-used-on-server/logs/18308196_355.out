@@ -1,0 +1,5 @@
+Task 355/1199
+Solver: glucose
+CNF: benchmarks/gensys-icl002.shuffled-as.sat05-2714.cnf
+Done: glucose gensys-icl002.shuffled-as.sat05-2714.cnf UNSAT 5.40s
+Saved results/job_00355.csv

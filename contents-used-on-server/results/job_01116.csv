@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,46bits_11.dimacs.cnf,benchmarks/46bits_11.dimacs.cnf,SAT,217.2814769744873,10,False,False,1928367,3207941,202727086,106903,,,,1897750,1500139,291315,110030,18263,215.34,217.27,68.0,10

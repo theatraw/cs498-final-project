@@ -1,0 +1,5 @@
+Task 451/1199
+Solver: glucose
+CNF: benchmarks/php17-mixed-35percent-blocked.cnf
+Done: glucose php17-mixed-35percent-blocked.cnf UNSAT 88.89s
+Saved results/job_00451.csv

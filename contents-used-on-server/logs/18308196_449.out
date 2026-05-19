@@ -1,0 +1,5 @@
+Task 449/1199
+Solver: maplesat
+CNF: benchmarks/stb_418_125.apx_2_DC-ST.cnf
+Done: maplesat stb_418_125.apx_2_DC-ST.cnf UNSAT 256.49s
+Saved results/job_00449.csv

@@ -1,0 +1,5 @@
+Task 327/399
+Solver: minisat
+CNF: benchmarks/mrpp_8x8#22_10.cnf
+Done: minisat mrpp_8x8#22_10.cnf UNSAT 0.20s
+Saved results_minisat/job_00327.csv

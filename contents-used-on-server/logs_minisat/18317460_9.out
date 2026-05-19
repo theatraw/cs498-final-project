@@ -1,0 +1,5 @@
+Task 9/399
+Solver: minisat
+CNF: benchmarks/sgen3-n260-s62321009-sat.cnf
+Done: minisat sgen3-n260-s62321009-sat.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00009.csv

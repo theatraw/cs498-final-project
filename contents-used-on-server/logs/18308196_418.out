@@ -1,0 +1,5 @@
+Task 418/1199
+Solver: glucose
+CNF: benchmarks/multiplier_16bits__miter_19.cnf
+Done: glucose multiplier_16bits__miter_19.cnf TIMEOUT 300.00s
+Saved results/job_00418.csv

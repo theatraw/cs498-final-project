@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,qwh.40.560.shuffled-as.sat03-1654.cnf,benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf,SAT,18.402591943740845,10,False,False,223042,706881,79470825,511,3100,26345,18.1643,33099390,140.83

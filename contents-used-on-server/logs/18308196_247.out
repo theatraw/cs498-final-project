@@ -1,0 +1,5 @@
+Task 247/1199
+Solver: glucose
+CNF: benchmarks/asconhashv12_opt64_H4_M2-ldRf_m1_2_U21.c.cnf
+Done: glucose asconhashv12_opt64_H4_M2-ldRf_m1_2_U21.c.cnf UNSAT 102.07s
+Saved results/job_00247.csv

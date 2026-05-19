@@ -1,0 +1,5 @@
+Task 250/399
+Solver: minisat
+CNF: benchmarks/g2-T99.2.0.cnf
+Done: minisat g2-T99.2.0.cnf UNSAT 28.95s
+Saved results_minisat/job_00250.csv

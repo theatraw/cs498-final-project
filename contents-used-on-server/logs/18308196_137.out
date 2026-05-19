@@ -1,0 +1,5 @@
+Task 137/1199
+Solver: maplesat
+CNF: benchmarks/os_fwalk_12.cnf
+Done: maplesat os_fwalk_12.cnf TIMEOUT 300.00s
+Saved results/job_00137.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,vmpc_28.shuffled-as.sat05-1957.cnf,benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf,SAT,221.82023239135742,10,False,False,2483545,4706495,331168762,72250,,,,2394884,1571161,683014,24927,18487,215.75,221.79,68.0,10

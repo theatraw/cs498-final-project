@@ -1,0 +1,5 @@
+Task 112/1199
+Solver: glucose
+CNF: benchmarks/lisa19_99_a.shuffled.cnf
+Done: glucose lisa19_99_a.shuffled.cnf SAT 1.33s
+Saved results/job_00112.csv

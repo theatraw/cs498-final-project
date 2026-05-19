@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,shift1add.28943.cnf,benchmarks/shift1add.28943.cnf,UNSAT,44.46330404281616,20,False,False,31410,19716265,113125219,116,636737,1128757,43.7847,109924,0.002335

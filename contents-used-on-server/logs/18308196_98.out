@@ -1,0 +1,5 @@
+Task 98/1199
+Solver: maplesat
+CNF: benchmarks/6s166.cnf
+Done: maplesat 6s166.cnf TIMEOUT 300.00s
+Saved results/job_00098.csv

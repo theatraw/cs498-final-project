@@ -1,0 +1,5 @@
+Task 312/1199
+Solver: cadical
+CNF: benchmarks/SCPC-900-27.cnf
+Done: cadical SCPC-900-27.cnf SAT 14.84s
+Saved results/job_00312.csv

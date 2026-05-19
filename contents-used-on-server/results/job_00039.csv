@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,iso-brn100.shuffled-as.sat05-3025.cnf,benchmarks/iso-brn100.shuffled-as.sat05-3025.cnf,SAT,0.06442666053771973,10,False,False,167,9197,19920,4,,,,158,,1953,705,,0.03,0.03,67.0,10

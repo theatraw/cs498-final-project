@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,vmpc_28.shuffled-as.sat05-1957.cnf,benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf,SAT,25.124215364456177,10,False,False,711400,1244381,97467746,1533,784,108080,24.7389,20144633,0.115813

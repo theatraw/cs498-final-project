@@ -1,0 +1,5 @@
+Task 29/399
+Solver: minisat
+CNF: benchmarks/par32-4.shuffled.cnf
+Done: minisat par32-4.shuffled.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00029.csv

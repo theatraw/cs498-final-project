@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf,benchmarks/SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf,SAT,108.04367113113403,10,False,False,486547,20474985,222312634,1023,250975,815307,106.808,75615143,551.68

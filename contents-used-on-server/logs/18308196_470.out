@@ -1,0 +1,5 @@
+Task 470/1199
+Solver: maplesat
+CNF: benchmarks/goldcrest-and-16.cnf
+Done: maplesat goldcrest-and-16.cnf TIMEOUT 300.00s
+Saved results/job_00470.csv

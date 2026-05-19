@@ -1,0 +1,5 @@
+Task 705/1199
+Solver: cadical
+CNF: benchmarks/Schur_160_5_d34.cnf
+Done: cadical Schur_160_5_d34.cnf TIMEOUT 300.00s
+Saved results/job_00705.csv

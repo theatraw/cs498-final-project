@@ -1,0 +1,5 @@
+Task 469/1199
+Solver: glucose
+CNF: benchmarks/goldcrest-and-16.cnf
+Done: glucose goldcrest-and-16.cnf TIMEOUT 300.00s
+Saved results/job_00469.csv

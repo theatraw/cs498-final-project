@@ -1,0 +1,5 @@
+Task 676/1199
+Solver: glucose
+CNF: benchmarks/tseitin_d3_n110000.cnf
+Done: glucose tseitin_d3_n110000.cnf TIMEOUT 300.00s
+Saved results/job_00676.csv

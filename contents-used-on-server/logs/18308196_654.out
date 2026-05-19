@@ -1,0 +1,5 @@
+Task 654/1199
+Solver: cadical
+CNF: benchmarks/ER_500_10_5.apx_2_DC-ST.cnf
+Done: cadical ER_500_10_5.apx_2_DC-ST.cnf TIMEOUT 300.00s
+Saved results/job_00654.csv

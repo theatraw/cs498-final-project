@@ -1,0 +1,5 @@
+Task 250/1199
+Solver: glucose
+CNF: benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf
+Done: glucose vmpc_28.shuffled-as.sat05-1957.cnf SAT 84.50s
+Saved results/job_00250.csv

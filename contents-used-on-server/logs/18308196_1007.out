@@ -1,0 +1,5 @@
+Task 1007/1199
+Solver: maplesat
+CNF: benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf
+Done: maplesat rovers1_ks99i.renamed-as.sat05-3971.cnf SAT 0.02s
+Saved results/job_01007.csv

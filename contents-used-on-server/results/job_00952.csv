@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf,benchmarks/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf,SAT,0.07556366920471191,10,False,False,2584,3093,191174,2,556,6427,0.06078,0,1,994,26.0,15,1,0,0

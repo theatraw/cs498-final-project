@@ -1,0 +1,5 @@
+Task 726/1199
+Solver: cadical
+CNF: benchmarks/tph8.cnf
+Done: cadical tph8.cnf UNSAT 270.52s
+Saved results/job_00726.csv

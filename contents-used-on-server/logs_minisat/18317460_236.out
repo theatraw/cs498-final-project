@@ -1,0 +1,5 @@
+Task 236/399
+Solver: minisat
+CNF: benchmarks/6g_6color_366_050_04.cnf
+Done: minisat 6g_6color_366_050_04.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00236.csv

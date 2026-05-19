@@ -1,0 +1,5 @@
+Task 388/1199
+Solver: glucose
+CNF: benchmarks/TimetableCNFEncoding_20_UNKNOWN.cnf
+Done: glucose TimetableCNFEncoding_20_UNKNOWN.cnf TIMEOUT 300.00s
+Saved results/job_00388.csv

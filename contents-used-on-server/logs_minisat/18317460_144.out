@@ -1,0 +1,5 @@
+Task 144/399
+Solver: minisat
+CNF: benchmarks/rphp_p60_r60.cnf
+Done: minisat rphp_p60_r60.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00144.csv

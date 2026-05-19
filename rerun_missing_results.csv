@@ -1,0 +1,6 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+maplesat,BZ2File_write_11.cnf,benchmarks/BZ2File_write_11.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,
+cadical,PRP_30_41.cnf,benchmarks/PRP_30_41.cnf,SAT,11.335402011871338,10.0,False,398389.0,2463690.0,32586563.0,16905.0,,,,357756.0,225750.0,249824.0,229114.0,,11.2,11.3,805440.0,10.0
+cadical,SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf,benchmarks/SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf,SAT,26.82978081703186,10.0,False,321903.0,18620701.0,206369857.0,16730.0,,,,305511.0,196983.0,124980.0,172332.0,6641.0,26.76,26.81,670592.0,10.0
+cadical,TableSymModel_output_8_4_8.bul_.dimacs.cnf,benchmarks/TableSymModel_output_8_4_8.bul_.dimacs.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,
+maplesat,tseitin_grid_n100_m100.cnf,benchmarks/tseitin_grid_n100_m100.cnf,TIMEOUT,150.0,,True,,,,,,,,,,,,,,,,

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,pyhala-braun-sat-35-4-04.shuffled.cnf,benchmarks/pyhala-braun-sat-35-4-04.shuffled.cnf,SAT,9.020526885986328,10,False,False,102849,133865,43675128,258,7383,24097,8.90977,4022143,0.241687

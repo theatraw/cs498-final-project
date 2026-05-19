@@ -1,0 +1,5 @@
+Task 145/399
+Solver: minisat
+CNF: benchmarks/mchess18-mixed-25percent-blocked.cnf
+Done: minisat mchess18-mixed-25percent-blocked.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00145.csv

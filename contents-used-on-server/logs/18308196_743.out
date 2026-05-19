@@ -1,0 +1,5 @@
+Task 743/1199
+Solver: maplesat
+CNF: benchmarks/brent_63_0.2.cnf
+Done: maplesat brent_63_0.2.cnf TIMEOUT 300.00s
+Saved results/job_00743.csv

@@ -1,0 +1,5 @@
+Task 1006/1199
+Solver: glucose
+CNF: benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf
+Done: glucose rovers1_ks99i.renamed-as.sat05-3971.cnf SAT 0.01s
+Saved results/job_01006.csv

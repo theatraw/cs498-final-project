@@ -1,0 +1,5 @@
+Task 182/1199
+Solver: maplesat
+CNF: benchmarks/DivU_624_11.cnf.sanitized.cnf
+Done: maplesat DivU_624_11.cnf.sanitized.cnf UNSAT 79.50s
+Saved results/job_00182.csv

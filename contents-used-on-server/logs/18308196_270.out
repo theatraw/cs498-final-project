@@ -1,0 +1,5 @@
+Task 270/1199
+Solver: cadical
+CNF: benchmarks/grs-192-32.cnf
+Done: cadical grs-192-32.cnf UNSAT 95.24s
+Saved results/job_00270.csv

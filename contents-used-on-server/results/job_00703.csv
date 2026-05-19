@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,square.2.0.i.smt2-cvc4.cnf,benchmarks/square.2.0.i.smt2-cvc4.cnf,UNSAT,1.846524953842163,20,False,False,12782,46888,12197270,42,42387,183641,1.7565,25,2,3690,19.0,1352,544,47,460

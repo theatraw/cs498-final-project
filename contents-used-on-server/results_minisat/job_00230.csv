@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,UNSAT,16.100624799728394,20,False,False,7767636,11849327,47380361,12286,45,376,15.9979,102246015,82.2

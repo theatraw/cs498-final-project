@@ -1,0 +1,5 @@
+Task 380/399
+Solver: minisat
+CNF: benchmarks/DivU_1520_10.cnf.sanitized.cnf
+Done: minisat DivU_1520_10.cnf.sanitized.cnf UNSAT 41.82s
+Saved results_minisat/job_00380.csv

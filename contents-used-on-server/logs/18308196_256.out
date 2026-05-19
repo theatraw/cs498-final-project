@@ -1,0 +1,5 @@
+Task 256/1199
+Solver: glucose
+CNF: benchmarks/15pipe_q0_k.cnf
+Done: glucose 15pipe_q0_k.cnf TIMEOUT 300.00s
+Saved results/job_00256.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,hash_table_find_safety_size_13.cnf,benchmarks/hash_table_find_safety_size_13.cnf,UNSAT,51.559717416763306,20,False,False,5490,590764,97006007,29,6472782,25795161,49.5225,695810,0.005074

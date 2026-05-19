@@ -1,0 +1,5 @@
+Task 242/399
+Solver: minisat
+CNF: benchmarks/tph8.cnf
+Done: minisat tph8.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00242.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,3col120_5_2.shuffled.cnf,benchmarks/3col120_5_2.shuffled.cnf,SAT,0.04712963104248047,10,False,False,712,764,40981,,,,,695,121,66,1061,,0.02,0.03,68.0,10

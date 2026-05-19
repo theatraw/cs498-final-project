@@ -1,0 +1,5 @@
+Task 981/1199
+Solver: cadical
+CNF: benchmarks/mrpp_8x8#22_10.cnf
+Done: cadical mrpp_8x8#22_10.cnf UNSAT 0.59s
+Saved results/job_00981.csv

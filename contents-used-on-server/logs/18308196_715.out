@@ -1,0 +1,5 @@
+Task 715/1199
+Solver: glucose
+CNF: benchmarks/c499_gr_2pin_w6.shuffled.cnf
+Done: glucose c499_gr_2pin_w6.shuffled.cnf SAT 0.15s
+Saved results/job_00715.csv

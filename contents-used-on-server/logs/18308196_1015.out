@@ -1,0 +1,5 @@
+Task 1015/1199
+Solver: glucose
+CNF: benchmarks/Grain_no_init_ver1_out200_known_last105_0_u.cnf
+Done: glucose Grain_no_init_ver1_out200_known_last105_0_u.cnf TIMEOUT 300.00s
+Saved results/job_01015.csv

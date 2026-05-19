@@ -1,0 +1,5 @@
+Task 1136/1199
+Solver: maplesat
+CNF: benchmarks/C208_FA_UT_3254.cnf
+Done: maplesat C208_FA_UT_3254.cnf UNSAT 0.03s
+Saved results/job_01136.csv

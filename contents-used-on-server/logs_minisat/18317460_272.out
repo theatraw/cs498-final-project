@@ -1,0 +1,5 @@
+Task 272/399
+Solver: minisat
+CNF: benchmarks/PRP_30_37.cnf
+Done: minisat PRP_30_37.cnf SAT 131.74s
+Saved results_minisat/job_00272.csv

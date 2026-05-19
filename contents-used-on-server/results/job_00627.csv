@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,brent_51_0.07.cnf,benchmarks/brent_51_0.07.cnf,SAT,45.5117073059082,10,False,False,641914,8802188,180217514,20430,,,,555014,432480,31889,98134,6426,44.94,45.49,93.32,10

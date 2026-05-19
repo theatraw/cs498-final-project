@@ -1,0 +1,5 @@
+Task 175/1199
+Solver: glucose
+CNF: benchmarks/SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf
+Done: glucose SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf TIMEOUT 300.00s
+Saved results/job_00175.csv

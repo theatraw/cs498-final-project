@@ -1,0 +1,5 @@
+Task 507/1199
+Solver: cadical
+CNF: benchmarks/LZMAFile_write_12.cnf
+Done: cadical LZMAFile_write_12.cnf UNSAT 77.62s
+Saved results/job_00507.csv

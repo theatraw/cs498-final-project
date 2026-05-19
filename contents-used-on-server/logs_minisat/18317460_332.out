@@ -1,0 +1,5 @@
+Task 332/399
+Solver: minisat
+CNF: benchmarks/rbsat-v1150c84314gyes10.cnf
+Done: minisat rbsat-v1150c84314gyes10.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00332.csv

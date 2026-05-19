@@ -1,0 +1,5 @@
+Task 130/1199
+Solver: glucose
+CNF: benchmarks/5col100_15_6.shuffled.cnf
+Done: glucose 5col100_15_6.shuffled.cnf UNSAT 47.45s
+Saved results/job_00130.csv

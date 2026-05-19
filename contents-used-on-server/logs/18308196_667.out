@@ -1,0 +1,5 @@
+Task 667/1199
+Solver: glucose
+CNF: benchmarks/spg_200_307.cnf
+Done: glucose spg_200_307.cnf UNSAT 101.07s
+Saved results/job_00667.csv

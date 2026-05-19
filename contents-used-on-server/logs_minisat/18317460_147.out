@@ -1,0 +1,5 @@
+Task 147/399
+Solver: minisat
+CNF: benchmarks/Schur_161_5_d40.cnf
+Done: minisat Schur_161_5_d40.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00147.csv

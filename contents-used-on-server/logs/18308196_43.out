@@ -1,0 +1,5 @@
+Task 43/1199
+Solver: glucose
+CNF: benchmarks/ContextModel_output_8_4_8.bul_.dimacs.cnf
+Done: glucose ContextModel_output_8_4_8.bul_.dimacs.cnf TIMEOUT 300.00s
+Saved results/job_00043.csv

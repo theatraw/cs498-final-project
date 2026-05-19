@@ -1,0 +1,5 @@
+Task 265/399
+Solver: minisat
+CNF: benchmarks/multiplier_14bits__miter_14.cnf
+Done: minisat multiplier_14bits__miter_14.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00265.csv

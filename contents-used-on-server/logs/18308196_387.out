@@ -1,0 +1,5 @@
+Task 387/1199
+Solver: cadical
+CNF: benchmarks/TimetableCNFEncoding_20_UNKNOWN.cnf
+Done: cadical TimetableCNFEncoding_20_UNKNOWN.cnf SAT 75.88s
+Saved results/job_00387.csv

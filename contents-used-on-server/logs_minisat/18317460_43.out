@@ -1,0 +1,5 @@
+Task 43/399
+Solver: minisat
+CNF: benchmarks/5col100_15_6.shuffled.cnf
+Done: minisat 5col100_15_6.shuffled.cnf UNSAT 10.39s
+Saved results_minisat/job_00043.csv

@@ -1,0 +1,5 @@
+Task 1131/1199
+Solver: cadical
+CNF: benchmarks/hash_table_find_safety_size_30.cnf
+Done: cadical hash_table_find_safety_size_30.cnf KILLED 156.01s
+Saved results/job_01131.csv

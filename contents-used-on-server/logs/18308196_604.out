@@ -1,0 +1,5 @@
+Task 604/1199
+Solver: glucose
+CNF: benchmarks/iso-ukn004.shuffled-as.sat05-3385.cnf
+Done: glucose iso-ukn004.shuffled-as.sat05-3385.cnf SAT 0.07s
+Saved results/job_00604.csv

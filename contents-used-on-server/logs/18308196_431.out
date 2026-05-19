@@ -1,0 +1,5 @@
+Task 431/1199
+Solver: maplesat
+CNF: benchmarks/mrpp_4x4#12_12.cnf
+Done: maplesat mrpp_4x4#12_12.cnf UNSAT 24.33s
+Saved results/job_00431.csv

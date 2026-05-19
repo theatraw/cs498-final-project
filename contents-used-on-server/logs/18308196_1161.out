@@ -1,0 +1,5 @@
+Task 1161/1199
+Solver: cadical
+CNF: benchmarks/WCNFPlus_to_alien_14.cnf
+Done: cadical WCNFPlus_to_alien_14.cnf UNSAT 264.40s
+Saved results/job_01161.csv

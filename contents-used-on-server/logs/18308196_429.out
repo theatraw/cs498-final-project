@@ -1,0 +1,5 @@
+Task 429/1199
+Solver: cadical
+CNF: benchmarks/mrpp_4x4#12_12.cnf
+Done: cadical mrpp_4x4#12_12.cnf UNSAT 5.77s
+Saved results/job_00429.csv

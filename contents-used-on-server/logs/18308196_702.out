@@ -1,0 +1,5 @@
+Task 702/1199
+Solver: cadical
+CNF: benchmarks/square.2.0.i.smt2-cvc4.cnf
+Done: cadical square.2.0.i.smt2-cvc4.cnf UNSAT 3.86s
+Saved results/job_00702.csv

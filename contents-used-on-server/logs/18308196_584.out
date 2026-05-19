@@ -1,0 +1,5 @@
+Task 584/1199
+Solver: maplesat
+CNF: benchmarks/cliquecoloring_n18_k7_c6.cnf
+Done: maplesat cliquecoloring_n18_k7_c6.cnf TIMEOUT 300.00s
+Saved results/job_00584.csv

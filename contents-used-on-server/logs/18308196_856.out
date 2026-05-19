@@ -1,0 +1,5 @@
+Task 856/1199
+Solver: glucose
+CNF: benchmarks/brent_69_0.05.cnf
+Done: glucose brent_69_0.05.cnf TIMEOUT 300.00s
+Saved results/job_00856.csv

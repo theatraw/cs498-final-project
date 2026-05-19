@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,or_randxor_k3_n520_m520.cnf,benchmarks/or_randxor_k3_n520_m520.cnf,UNSAT,1.3963532447814941,20,False,False,50193,57490,4409462,941,,,,48921,21731,22735,5038,998,1.34,1.38,68.0,20

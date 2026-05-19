@@ -1,0 +1,5 @@
+Task 1079/1199
+Solver: maplesat
+CNF: benchmarks/WS_400_24_70_10.apx_2_DC-AD.cnf
+Done: maplesat WS_400_24_70_10.apx_2_DC-AD.cnf UNSAT 250.36s
+Saved results/job_01079.csv

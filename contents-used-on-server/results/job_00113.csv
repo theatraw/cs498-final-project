@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,lisa19_99_a.shuffled.cnf,benchmarks/lisa19_99_a.shuffled.cnf,SAT,3.1616768836975098,10,False,False,66946,85868,13056328,205,1201,6428,3.12014,2441157,0.239353

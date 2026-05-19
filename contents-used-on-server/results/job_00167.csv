@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,ER_400_20_7.apx_1_DC-ST.cnf,benchmarks/ER_400_20_7.apx_1_DC-ST.cnf,UNSAT,267.58262276649475,20,False,False,3007457,4122124,170939844,5242,802,48438,265.591,208146073,0.146527

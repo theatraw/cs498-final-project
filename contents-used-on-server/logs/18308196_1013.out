@@ -1,0 +1,5 @@
+Task 1013/1199
+Solver: maplesat
+CNF: benchmarks/minxor128.cnf
+Done: maplesat minxor128.cnf TIMEOUT 300.00s
+Saved results/job_01013.csv

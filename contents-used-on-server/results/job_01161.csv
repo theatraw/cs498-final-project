@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,WCNFPlus_to_alien_14.cnf,benchmarks/WCNFPlus_to_alien_14.cnf,UNSAT,264.4034335613251,20,False,False,4498680,5057567,199202015,110723,,,,4424191,2078020,2091649,131321,5939,262.56,264.39,73.33,20

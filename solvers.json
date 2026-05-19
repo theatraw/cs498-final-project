@@ -1,0 +1,5 @@
+{
+  "cadical": "/Users/theaat2/Gurobi/final-project/cadical/build/cadical",
+  "glucose": "/Users/theaat2/Gurobi/final-project/glucose/simp/glucose",
+  "maplesat": "/Users/theaat2/Gurobi/final-project/maplesat/simp/maplesat_static"
+}

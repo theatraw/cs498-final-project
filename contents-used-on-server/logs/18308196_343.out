@@ -1,0 +1,5 @@
+Task 343/1199
+Solver: glucose
+CNF: benchmarks/sat-bench-trig-bhaskara.cnf
+Done: glucose sat-bench-trig-bhaskara.cnf UNSAT 179.27s
+Saved results/job_00343.csv

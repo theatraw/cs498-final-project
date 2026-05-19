@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,em_11_3_4_cmp.cnf,benchmarks/em_11_3_4_cmp.cnf,SAT,135.42944741249084,10,False,False,664686,17514165,477447742,31506,,,,638959,400483,50664,183914,15079,134.0,135.41,78.59,10

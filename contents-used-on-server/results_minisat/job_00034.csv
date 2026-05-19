@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported
+minisat,preimage_80r_490m_160h_seed_150.cnf,benchmarks/preimage_80r_490m_160h_seed_150.cnf,TIMEOUT,300,,True,False,,,,,,,

@@ -1,0 +1,5 @@
+Task 806/1199
+Solver: maplesat
+CNF: benchmarks/PRP_30_39.cnf
+Done: maplesat PRP_30_39.cnf SAT 234.56s
+Saved results/job_00806.csv

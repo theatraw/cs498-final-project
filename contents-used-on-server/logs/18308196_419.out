@@ -1,0 +1,5 @@
+Task 419/1199
+Solver: maplesat
+CNF: benchmarks/multiplier_16bits__miter_19.cnf
+Done: maplesat multiplier_16bits__miter_19.cnf TIMEOUT 300.00s
+Saved results/job_00419.csv

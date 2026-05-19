@@ -1,0 +1,5 @@
+Task 656/1199
+Solver: maplesat
+CNF: benchmarks/ER_500_10_5.apx_2_DC-ST.cnf
+Done: maplesat ER_500_10_5.apx_2_DC-ST.cnf TIMEOUT 300.00s
+Saved results/job_00656.csv

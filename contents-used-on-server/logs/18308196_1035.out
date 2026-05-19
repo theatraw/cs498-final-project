@@ -1,0 +1,5 @@
+Task 1035/1199
+Solver: cadical
+CNF: benchmarks/9vliw_bp_mc.shuffled.cnf
+Done: cadical 9vliw_bp_mc.shuffled.cnf UNSAT 8.19s
+Saved results/job_01035.csv

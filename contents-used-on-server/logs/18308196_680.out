@@ -1,0 +1,5 @@
+Task 680/1199
+Solver: maplesat
+CNF: benchmarks/DivS_568_11.cnf.sanitized.cnf
+Done: maplesat DivS_568_11.cnf.sanitized.cnf SAT 88.63s
+Saved results/job_00680.csv

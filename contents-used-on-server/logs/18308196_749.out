@@ -1,0 +1,5 @@
+Task 749/1199
+Solver: maplesat
+CNF: benchmarks/satch2ways16w.cnf
+Done: maplesat satch2ways16w.cnf TIMEOUT 300.00s
+Saved results/job_00749.csv

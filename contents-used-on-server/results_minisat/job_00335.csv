@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,rovers1_ks99i.renamed-as.sat05-3971.cnf,benchmarks/rovers1_ks99i.renamed-as.sat05-3971.cnf,SAT,0.015410900115966797,10,False,False,7,37,301,1,439,5389,0.007628,63,82.46

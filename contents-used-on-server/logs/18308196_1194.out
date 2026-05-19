@@ -1,0 +1,5 @@
+Task 1194/1199
+Solver: cadical
+CNF: benchmarks/CNP-5-1100.cnf
+Done: cadical CNP-5-1100.cnf SAT 65.66s
+Saved results/job_01194.csv

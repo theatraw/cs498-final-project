@@ -1,0 +1,5 @@
+Task 569/1199
+Solver: maplesat
+CNF: benchmarks/mchess16-mixed-25percent-blocked.cnf
+Done: maplesat mchess16-mixed-25percent-blocked.cnf UNSAT 52.43s
+Saved results/job_00569.csv

@@ -1,0 +1,5 @@
+Task 433/1199
+Solver: glucose
+CNF: benchmarks/rphp_p60_r60.cnf
+Done: glucose rphp_p60_r60.cnf TIMEOUT 300.00s
+Saved results/job_00433.csv

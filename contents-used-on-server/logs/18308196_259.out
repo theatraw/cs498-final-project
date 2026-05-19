@@ -1,0 +1,5 @@
+Task 259/1199
+Solver: glucose
+CNF: benchmarks/StreamReader_readline_13.cnf
+Done: glucose StreamReader_readline_13.cnf TIMEOUT 300.00s
+Saved results/job_00259.csv

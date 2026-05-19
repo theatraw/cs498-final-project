@@ -1,0 +1,5 @@
+Task 577/1199
+Solver: glucose
+CNF: benchmarks/SCPC-700-88.cnf
+Done: glucose SCPC-700-88.cnf TIMEOUT 300.00s
+Saved results/job_00577.csv

@@ -1,0 +1,5 @@
+Task 651/1199
+Solver: cadical
+CNF: benchmarks/asconhashv12_opt64_H4_M2-LOD9_m0_2_U19.c.cnf
+Done: cadical asconhashv12_opt64_H4_M2-LOD9_m0_2_U19.c.cnf UNSAT 284.39s
+Saved results/job_00651.csv

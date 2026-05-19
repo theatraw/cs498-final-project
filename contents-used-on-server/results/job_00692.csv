@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,benchmarks/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf,UNSAT,1.8771193027496338,20,False,False,278961,391078,1563046,655,45,376,1.84808,3472757,0.813679

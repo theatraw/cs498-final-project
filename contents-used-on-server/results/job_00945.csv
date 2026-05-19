@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,TableSymModel_output_8_4_7.bul_.dimacs.cnf,benchmarks/TableSymModel_output_8_4_7.bul_.dimacs.cnf,SAT,108.50201320648193,10,False,False,1300804,19964741,709988688,49311,,,,1258989,1136655,55696,92338,8443,107.52,108.48,68.0,10

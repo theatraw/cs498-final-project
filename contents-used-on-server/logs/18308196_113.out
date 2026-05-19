@@ -1,0 +1,5 @@
+Task 113/1199
+Solver: maplesat
+CNF: benchmarks/lisa19_99_a.shuffled.cnf
+Done: maplesat lisa19_99_a.shuffled.cnf SAT 3.16s
+Saved results/job_00113.csv

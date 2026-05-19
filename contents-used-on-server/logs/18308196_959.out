@@ -1,0 +1,5 @@
+Task 959/1199
+Solver: maplesat
+CNF: benchmarks/GzipFile_close_11.cnf
+Done: maplesat GzipFile_close_11.cnf TIMEOUT 300.00s
+Saved results/job_00959.csv

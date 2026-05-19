@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,ER_400_20_4.apx_1_DC-ST.cnf,benchmarks/ER_400_20_4.apx_1_DC-ST.cnf,UNSAT,231.1954345703125,20,False,False,7606883,10000552,302909331,207761,,,,7367355,2975674,3896295,596462,141731,229.1,231.18,68.0,20

@@ -1,0 +1,5 @@
+Task 389/399
+Solver: minisat
+CNF: benchmarks/rbsat-v760c43649gyes5.cnf
+Done: minisat rbsat-v760c43649gyes5.cnf SAT 4.45s
+Saved results_minisat/job_00389.csv

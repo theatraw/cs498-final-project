@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,vmpc_24.cnf,benchmarks/vmpc_24.cnf,SAT,7.2087767124176025,10,False,False,279202,558727,27799312,655,576,67872,7.11811,6218636,0.129206

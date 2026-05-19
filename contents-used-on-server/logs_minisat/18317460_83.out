@@ -1,0 +1,5 @@
+Task 83/399
+Solver: minisat
+CNF: benchmarks/vmpc_28.shuffled-as.sat05-1957.cnf
+Done: minisat vmpc_28.shuffled-as.sat05-1957.cnf SAT 49.90s
+Saved results_minisat/job_00083.csv

@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf,benchmarks/unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf,UNSAT,144.22320699691772,20,False,False,9866879,12179547,154434623,16377,205,4549,143.196,192884730,0.704014

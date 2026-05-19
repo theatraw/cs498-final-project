@@ -1,0 +1,5 @@
+Task 17/399
+Solver: minisat
+CNF: benchmarks/shift1add.28943.cnf
+Done: minisat shift1add.28943.cnf UNSAT 12.58s
+Saved results_minisat/job_00017.csv

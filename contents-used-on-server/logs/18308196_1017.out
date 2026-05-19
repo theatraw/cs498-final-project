@@ -1,0 +1,5 @@
+Task 1017/1199
+Solver: cadical
+CNF: benchmarks/asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf
+Done: cadical asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf TIMEOUT 300.00s
+Saved results/job_01017.csv

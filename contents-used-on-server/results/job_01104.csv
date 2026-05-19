@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,learned_clauses,reduced,subsumed,strengthened,vivified,process_time_reported,real_time_reported,memory_reported_mb,exit_code_reported
+cadical,ncc_none_7047_6_3_3_0_0_420.cnf,benchmarks/ncc_none_7047_6_3_3_0_0_420.cnf,UNSAT,137.18174052238464,20,False,False,45132,59925168,111369306,553,,,,33039,944,261307,423139,1094,135.84,137.11,1556.41,20

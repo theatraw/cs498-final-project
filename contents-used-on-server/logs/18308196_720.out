@@ -1,0 +1,5 @@
+Task 720/1199
+Solver: cadical
+CNF: benchmarks/hash_table_find_safety_size_10.cnf
+Done: cadical hash_table_find_safety_size_10.cnf UNSAT 118.39s
+Saved results/job_00720.csv

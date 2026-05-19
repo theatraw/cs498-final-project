@@ -1,0 +1,5 @@
+Task 351/1199
+Solver: cadical
+CNF: benchmarks/rbsat-v760c43649gyes10.cnf
+Done: cadical rbsat-v760c43649gyes10.cnf SAT 22.06s
+Saved results/job_00351.csv

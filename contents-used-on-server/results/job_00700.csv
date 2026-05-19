@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,blocked_restarts,reduce_db_calls,removed_clauses,avg_learnt_size,learnts_dl2,learnts_size2,learnts_size1,reduced_clauses
+glucose,REGRandom-K3-L3-Seed10.cnf,benchmarks/REGRandom-K3-L3-Seed10.cnf,UNSAT,72.15247321128845,20,False,False,3250724,13707201,55780379,9904,4608,474496,71.086,4864,61,2783068,99.0,555,437,336,15302

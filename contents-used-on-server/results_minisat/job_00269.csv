@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,ibm-2004-03-k70.cnf,benchmarks/ibm-2004-03-k70.cnf,SAT,2.9308862686157227,10,False,False,54586,168286,19854678,169,69839,275980,2.78198,1160338,116.95

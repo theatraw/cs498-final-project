@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,actual_reward
+maplesat,stb_588_138.apx_2_DC-ST.cnf,benchmarks/stb_588_138.apx_2_DC-ST.cnf,UNSAT,83.59854316711426,20,False,False,1348682,1609001,219971922,2558,1176,13472,82.4697,42887700,0.09998

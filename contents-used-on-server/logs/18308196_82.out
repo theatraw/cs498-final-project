@@ -1,0 +1,5 @@
+Task 82/1199
+Solver: glucose
+CNF: benchmarks/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf
+Done: glucose goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf UNSAT 14.17s
+Saved results/job_00082.csv

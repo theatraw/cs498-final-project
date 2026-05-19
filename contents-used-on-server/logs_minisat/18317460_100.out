@@ -1,0 +1,5 @@
+Task 100/399
+Solver: minisat
+CNF: benchmarks/LZMAFile___init___14.cnf
+Done: minisat LZMAFile___init___14.cnf TIMEOUT 300.00s
+Saved results_minisat/job_00100.csv

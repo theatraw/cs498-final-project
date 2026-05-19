@@ -1,0 +1,5 @@
+Task 296/1199
+Solver: maplesat
+CNF: benchmarks/REGRandom-K4-L3-Seed15.cnf
+Done: maplesat REGRandom-K4-L3-Seed15.cnf TIMEOUT 300.00s
+Saved results/job_00296.csv

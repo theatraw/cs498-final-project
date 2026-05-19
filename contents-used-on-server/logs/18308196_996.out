@@ -1,0 +1,5 @@
+Task 996/1199
+Solver: cadical
+CNF: benchmarks/rbsat-v1150c84314gyes10.cnf
+Done: cadical rbsat-v1150c84314gyes10.cnf TIMEOUT 300.00s
+Saved results/job_00996.csv

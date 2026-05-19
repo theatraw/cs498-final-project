@@ -1,0 +1,5 @@
+Task 659/1199
+Solver: maplesat
+CNF: benchmarks/qwh.40.560.shuffled-as.sat03-1654.cnf
+Done: maplesat qwh.40.560.shuffled-as.sat03-1654.cnf SAT 24.85s
+Saved results/job_00659.csv

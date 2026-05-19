@@ -1,0 +1,5 @@
+Task 668/1199
+Solver: maplesat
+CNF: benchmarks/spg_200_307.cnf
+Done: maplesat spg_200_307.cnf TIMEOUT 300.00s
+Saved results/job_00668.csv

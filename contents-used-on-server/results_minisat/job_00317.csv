@@ -1,0 +1,2 @@
+solver,instance,path,status,runtime_sec,returncode,timeout,killed,conflicts,decisions,propagations,restarts,variables,clauses,cpu_time_reported,conflict_literals,memory_reported_mb
+minisat,connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf,benchmarks/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf,SAT,0.15300464630126953,10,False,False,6028,8057,494913,30,556,6427,0.110233,132780,82.96
